@@ -1,6 +1,6 @@
-# $ \textbf{Project for course AT82.04 RTML 2022}$
+# Project for course AT82.04 RTML 2022
 
-## $ \textbf{Forex-Prediction} $
+## Forex-Prediction
 
 
 #### Team members
