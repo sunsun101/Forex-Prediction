@@ -6,8 +6,8 @@
 #### Team members
 
 1. Lin Tun Naing (st122403)  
-2. Amanda Shrestha (st122283)  
-3. Sunsun Kasajoo (st122245) 
+2. Amanda Shrestha (st122245)  
+3. Sunsun Kasajoo (st122283) 
 
 #### References
 
@@ -17,3 +17,5 @@
 4. <a href="https://github.com/jdb78/pytorch-forecasting">Pytorch Forecasting (Github)</a>
 5. <a href="https://towardsdatascience.com/introducing-pytorch-forecasting-64de99b9ef46">Introducing Pytorch Forecasting (Towards Data Science)</a>
 6. <a href="https://pytorch-lightning.readthedocs.io/en/latest/">Pytorch Lightning (Documentation)</a>
+
+Link for the IEEE format paper - https://www.overleaf.com/project/626e8e135e41703037fceb5c
