@@ -19,3 +19,5 @@
 6. <a href="https://pytorch-lightning.readthedocs.io/en/latest/">Pytorch Lightning (Documentation)</a>
 
 Link for the IEEE format paper - https://www.overleaf.com/project/626e8e135e41703037fceb5c
+
+Link for presentation slides - https://docs.google.com/presentation/d/1QbY7INOV0cNqGFofm_uU8DlhZNPDDBKkasoM-5xovzU/edit?usp=sharing
