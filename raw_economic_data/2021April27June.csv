@@ -1,0 +1,1682 @@
+Date,Event,Impact,Previous,Consensus,Actual,Currency
+"2021, April 27, 01:00","(Finland) Consumer Confidence",Low,-3.00,-1.0,3.80,EUR
+"2021, April 27, 02:00","(Lithuania) Retail Sales MoM",Low,5.50%,,21.80%,EUR
+"2021, April 27, 02:00","(Lithuania) Retail Sales YoY",Low,-0.10%,2.2%,20.90%,EUR
+"2021, April 27, 04:00","(Italy) Consumer Confidence",Medium,100.90,102.0,102.30,EUR
+"2021, April 27, 04:00","(Italy) Business Confidence",Medium,101.20,102.5,105.40,EUR
+"2021, April 27, 06:00","(France) Jobseekers Total",Low,3576.60K,3621.6K,3557.90K,EUR
+"2021, April 27, 06:00","(France) Unemployment Benefit Claims",Medium,22.90K,45.0K,-16.80K,EUR
+"2021, April 27, 08:55","(United States) Redbook YoY",Low,13.50%,,13.90%,USD
+"2021, April 27, 09:00","(United States) S&P/Case-Shiller Home Price MoM",Medium,0.90%,0.8%,1.20%,USD
+"2021, April 27, 09:00","(United States) S&P/Case-Shiller Home Price YoY",Medium,11.10%,11.7%,11.90%,USD
+"2021, April 27, 09:00","(United States) House Price Index MoM",Low,1.00%,0.8%,0.90%,USD
+"2021, April 27, 09:00","(United States) House Price Index YoY",Low,12.00%,11.9%,12.20%,USD
+"2021, April 27, 10:00","(United States) CB Consumer Confidence",Medium,109.70,113.0,121.70,USD
+"2021, April 27, 10:00","(United States) Richmond Fed Manufacturing Index",Low,17.00,19.0,17.00,USD
+"2021, April 27, 11:30","(United States) 2-Year FRN Auction",Low,0.04%,,0.03%,USD
+"2021, April 27, 11:30","(United States) 42-Day Bill Auction",Low,0.01%,,0.01%,USD
+"2021, April 27, 13:00","(United States) 7-Year Note Auction",Low,1.30%,,1.31%,USD
+"2021, April 27, 16:30","(United States) API Crude Oil Stock Change",Medium,0.44M,0.375M,4.32M,USD
+"2021, April 27, 20:00","(United States) President Biden Speech",Medium,,,,USD
+"2021, April 28, 02:00","(Germany) GfK Consumer Confidence",High,-6.20,-3.5,-8.80,EUR
+"2021, April 28, 02:45","(France) Consumer Confidence",Medium,94.00,93.0,94.00,EUR
+"2021, April 28, 04:00","(Austria) Bank Austria Manufacturing PMI",High,63.40,61.0,64.70,EUR
+"2021, April 28, 05:00","(Cyprus) Industrial Production YoY",Low,-6.70%,-5.5%,-7.60%,EUR
+"2021, April 28, 05:00","(Montenegro) Retail Sales MoM",Low,8.60%,,15.10%,EUR
+"2021, April 28, 05:00","(Montenegro) Retail Sales YoY",Low,-9.40%,,-6.40%,EUR
+"2021, April 28, 05:00","(Montenegro) Retail Sales YoY",Low,-8.80%,-9.2%,-6.00%,EUR
+"2021, April 28, 05:00","(Montenegro) Retail Sales MoM",Low,18.40%,-25.8%,-34.30%,EUR
+"2021, April 28, 05:00","(Montenegro) Retail Sales YoY",Low,-6.00%,,-9.40%,EUR
+"2021, April 28, 05:00","(Montenegro) Retail Sales MoM",Low,-34.30%,,8.60%,EUR
+"2021, April 28, 05:00","(Montenegro) Tourist Arrivals",Low,13.50K,,9.90K,EUR
+"2021, April 28, 06:00","(Ireland) Retail Sales YoY",Low,-3.20%,10.2%,8.50%,EUR
+"2021, April 28, 06:00","(Ireland) Retail Sales MoM",Low,13.90%,-7.6%,-1.90%,EUR
+"2021, April 28, 06:00","(Latvia) Retail Sales MoM",Low,4.40%,,6.90%,EUR
+"2021, April 28, 06:00","(Latvia) Retail Sales YoY",Low,-8.50%,-2.3%,3.20%,EUR
+"2021, April 28, 06:45","(Italy) 6-Month BOT Auction",Low,-0.49%,,-0.48%,EUR
+"2021, April 28, 07:00","(United States) MBA Mortgage Applications",Low,8.60%,,-2.50%,USD
+"2021, April 28, 07:00","(United States) MBA 30-Year Mortgage Rate",Low,3.20%,,3.17%,USD
+"2021, April 28, 08:30","(United States) Wholesale Inventories MoM",Medium,0.60%,0.4%,1.40%,USD
+"2021, April 28, 08:30","(United States) Goods Trade Balance",High,-$87.07B,$-85.0B,-$90.59B,USD
+"2021, April 28, 10:30","(United States) EIA Heating Oil Stocks Change",Low,0.56M,,-0.17M,USD
+"2021, April 28, 10:30","(United States) EIA Gasoline Stocks Change",Medium,0.09M,0.508M,0.09M,USD
+"2021, April 28, 10:30","(United States) EIA Refinery Crude Runs Change",Low,-0.29M,,0.25M,USD
+"2021, April 28, 10:30","(United States) EIA Cushing Crude Oil Stocks Change",Medium,-1.32M,,0.72M,USD
+"2021, April 28, 10:30","(United States) EIA Crude Oil Imports Change",Low,-0.42M,,1.22M,USD
+"2021, April 28, 10:30","(United States) EIA Crude Oil Stocks Change",Medium,0.59M,0.659M,0.09M,USD
+"2021, April 28, 10:30","(United States) EIA Distillate Stocks Change",Low,-1.07M,-0.648M,-3.34M,USD
+"2021, April 28, 10:30","(United States) EIA Gasoline Production Change",Low,-0.23M,,0.24M,USD
+"2021, April 28, 10:30","(United States) EIA Distillate Fuel Production Change",Low,-0.09M,,0.07M,USD
+"2021, April 28, 14:00","(United States) Fed Interest Rate Decision",High,0.25%,0.25%,0.25%,USD
+"2021, April 28, 14:30","(United States) Fed Press Conference",High,,,,USD
+"2021, April 29, 00:30","(Netherlands) Business Confidence",Low,3.40,4.5,6.50,EUR
+"2021, April 29, 02:00","(Germany) Unemployment Rate Harmonised",High,4.50%,4.5%,4.50%,EUR
+"2021, April 29, 02:00","(Germany) Import Prices YoY",Low,1.40%,6.0%,6.90%,EUR
+"2021, April 29, 02:00","(Germany) Import Prices MoM",Low,1.70%,1.0%,1.80%,EUR
+"2021, April 29, 03:00","(Slovakia) Consumer Confidence",Low,-36.50,-35.8,-22.50,EUR
+"2021, April 29, 03:00","(Slovakia) Business Confidence",Low,-3.70,1.3,10.30,EUR
+"2021, April 29, 03:00","(Spain) Unemployment Rate",High,16.13%,16.6%,15.98%,EUR
+"2021, April 29, 03:00","(Spain) Inflation Rate YoY",Low,1.30%,1.9%,2.20%,EUR
+"2021, April 29, 03:00","(Spain) Inflation Rate MoM",Low,1.00%,0.9%,1.20%,EUR
+"2021, April 29, 03:00","(Spain) Harmonised Inflation Rate YoY",Low,1.20%,1.8%,1.90%,EUR
+"2021, April 29, 03:00","(Spain) Harmonised Inflation Rate MoM",Low,1.90%,0.9%,1.10%,EUR
+"2021, April 29, 03:55","(Germany) Unemployment Rate",High,6.00%,6.0%,6.00%,EUR
+"2021, April 29, 03:55","(Germany) Unemployment Change",High,-8.00K,-10.0K,9.00K,EUR
+"2021, April 29, 04:00","(Euro Area) Loans to Households YoY",Low,3.00%,2.9%,3.30%,EUR
+"2021, April 29, 04:00","(Euro Area) M3 Money Supply YoY",Low,13.30%,10.2%,10.10%,EUR
+"2021, April 29, 04:00","(Euro Area) Loans to Companies YoY",Low,7.10%,7.1%,5.30%,EUR
+"2021, April 29, 04:30","(Portugal) Business Confidence",Low,-1.10,-0.8,-0.50,EUR
+"2021, April 29, 04:30","(Portugal) Consumer Confidence",Low,-23.00,-20.0,-21.00,EUR
+"2021, April 29, 04:30","(Slovenia) Retail Sales YoY",Low,2.70%,6.3%,24.00%,EUR
+"2021, April 29, 04:30","(Slovenia) Retail Sales MoM",Low,16.40%,,3.40%,EUR
+"2021, April 29, 05:00","(Austria) Consumer Confidence",Low,-5.90,-6.5,-8.00,EUR
+"2021, April 29, 05:00","(Austria) Business Confidence",Low,1.90,2.8,12.30,EUR
+"2021, April 29, 05:00","(Belgium) GDP Growth Rate QoQ",Low,-0.10%,-0.1%,0.60%,EUR
+"2021, April 29, 05:00","(Belgium) GDP Growth Rate YoY",Low,-5.10%,-3.3%,-1.00%,EUR
+"2021, April 29, 05:00","(Cyprus) Consumer Confidence",Low,-23.00,-25.0,-18.40,EUR
+"2021, April 29, 05:00","(Cyprus) Business Confidence",Low,84.70,93.0,93.20,EUR
+"2021, April 29, 05:00","(Euro Area) Consumer Confidence",Medium,-10.80,-8.1,-8.10,EUR
+"2021, April 29, 05:00","(Euro Area) Industrial Sentiment",Low,2.00,4.0,10.70,EUR
+"2021, April 29, 05:00","(Euro Area) Services Sentiment",Low,-9.30,-8.7,2.10,EUR
+"2021, April 29, 05:00","(Euro Area) Economic Sentiment",Medium,101.00,102.2,110.30,EUR
+"2021, April 29, 05:00","(Euro Area) Consumer Inflation Expectations",Low,18.60,19.1,19.60,EUR
+"2021, April 29, 05:00","(Finland) Business Confidence",Low,0.40,2.5,9.80,EUR
+"2021, April 29, 05:00","(Greece) Retail Sales YoY",High,-3.00%,-1.8%,-1.80%,EUR
+"2021, April 29, 05:00","(Greece) PPI YoY",Low,0.00%,1.4%,9.10%,EUR
+"2021, April 29, 05:00","(Greece) Consumer Confidence",Low,-39.50,-34.0,-34.60,EUR
+"2021, April 29, 05:00","(Greece) Business Confidence",Low,96.90,98.0,97.90,EUR
+"2021, April 29, 05:00","(Italy) PPI MoM",Low,0.50%,0.3%,0.90%,EUR
+"2021, April 29, 05:00","(Italy) PPI YoY",Low,0.70%,2.1%,2.70%,EUR
+"2021, April 29, 05:00","(Luxembourg) Consumer Confidence",Low,-8.40,-6.5,-0.60,EUR
+"2021, April 29, 05:00","(Luxembourg) Business Confidence",Low,105.90,106.5,116.50,EUR
+"2021, April 29, 05:00","(Malta) Consumer Confidence",Low,-7.90,-4.5,5.20,EUR
+"2021, April 29, 05:00","(Malta) Business Confidence",Low,95.00,97.3,117.30,EUR
+"2021, April 29, 05:00","(Malta) PPI YoY",Low,0.51%,1.1%,1.04%,EUR
+"2021, April 29, 05:00","(Montenegro) Balance of Trade",Low,-€114.00M,,-€151.00M,EUR
+"2021, April 29, 05:30","(Belgium) Inflation Rate YoY",Low,0.89%,1.1%,1.23%,EUR
+"2021, April 29, 05:30","(Belgium) Inflation Rate MoM",Low,0.27%,,0.33%,EUR
+"2021, April 29, 06:00","(Latvia) GDP Growth Rate QoQ",Low,1.10%,-0.3%,-2.60%,EUR
+"2021, April 29, 06:00","(Latvia) GDP Growth Rate YoY",Low,-1.50%,-0.7%,-2.20%,EUR
+"2021, April 29, 06:00","(Portugal) Retail Sales YoY",Low,-14.50%,4.5%,-0.10%,EUR
+"2021, April 29, 06:00","(Portugal) Retail Sales MoM",Low,-0.70%,1.4%,2.20%,EUR
+"2021, April 29, 06:10","(Greece) Total Credit YoY",Low,15.90%,15.5%,15.60%,EUR
+"2021, April 29, 06:20","(Italy) 10-Year BTP Auction",Low,0.72%,,0.88%,EUR
+"2021, April 29, 06:20","(Italy) 5-Year BTP Auction",Low,0.05%,,0.17%,EUR
+"2021, April 29, 07:20","(Spain) Business Confidence",Medium,-3.70,-2.0,-1.90,EUR
+"2021, April 29, 08:00","(Germany) Harmonised Inflation Rate YoY",Low,2.00%,2.0%,2.10%,EUR
+"2021, April 29, 08:00","(Germany) Harmonised Inflation Rate MoM",Low,0.50%,0.4%,0.50%,EUR
+"2021, April 29, 08:00","(Germany) Inflation Rate MoM",Low,0.50%,0.5%,0.70%,EUR
+"2021, April 29, 08:00","(Germany) Inflation Rate YoY",Medium,1.70%,1.9%,2.00%,EUR
+"2021, April 29, 08:30","(United States) GDP Price Index QoQ",Medium,1.90%,2.5%,4.10%,USD
+"2021, April 29, 08:30","(United States) GDP Growth Rate QoQ",High,4.30%,6.1%,6.40%,USD
+"2021, April 29, 08:30","(United States) Continuing Jobless Claims",High,3674.00K,3614.0K,3660.00K,USD
+"2021, April 29, 08:30","(United States) Jobless Claims 4-week Average",High,651.00K,606.5K,611.75K,USD
+"2021, April 29, 08:30","(United States) Initial Jobless Claims",High,547.00K,549.0K,553.00K,USD
+"2021, April 29, 08:30","(United States) Core PCE Prices QoQ",Low,1.30%,2.4%,2.30%,USD
+"2021, April 29, 08:30","(United States) PCE Prices QoQ",Low,1.50%,,3.50%,USD
+"2021, April 29, 10:00","(United States) Pending Home Sales YoY",Medium,-0.50%,5.0%,23.30%,USD
+"2021, April 29, 10:00","(United States) Pending Home Sales MoM",Medium,-10.60%,5.0%,1.90%,USD
+"2021, April 29, 10:30","(United States) EIA Natural Gas Stocks Change",Low,38.00B,11.0B,15.00B,USD
+"2021, April 29, 11:00","(United States) Fed Quarles Speech",Medium,,,,USD
+"2021, April 29, 11:30","(United States) 4-Week Bill Auction",Low,0.01%,,0.00%,USD
+"2021, April 29, 11:30","(United States) 8-Week Bill Auction",Low,0.01%,,0.01%,USD
+"2021, April 29, 14:00","(United States) Fed Williams Speech",Medium,,,,USD
+"2021, April 29, 20:00","(Cyprus) Good Friday",None,,,,EUR
+"2021, April 29, 20:00","(Ecuador) Labor Day",None,,,,USD
+"2021, April 29, 20:00","(Greece) Orthodox Good Friday",None,,,,EUR
+"2021, April 29, 20:00","(Montenegro) Good Friday",None,,,,EUR
+"2021, April 30, 00:30","(Netherlands) Retail Sales YoY",Low,-2.80%,-2.3%,5.90%,EUR
+"2021, April 30, 01:00","(Estonia) Retail Sales YoY",Low,4.10%,6.2%,4.00%,EUR
+"2021, April 30, 01:00","(Estonia) Retail Sales MoM",Low,-4.80%,15.0%,10.00%,EUR
+"2021, April 30, 01:30","(France) GDP Growth Rate QoQ",Medium,-1.40%,0.1%,0.40%,EUR
+"2021, April 30, 01:30","(France) Household Consumption MoM",Low,0.00%,0.4%,-1.10%,EUR
+"2021, April 30, 02:00","(Lithuania) GDP Growth Rate YoY",Low,-1.00%,-0.8%,1.00%,EUR
+"2021, April 30, 02:00","(Lithuania) GDP Growth Rate QoQ",Low,-0.20%,-0.6%,1.80%,EUR
+"2021, April 30, 02:45","(France) Harmonised Inflation Rate MoM",Low,0.70%,0.1%,0.30%,EUR
+"2021, April 30, 02:45","(France) Harmonised Inflation Rate YoY",Low,1.40%,1.6%,1.70%,EUR
+"2021, April 30, 02:45","(France) Inflation Rate MoM",Low,0.60%,0.2%,0.20%,EUR
+"2021, April 30, 02:45","(France) PPI MoM",Low,0.80%,0.3%,1.00%,EUR
+"2021, April 30, 02:45","(France) Inflation Rate YoY",Medium,1.10%,1.3%,1.30%,EUR
+"2021, April 30, 03:00","(Austria) PPI YoY",Low,0.90%,1.6%,2.80%,EUR
+"2021, April 30, 03:00","(Austria) PPI MoM",Low,0.80%,,1.00%,EUR
+"2021, April 30, 03:00","(Austria) GDP Growth Rate YoY",Low,-5.70%,-3.0%,-2.70%,EUR
+"2021, April 30, 03:00","(Austria) GDP Growth Rate QoQ",Low,-2.70%,-1.2%,0.20%,EUR
+"2021, April 30, 03:00","(Italy) Unemployment Rate",High,10.20%,10.3%,10.10%,EUR
+"2021, April 30, 03:00","(Spain) GDP Growth Rate YoY",Medium,-8.90%,-4.2%,-4.30%,EUR
+"2021, April 30, 03:00","(Spain) GDP Growth Rate QoQ",Medium,0.00%,-0.5%,-0.50%,EUR
+"2021, April 30, 03:00","(Spain) Retail Sales MoM",High,4.20%,-3.0%,3.50%,EUR
+"2021, April 30, 03:00","(Spain) Retail Sales YoY",High,-5.90%,-6.6%,14.90%,EUR
+"2021, April 30, 04:00","(Germany) GDP Growth Rate QoQ",Medium,0.30%,-1.5%,-1.70%,EUR
+"2021, April 30, 04:00","(Germany) GDP Growth Rate YoY",Medium,-3.70%,-3.2%,-3.00%,EUR
+"2021, April 30, 04:00","(Italy) GDP Growth Rate YoY",Medium,-6.60%,-1.6%,-1.40%,EUR
+"2021, April 30, 04:00","(Italy) GDP Growth Rate QoQ",Medium,-1.90%,-0.5%,-0.40%,EUR
+"2021, April 30, 04:00","(Spain) Current Account",Low,-€1.01B,€1.0B,-€1.71B,EUR
+"2021, April 30, 04:30","(Portugal) Inflation Rate YoY",Low,0.50%,0.7%,0.50%,EUR
+"2021, April 30, 04:30","(Portugal) Inflation Rate MoM",Low,1.40%,0.5%,0.40%,EUR
+"2021, April 30, 04:30","(Portugal) GDP Growth Rate YoY",Low,-6.10%,-3.6%,-5.40%,EUR
+"2021, April 30, 04:30","(Portugal) GDP Growth Rate QoQ",Low,0.20%,-2.2%,-3.30%,EUR
+"2021, April 30, 04:30","(Slovenia) Inflation Rate YoY",Low,0.10%,1.1%,2.10%,EUR
+"2021, April 30, 04:30","(Slovenia) Harmonised Inflation Rate YoY",Low,0.10%,0.9%,2.20%,EUR
+"2021, April 30, 05:00","(Cyprus) Unemployment Rate",Low,6.80%,7.0%,7.10%,EUR
+"2021, April 30, 05:00","(Euro Area) Inflation Rate MoM",Medium,0.90%,0.5%,0.60%,EUR
+"2021, April 30, 05:00","(Euro Area) Unemployment Rate",High,8.30%,8.3%,8.10%,EUR
+"2021, April 30, 05:00","(Euro Area) GDP Growth Rate YoY",Medium,-4.90%,-2.0%,-1.80%,EUR
+"2021, April 30, 05:00","(Euro Area) GDP Growth Rate QoQ",Medium,-0.70%,-0.8%,-0.60%,EUR
+"2021, April 30, 05:00","(Euro Area) Core Inflation Rate YoY",Medium,0.90%,0.8%,0.80%,EUR
+"2021, April 30, 05:00","(Euro Area) Inflation Rate YoY",Medium,1.30%,1.6%,1.60%,EUR
+"2021, April 30, 05:00","(Italy) Harmonised Inflation Rate YoY",Low,0.60%,0.9%,1.00%,EUR
+"2021, April 30, 05:00","(Italy) Harmonised Inflation Rate MoM",Low,1.80%,0.8%,0.90%,EUR
+"2021, April 30, 05:00","(Italy) Inflation Rate MoM",Low,0.30%,0.4%,0.40%,EUR
+"2021, April 30, 05:00","(Italy) Inflation Rate YoY",Medium,0.80%,1.0%,1.10%,EUR
+"2021, April 30, 05:30","(Belgium) PPI YoY",Low,3.60%,4.0%,8.00%,EUR
+"2021, April 30, 06:00","(Portugal) Industrial Production YoY",Low,-2.40%,5.5%,5.00%,EUR
+"2021, April 30, 06:00","(Portugal) Industrial Production MoM",Low,1.20%,-0.6%,-0.90%,EUR
+"2021, April 30, 07:00","(Luxembourg) PPI YoY",Low,1.50%,2.1%,3.60%,EUR
+"2021, April 30, 08:30","(United States) Core PCE Price Index YoY",Low,1.40%,1.8%,1.80%,USD
+"2021, April 30, 08:30","(United States) Core PCE Price Index MoM",Low,0.10%,0.3%,0.40%,USD
+"2021, April 30, 08:30","(United States) PCE Price Index YoY",Medium,1.60%,1.9%,2.30%,USD
+"2021, April 30, 08:30","(United States) PCE Price Index MoM",Medium,0.20%,0.3%,0.50%,USD
+"2021, April 30, 08:30","(United States) Personal Income MoM",High,-7.10%,20.3%,21.10%,USD
+"2021, April 30, 08:30","(United States) Personal Spending MoM",High,-1.00%,4.1%,4.20%,USD
+"2021, April 30, 08:30","(United States) Employment Cost Index QoQ",Medium,0.70%,0.7%,0.90%,USD
+"2021, April 30, 08:30","(United States) Employment Cost - Benefits QoQ",Medium,0.60%,0.6%,0.60%,USD
+"2021, April 30, 08:30","(United States) Employment Cost - Wages QoQ",Medium,0.90%,0.9%,1.00%,USD
+"2021, April 30, 09:45","(United States) Chicago PMI",Medium,66.30,65.3,72.10,USD
+"2021, April 30, 10:00","(United States) Michigan Consumer Expectations",Medium,79.70,79.7,82.70,USD
+"2021, April 30, 10:00","(United States) Michigan Current Conditions",Medium,93.00,97.2,97.20,USD
+"2021, April 30, 10:00","(United States) Michigan 5 Year Inflation Expectations",Medium,2.80%,2.7%,2.70%,USD
+"2021, April 30, 10:00","(United States) Michigan Inflation Expectations",Medium,3.10%,3.7%,3.40%,USD
+"2021, April 30, 10:00","(United States) Michigan Consumer Sentiment",High,84.90,87.4,88.30,USD
+"2021, April 30, 13:00","(United States) Baker Hughes Total Rig Count",Low,438.00,,440.00,USD
+"2021, April 30, 13:00","(United States) Baker Hughes Oil Rig Count",Low,343.00,,342.00,USD
+"2021, April 30, 20:00","(Austria) Labor Day",None,,,,EUR
+"2021, April 30, 20:00","(Belgium) Labor Day",None,,,,EUR
+"2021, April 30, 20:00","(Cyprus) Labor Day",None,,,,EUR
+"2021, April 30, 20:00","(El Salvador) Labor Day",None,,,,USD
+"2021, April 30, 20:00","(Estonia) Spring Day",None,,,,EUR
+"2021, April 30, 20:00","(Finland) May Day",None,,,,EUR
+"2021, April 30, 20:00","(France) Labor Day",None,,,,EUR
+"2021, April 30, 20:00","(Germany) Labor Day",None,,,,EUR
+"2021, April 30, 20:00","(Greece) Labor Day",None,,,,EUR
+"2021, April 30, 20:00","(Italy) Labor Day",None,,,,EUR
+"2021, April 30, 20:00","(Latvia) Labor Day",None,,,,EUR
+"2021, April 30, 20:00","(Lithuania) Labor Day",None,,,,EUR
+"2021, April 30, 20:00","(Luxembourg) Labor Day",None,,,,EUR
+"2021, April 30, 20:00","(Malta) Labor Day",None,,,,EUR
+"2021, April 30, 20:00","(Montenegro) Labor day",None,,,,EUR
+"2021, April 30, 20:00","(Portugal) Labor Day",None,,,,EUR
+"2021, April 30, 20:00","(Slovakia) May Day",None,,,,EUR
+"2021, April 30, 20:00","(Slovenia) Labor Day",None,,,,EUR
+"2021, April 30, 20:00","(Spain) Labor Day",None,,,,EUR
+"2021, May 02, 20:00","(Cyprus) Orthodox Easter Monday",None,,,,EUR
+"2021, May 02, 20:00","(Greece) Orthodox Easter Monday",None,,,,EUR
+"2021, May 02, 20:00","(Ireland) May Day",None,,,,EUR
+"2021, May 02, 20:00","(Latvia) Declaration of Independence Day",None,,,,EUR
+"2021, May 02, 20:00","(Montenegro) Orthodox Easter Monday",None,,,,EUR
+"2021, May 03, 02:00","(Germany) Retail Sales MoM",High,1.20%,3.0%,7.70%,EUR
+"2021, May 03, 02:00","(Germany) Retail Sales YoY",High,-9.00%,-0.3%,11.00%,EUR
+"2021, May 03, 03:00","(Netherlands) NEVI Manufacturing PMI",Low,64.70,65.1,67.20,EUR
+"2021, May 03, 03:10","(Austria) Unemployment Rate",High,9.40%,10.1%,8.70%,EUR
+"2021, May 03, 03:15","(Spain) Markit Manufacturing PMI",High,56.90,59.0,57.70,EUR
+"2021, May 03, 03:45","(Italy) IHS Markit Manufacturing PMI",High,59.80,61.0,60.70,EUR
+"2021, May 03, 03:50","(France) Markit Manufacturing PMI",Medium,59.30,59.2,58.90,EUR
+"2021, May 03, 03:55","(Germany) Markit Manufacturing PMI",High,66.60,66.4,66.20,EUR
+"2021, May 03, 04:00","(Euro Area) Markit Manufacturing PMI",High,62.50,63.3,62.90,EUR
+"2021, May 03, 05:00","(France) New Car Registrations YoY",Low,191.40%,195.0%,568.60%,EUR
+"2021, May 03, 06:15","(Spain) New Car Sales YoY",Low,128.00%,150.0%,1.79%,EUR
+"2021, May 03, 06:30","(Portugal) Budget Balance",Low,-€2.34B,€-3.2B,-€3.00B,EUR
+"2021, May 03, 09:00","(France) 12-Month BTF Auction",Low,-0.62%,,-0.62%,EUR
+"2021, May 03, 09:00","(France) 6-Month BTF Auction",Low,-0.63%,,-0.63%,EUR
+"2021, May 03, 09:00","(France) 3-Month BTF Auction",Low,-0.63%,,-0.63%,EUR
+"2021, May 03, 09:45","(United States) Markit Manufacturing PMI",High,59.10,60.6,60.50,USD
+"2021, May 03, 10:00","(United States) ISM Manufacturing Prices",Low,85.60,86.1,89.60,USD
+"2021, May 03, 10:00","(United States) ISM Manufacturing New Orders",Low,68.00,68.0,64.30,USD
+"2021, May 03, 10:00","(United States) ISM Manufacturing Employment",Low,59.60,61.5,55.10,USD
+"2021, May 03, 10:00","(United States) Construction Spending MoM",Medium,-0.80%,1.9%,0.20%,USD
+"2021, May 03, 10:00","(United States) ISM Manufacturing PMI",High,64.70,65.0,60.70,USD
+"2021, May 03, 11:00","(Euro Area) ECB Enria Speech",Low,,,,EUR
+"2021, May 03, 11:30","(United States) 6-Month Bill Auction",Low,0.04%,,0.04%,USD
+"2021, May 03, 11:30","(United States) 3-Month Bill Auction",Low,0.02%,,0.01%,USD
+"2021, May 03, 12:00","(Germany) Bundesbank Balz Speech",Low,,,,EUR
+"2021, May 03, 14:10","(United States) Fed Williams Speech",Medium,,,,USD
+"2021, May 03, 14:20","(United States) Fed Chair Powell Speech",High,,,,USD
+"2021, May 03, 20:00","(Cyprus) Orthodox Easter Tuesday",None,,,,EUR
+"2021, May 03, 20:01","(Ireland) AIB Manufacturing PMI",Low,57.10,58.0,60.80,EUR
+"2021, May 04, 01:00","(Finland) Unemployment Rate",Low,8.10%,8.8%,8.10%,EUR
+"2021, May 04, 02:45","(France) Budget Balance",Low,-€47.47B,€-40.0B,-€60.07B,EUR
+"2021, May 04, 04:00","(Greece) Markit Manufacturing PMI",High,51.80,54.1,54.40,EUR
+"2021, May 04, 05:00","(Cyprus) Retail Sales YoY",Low,-9.20%,-11.0%,1.00%,EUR
+"2021, May 04, 05:00","(Spain) 6-Month Letras Auction",Low,-0.56%,,-0.56%,EUR
+"2021, May 04, 05:00","(Spain) 12-Month Letras Auction",Low,-0.52%,,-0.53%,EUR
+"2021, May 04, 08:30","(United States) Balance of Trade",High,-$71.10B,$-74.5B,-$74.40B,USD
+"2021, May 04, 08:30","(United States) Exports",Low,$187.30B,$201.5B,$200.03B,USD
+"2021, May 04, 08:30","(United States) Imports",Low,$258.30B,$274.9B,$274.48B,USD
+"2021, May 04, 08:55","(United States) Redbook YoY",Low,13.90%,,14.20%,USD
+"2021, May 04, 10:00","(United States) Factory Orders ex Transportation",Low,-0.60%,1.1%,1.70%,USD
+"2021, May 04, 10:00","(United States) Factory Orders MoM",Medium,-0.80%,1.3%,1.10%,USD
+"2021, May 04, 10:00","(United States) IBD/TIPP Economic Optimism",Medium,56.40,57.0,54.40,USD
+"2021, May 04, 11:30","(United States) 42-Day Bill Auction",Low,0.01%,,0.01%,USD
+"2021, May 04, 16:30","(United States) API Crude Oil Stock Change",Medium,4.32M,-2.191M,-7.70M,USD
+"2021, May 04, 19:00","(United States) Total Vehicle Sales",Medium,17.70M,,18.50M,USD
+"2021, May 04, 20:00","(Netherlands) Liberation Day",None,,,,EUR
+"2021, May 05, 03:00","(Spain) Unemployment Change",High,-59.10K,-66.0K,-39.00K,EUR
+"2021, May 05, 03:15","(Spain) Markit Services PMI",High,48.10,50.0,54.60,EUR
+"2021, May 05, 03:45","(Italy) IHS Markit Services PMI",High,48.60,49.8,47.30,EUR
+"2021, May 05, 03:45","(Italy) IHS Markit Composite PMI",High,51.90,53.4,51.20,EUR
+"2021, May 05, 03:50","(France) Markit Services PMI",Medium,48.20,50.4,50.30,EUR
+"2021, May 05, 03:50","(France) Markit Composite PMI",Low,50.00,51.7,51.60,EUR
+"2021, May 05, 03:55","(Germany) Markit Services PMI",High,51.50,50.1,49.90,EUR
+"2021, May 05, 03:55","(Germany) Markit Composite PMI",High,57.30,56.0,55.80,EUR
+"2021, May 05, 04:00","(Euro Area) Markit Services PMI",High,49.60,50.3,50.50,EUR
+"2021, May 05, 04:00","(Euro Area) Markit Composite PMI",High,53.20,53.7,53.80,EUR
+"2021, May 05, 05:00","(Euro Area) PPI MoM",Low,0.50%,1.1%,1.10%,EUR
+"2021, May 05, 05:00","(Euro Area) PPI YoY",Low,1.50%,4.2%,4.30%,EUR
+"2021, May 05, 05:30","(Germany) New Car Registrations YoY",Low,35.90%,,90.00%,EUR
+"2021, May 05, 05:30","(Luxembourg) Inflation Rate YoY",Low,2.00%,2.1%,2.10%,EUR
+"2021, May 05, 05:40","(Germany) 5-Year Bobl Auction",Low,-0.66%,,-0.61%,EUR
+"2021, May 05, 06:00","(Latvia) Industrial Production MoM",Low,0.60%,,0.50%,EUR
+"2021, May 05, 06:00","(Latvia) Industrial Production YoY",Low,1.50%,4.1%,4.70%,EUR
+"2021, May 05, 06:45","(Germany) Bundesbank Wuermeling Speech",Low,,,,EUR
+"2021, May 05, 06:45","(Spain) Consumer Confidence",Medium,73.00,76.0,77.80,EUR
+"2021, May 05, 07:00","(United States) MBA Mortgage Applications",Low,-2.50%,,-0.90%,USD
+"2021, May 05, 07:00","(United States) MBA 30-Year Mortgage Rate",Low,3.17%,,3.18%,USD
+"2021, May 05, 08:15","(United States) ADP Employment Change",High,517.00K,800.0K,742.00K,USD
+"2021, May 05, 09:30","(United States) Fed Evans Speech",Medium,,,,USD
+"2021, May 05, 09:45","(United States) Markit Composite PMI",High,59.70,62.2,63.50,USD
+"2021, May 05, 09:45","(United States) Markit Services PMI",High,60.40,63.1,64.70,USD
+"2021, May 05, 10:00","(Euro Area) ECB Lane Speech",Low,,,,EUR
+"2021, May 05, 10:00","(United States) ISM Non-Manufacturing Prices",Low,74.00,75.0,76.80,USD
+"2021, May 05, 10:00","(United States) ISM Non-Manufacturing New Orders",Low,67.20,68.0,63.20,USD
+"2021, May 05, 10:00","(United States) ISM Non-Manufacturing Employment",Low,57.20,57.6,58.80,USD
+"2021, May 05, 10:00","(United States) ISM Non-Manufacturing Business Activity",Low,69.40,69.5,62.70,USD
+"2021, May 05, 10:00","(United States) ISM Non-Manufacturing PMI",High,63.70,64.3,62.70,USD
+"2021, May 05, 10:30","(United States) EIA Heating Oil Stocks Change",Low,-0.17M,,-0.02M,USD
+"2021, May 05, 10:30","(United States) EIA Gasoline Stocks Change",Medium,0.09M,-0.652M,0.74M,USD
+"2021, May 05, 10:30","(United States) EIA Refinery Crude Runs Change",Low,0.25M,,0.23M,USD
+"2021, May 05, 10:30","(United States) EIA Cushing Crude Oil Stocks Change",Medium,0.72M,,0.25M,USD
+"2021, May 05, 10:30","(United States) EIA Crude Oil Imports Change",Low,1.22M,,-2.75M,USD
+"2021, May 05, 10:30","(United States) EIA Crude Oil Stocks Change",Medium,0.09M,-2.346M,-7.99M,USD
+"2021, May 05, 10:30","(United States) EIA Distillate Stocks Change",Low,-3.34M,-1.12M,-2.90M,USD
+"2021, May 05, 10:30","(United States) EIA Gasoline Production Change",Low,0.24M,,-0.48M,USD
+"2021, May 05, 10:30","(United States) EIA Distillate Fuel Production Change",Low,0.07M,,-0.13M,USD
+"2021, May 05, 11:00","(United States) Fed Rosengren Speech",Medium,,,,USD
+"2021, May 05, 11:30","(United States) 119-Day Bill Auction",Low,0.03%,,0.03%,USD
+"2021, May 05, 12:00","(United States) Fed Mester Speech",Medium,,,,USD
+"2021, May 05, 15:00","(United States) Fed Evans Speech",Medium,,,,USD
+"2021, May 05, 20:01","(Ireland) AIB Services PMI",Low,54.60,55.6,57.70,EUR
+"2021, May 06, 02:00","(Germany) Factory Orders MoM",Medium,1.20%,1.7%,3.00%,EUR
+"2021, May 06, 03:00","(Austria) Balance of Trade",Low,-€233.50M,€-250.0M,-€316.70M,EUR
+"2021, May 06, 03:00","(Austria) Wholesale Prices YoY",Low,6.90%,,8.70%,EUR
+"2021, May 06, 03:00","(Austria) Wholesale Prices MoM",Low,1.60%,,0.60%,EUR
+"2021, May 06, 03:00","(Slovakia) Retail Sales YoY",Low,-14.70%,-2.8%,0.30%,EUR
+"2021, May 06, 03:00","(Slovakia) Retail Sales MoM",Low,1.60%,,7.10%,EUR
+"2021, May 06, 03:00","(Spain) Tourist Arrivals YoY",Low,-93.60%,-84.0%,-75.50%,EUR
+"2021, May 06, 03:30","(Euro Area) Construction PMI",Low,50.10,52.0,50.10,EUR
+"2021, May 06, 03:30","(France) Construction PMI",Low,49.70,51.9,49.80,EUR
+"2021, May 06, 03:30","(Germany) Construction PMI",Medium,47.50,52.5,46.20,EUR
+"2021, May 06, 03:30","(Italy) Construction PMI",Low,56.30,57.0,57.60,EUR
+"2021, May 06, 05:00","(Austria) Retail Sales YoY",High,5.20%,3.9%,19.10%,EUR
+"2021, May 06, 05:00","(Austria) Retail Sales MoM",High,28.20%,,-1.90%,EUR
+"2021, May 06, 05:00","(Belgium) Retail Sales MoM",Low,2.90%,,0.10%,EUR
+"2021, May 06, 05:00","(Belgium) Retail Sales YoY",Low,11.00%,6.8%,13.80%,EUR
+"2021, May 06, 05:00","(Euro Area) Retail Sales YoY",High,-2.90%,9.6%,12.00%,EUR
+"2021, May 06, 05:00","(Euro Area) Retail Sales MoM",High,3.00%,1.5%,2.70%,EUR
+"2021, May 06, 05:00","(France) Retail Sales MoM",Low,-1.20%,0.6%,-1.00%,EUR
+"2021, May 06, 05:00","(France) Retail Sales YoY",Low,1.60%,8.5%,21.30%,EUR
+"2021, May 06, 05:00","(France) 10-Year OAT Auction",Low,0.00%,,0.13%,EUR
+"2021, May 06, 05:00","(Luxembourg) Retail Sales MoM",Low,2.10%,,0.60%,EUR
+"2021, May 06, 05:00","(Malta) Retail Sales MoM",Low,-1.50%,,2.60%,EUR
+"2021, May 06, 05:00","(Malta) Retail Sales YoY",Low,-8.90%,1.1%,-0.10%,EUR
+"2021, May 06, 05:00","(Spain) 10-Year Obligacion Auction",Low,0.37%,,0.43%,EUR
+"2021, May 06, 05:00","(Spain) 5-Year Bonos Auction",Low,-0.29%,,-0.24%,EUR
+"2021, May 06, 05:00","(Spain) 30-Year Obligacion Auction",Low,1.30%,,1.41%,EUR
+"2021, May 06, 05:15","(Cyprus) Inflation Rate YoY",Low,-0.70%,0.6%,1.60%,EUR
+"2021, May 06, 06:00","(Ireland) Unemployment Rate",Low,5.80%,5.7%,5.80%,EUR
+"2021, May 06, 06:30","(Euro Area) ECB Guindos Speech",High,,,,EUR
+"2021, May 06, 07:30","(United States) Challenger Job Cuts",Low,30.60K,25.0K,22.91K,USD
+"2021, May 06, 08:30","(United States) Continuing Jobless Claims",High,3660.00K,3620.0K,3690.00K,USD
+"2021, May 06, 08:30","(United States) Jobless Claims 4-week Average",High,611.75K,562.5K,560.00K,USD
+"2021, May 06, 08:30","(United States) Initial Jobless Claims",High,553.00K,540.0K,498.00K,USD
+"2021, May 06, 08:30","(United States) Unit Labour Costs QoQ",Medium,6.00%,-0.8%,-0.30%,USD
+"2021, May 06, 08:30","(United States) Nonfarm Productivity QoQ",Medium,-4.20%,4.3%,5.40%,USD
+"2021, May 06, 09:00","(United States) Fed Williams Speech",Medium,,,,USD
+"2021, May 06, 09:15","(Euro Area) ECB Schnabel Speech",Low,,,,EUR
+"2021, May 06, 10:30","(United States) EIA Natural Gas Stocks Change",Low,15.00B,64.0B,60.00B,USD
+"2021, May 06, 11:00","(Germany) Bundesbank Mauderer Speech",Low,,,,EUR
+"2021, May 06, 11:30","(United States) 8-Week Bill Auction",Low,0.01%,,0.01%,USD
+"2021, May 06, 11:30","(United States) 4-Week Bill Auction",Low,0.00%,,0.01%,USD
+"2021, May 06, 13:00","(United States) Fed Bostic Speech",Medium,,,,USD
+"2021, May 06, 13:00","(United States) Fed Mester Speech",Medium,,,,USD
+"2021, May 06, 18:05","(United States) Fed Kaplan Speech",Medium,,,,USD
+"2021, May 07, 01:00","(Estonia) Inflation Rate YoY",Low,1.10%,1.7%,1.90%,EUR
+"2021, May 07, 01:00","(Estonia) Inflation Rate MoM",Low,-0.20%,0.5%,0.40%,EUR
+"2021, May 07, 02:00","(Finland) Balance of Trade",Low,-€0.34B,€-0.29B,-€0.31B,EUR
+"2021, May 07, 02:00","(Germany) Balance of Trade",High,€18.10B,€17.6B,€20.50B,EUR
+"2021, May 07, 02:00","(Germany) Balance of Trade s.a",Low,€19.10B,€19.5B,€14.30B,EUR
+"2021, May 07, 02:00","(Germany) Exports MoM s.a",Low,0.90%,0.5%,1.20%,EUR
+"2021, May 07, 02:00","(Germany) Imports MoM s.a",Low,3.60%,0.7%,6.50%,EUR
+"2021, May 07, 02:00","(Germany) Current Account",Low,€18.80B,€25.2B,€30.20B,EUR
+"2021, May 07, 02:00","(Germany) Industrial Production MoM",Medium,-1.60%,2.3%,2.50%,EUR
+"2021, May 07, 02:00","(Lithuania) Balance of Trade",Low,€0.00B,,-€0.36B,EUR
+"2021, May 07, 02:45","(France) Current Account",Low,-€2.60B,€-3.2B,-€2.90B,EUR
+"2021, May 07, 02:45","(France) Balance of Trade",Medium,-€5.25B,€-4.2B,-€6.10B,EUR
+"2021, May 07, 02:45","(France) Industrial Production MoM",Medium,-4.70%,2.0%,0.80%,EUR
+"2021, May 07, 02:45","(France) Private Non Farm Payrolls QoQ",Low,-0.10%,0.7%,0.30%,EUR
+"2021, May 07, 03:00","(Slovakia) Balance of Trade",Low,€399.00M,€137.0M,€595.30M,EUR
+"2021, May 07, 03:00","(Spain) Industrial Production YoY",Low,-2.10%,12.6%,12.40%,EUR
+"2021, May 07, 04:00","(Italy) Retail Sales YoY",High,-5.70%,15.1%,22.90%,EUR
+"2021, May 07, 04:00","(Italy) Retail Sales MoM",High,6.60%,0.1%,-0.10%,EUR
+"2021, May 07, 06:00","(Euro Area) ECB President Lagarde Speech",Medium,,,,EUR
+"2021, May 07, 06:00","(Ireland) Industrial Production YoY",Low,40.30%,5.6%,2.30%,EUR
+"2021, May 07, 08:30","(United States) Average Hourly Earnings MoM",Low,-0.10%,0.0%,0.70%,USD
+"2021, May 07, 08:30","(United States) Non Farm Payrolls",High,916.00K,978.0K,266.00K,USD
+"2021, May 07, 08:30","(United States) Unemployment Rate",High,6.00%,5.8%,6.10%,USD
+"2021, May 07, 08:30","(United States) Nonfarm Payrolls Private",High,780.00K,893.0K,218.00K,USD
+"2021, May 07, 08:30","(United States) Manufacturing Payrolls",Low,53.00K,55.0K,-18.00K,USD
+"2021, May 07, 08:30","(United States) Average Weekly Hours",Low,34.90,34.9,35.00,USD
+"2021, May 07, 08:30","(United States) Average Hourly Earnings YoY",Low,4.20%,-0.4%,0.30%,USD
+"2021, May 07, 08:30","(United States) Participation Rate",Low,61.50%,61.7%,61.70%,USD
+"2021, May 07, 08:30","(United States) Government Payrolls",Low,136.00K,100.0K,48.00K,USD
+"2021, May 07, 10:00","(Ecuador) Inflation Rate YoY",Low,-0.83%,-0.7%,-1.47%,USD
+"2021, May 07, 10:00","(United States) Wholesale Inventories MoM",Medium,0.90%,1.4%,1.30%,USD
+"2021, May 07, 13:00","(United States) Baker Hughes Total Rig Count",Low,440.00,,448.00,USD
+"2021, May 07, 13:00","(United States) Baker Hughes Oil Rig Count",Low,342.00,,344.00,USD
+"2021, May 07, 15:00","(United States) Consumer Credit Change",Low,$27.58B,$20.0B,$25.84B,USD
+"2021, May 07, 18:20","(El Salvador) Inflation Rate YoY",Low,1.77%,1.8%,2.79%,USD
+"2021, May 07, 20:00","(France) Victory in Europe Day",None,,,,EUR
+"2021, May 07, 20:00","(Slovakia) Liberation of the Republic",None,,,,EUR
+"2021, May 08, 20:00","(Luxembourg) Europe Day",None,,,,EUR
+"2021, May 09, 20:00","(El Salvador) Mothers' Day",None,,,,USD
+"2021, May 10, 00:30","(Netherlands) Manufacturing Production YoY",Low,-1.70%,-0.3%,3.00%,EUR
+"2021, May 10, 01:00","(Estonia) Industrial Production MoM",Low,-2.00%,2.1%,4.00%,EUR
+"2021, May 10, 01:00","(Estonia) Industrial Production YoY",Low,-8.90%,5.7%,2.00%,EUR
+"2021, May 10, 01:00","(Finland) Industrial Production YoY",Low,5.50%,4.2%,-2.30%,EUR
+"2021, May 10, 02:00","(Lithuania) Inflation Rate MoM",Low,1.00%,1.0%,0.90%,EUR
+"2021, May 10, 02:00","(Lithuania) Inflation Rate YoY",Low,1.60%,2.4%,2.50%,EUR
+"2021, May 10, 03:00","(Slovakia) Industrial Production YoY",Low,1.00%,21.5%,24.50%,EUR
+"2021, May 10, 03:00","(Slovakia) Construction Output YoY",Low,-23.80%,-7.2%,-0.80%,EUR
+"2021, May 10, 04:30","(Slovenia) Balance of Trade",Low,€263.70M,,€118.70M,EUR
+"2021, May 10, 04:30","(Slovenia) Industrial Production YoY",Low,-1.50%,7.5%,8.50%,EUR
+"2021, May 10, 05:00","(Belgium) Industrial Production MoM",Low,-3.70%,2.8%,-4.00%,EUR
+"2021, May 10, 05:00","(Belgium) Industrial Production YoY",Low,0.10%,2.9%,1.70%,EUR
+"2021, May 10, 05:00","(Cyprus) Balance of Trade",Low,-€555.30M,€-315.0M,-€366.70M,EUR
+"2021, May 10, 05:00","(Greece) Industrial Production YoY",Low,4.40%,6.0%,5.50%,EUR
+"2021, May 10, 05:00","(Greece) Balance of Trade",Low,-€1.14B,€-1.7B,-€2.09B,EUR
+"2021, May 10, 05:00","(Malta) Balance of Trade",Low,-€112.00M,,-€165.60M,EUR
+"2021, May 10, 06:00","(Latvia) Inflation Rate MoM",Low,0.80%,1.0%,0.90%,EUR
+"2021, May 10, 06:00","(Latvia) Inflation Rate YoY",Low,0.30%,1.7%,1.70%,EUR
+"2021, May 10, 06:00","(Portugal) Balance of Trade",Low,-€708.00M,€-860.0M,-€1002.00M,EUR
+"2021, May 10, 09:00","(France) 12-Month BTF Auction",Low,-0.62%,,-0.63%,EUR
+"2021, May 10, 09:00","(France) 6-Month BTF Auction",Low,-0.63%,,-0.64%,EUR
+"2021, May 10, 09:00","(France) 3-Month BTF Auction",Low,-0.63%,,-0.64%,EUR
+"2021, May 10, 11:00","(United States) Consumer Inflation Expectations",Low,3.20%,3.3%,3.40%,USD
+"2021, May 10, 11:30","(United States) 6-Month Bill Auction",Low,0.04%,,0.04%,USD
+"2021, May 10, 11:30","(United States) 3-Month Bill Auction",Low,0.01%,,0.01%,USD
+"2021, May 10, 13:15","(United States) President Biden Remarks on the Economy",Medium,,,,USD
+"2021, May 10, 14:00","(United States) Fed Evans Speech",Medium,,,,USD
+"2021, May 11, 00:30","(Netherlands) Inflation Rate YoY",Medium,1.90%,1.7%,1.90%,EUR
+"2021, May 11, 01:00","(Estonia) Balance of Trade",Low,-€73.00M,,-€186.00M,EUR
+"2021, May 11, 02:00","(Germany) Wholesale Prices MoM",Medium,1.70%,0.8%,1.10%,EUR
+"2021, May 11, 02:00","(Germany) Wholesale Prices YoY",Medium,4.40%,6.8%,7.20%,EUR
+"2021, May 11, 02:00","(Lithuania) PPI MoM",Low,1.20%,0.3%,0.40%,EUR
+"2021, May 11, 02:00","(Lithuania) PPI YoY",Low,4.60%,10.6%,10.70%,EUR
+"2021, May 11, 04:00","(Italy) Industrial Production YoY",Low,-0.60%,37.2%,37.70%,EUR
+"2021, May 11, 04:00","(Italy) Industrial Production MoM",Medium,0.20%,0.4%,-0.10%,EUR
+"2021, May 11, 05:00","(Euro Area) ZEW Economic Sentiment Index",Medium,66.30,65.0,84.00,EUR
+"2021, May 11, 05:00","(Germany) ZEW Current Conditions",Low,-48.80,-41.3,-40.10,EUR
+"2021, May 11, 05:00","(Germany) ZEW Economic Sentiment Index",High,70.70,72.0,84.40,EUR
+"2021, May 11, 05:00","(Malta) Industrial Production YoY",Low,-10.70%,-2.5%,-2.90%,EUR
+"2021, May 11, 05:00","(Spain) 3-Month Letras Auction",Low,-0.59%,,-0.59%,EUR
+"2021, May 11, 06:00","(Latvia) Balance of Trade",Low,-€49.40M,€-180.0M,-€163.60M,EUR
+"2021, May 11, 06:00","(United States) NFIB Business Optimism Index",Low,98.20,98.7,99.80,USD
+"2021, May 11, 08:55","(United States) Redbook YoY",Low,14.20%,,13.30%,USD
+"2021, May 11, 09:00","(Kosovo) Inflation Rate YoY",Low,1.20%,1.5%,1.90%,EUR
+"2021, May 11, 10:00","(United States) JOLTs Job Openings",Medium,7.37M,7.5M,8.12M,USD
+"2021, May 11, 10:30","(United States) Fed Williams Speech",Medium,,,,USD
+"2021, May 11, 11:30","(United States) 42-Day Bill Auction",Low,0.01%,,0.01%,USD
+"2021, May 11, 12:00","(United States) Fed Brainard Speech",Medium,,,,USD
+"2021, May 11, 13:00","(United States) 3-Year Note Auction",Low,0.38%,,0.33%,USD
+"2021, May 11, 13:00","(United States) Fed Daly Speech",Medium,,,,USD
+"2021, May 11, 13:15","(United States) Fed Bostic Speech",Medium,,,,USD
+"2021, May 11, 14:00","(United States) Fed Harker Speech",Medium,,,,USD
+"2021, May 11, 16:30","(United States) API Crude Oil Stock Change",Medium,-7.69M,-2.25M,-2.53M,USD
+"2021, May 12, 01:00","(Finland) Current Account",Low,€0.40B,,-€0.70B,EUR
+"2021, May 12, 02:00","(Germany) Harmonised Inflation Rate YoY",Low,2.00%,2.1%,2.10%,EUR
+"2021, May 12, 02:00","(Germany) Harmonised Inflation Rate MoM",Low,0.50%,0.5%,0.50%,EUR
+"2021, May 12, 02:00","(Germany) Inflation Rate MoM",Low,0.50%,0.7%,0.70%,EUR
+"2021, May 12, 02:00","(Germany) Inflation Rate YoY",Medium,1.70%,2.0%,2.00%,EUR
+"2021, May 12, 02:45","(France) Inflation Rate YoY",Medium,1.10%,1.3%,1.20%,EUR
+"2021, May 12, 02:45","(France) Inflation Rate MoM",Low,0.60%,0.2%,0.10%,EUR
+"2021, May 12, 02:45","(France) Harmonised Inflation Rate MoM",Low,0.70%,0.3%,0.20%,EUR
+"2021, May 12, 02:45","(France) Harmonised Inflation Rate YoY",Low,1.40%,1.7%,1.60%,EUR
+"2021, May 12, 03:55","(Euro Area) ECB Enria Speech",Low,,,,EUR
+"2021, May 12, 04:00","(Euro Area) ECB Non-Monetary Policy Meeting",Medium,,,,EUR
+"2021, May 12, 04:00","(France) IEA Oil Market Report",Medium,,,,EUR
+"2021, May 12, 04:30","(European Union) European Commission Forecasts",Medium,,,,EUR
+"2021, May 12, 05:00","(Euro Area) Industrial Production MoM",Medium,-1.00%,0.7%,0.10%,EUR
+"2021, May 12, 05:00","(Euro Area) Industrial Production YoY",Medium,-1.60%,11.6%,10.90%,EUR
+"2021, May 12, 05:00","(Greece) Harmonised Inflation Rate YoY",Low,-2.00%,-0.9%,-1.10%,EUR
+"2021, May 12, 05:00","(Greece) Inflation Rate YoY",Low,-1.60%,-0.5%,-0.30%,EUR
+"2021, May 12, 05:45","(Italy) 12-Month BOT Auction",Low,-0.44%,,-0.44%,EUR
+"2021, May 12, 06:00","(Ireland) Residential Property Prices MoM",Low,0.30%,0.1%,0.70%,EUR
+"2021, May 12, 06:00","(Ireland) Residential Property Prices YoY",Low,3.00%,3.1%,3.70%,EUR
+"2021, May 12, 06:00","(Portugal) Unemployment Rate",Low,7.10%,7.9%,7.10%,EUR
+"2021, May 12, 06:00","(Portugal) Inflation Rate YoY",Low,0.50%,0.5%,0.60%,EUR
+"2021, May 12, 06:00","(Portugal) Inflation Rate MoM",Low,1.40%,0.4%,0.40%,EUR
+"2021, May 12, 07:00","(United States) MBA Mortgage Applications",Low,-0.90%,,2.10%,USD
+"2021, May 12, 07:00","(United States) MBA 30-Year Mortgage Rate",Low,3.18%,,3.11%,USD
+"2021, May 12, 08:30","(United States) Inflation Rate MoM",Medium,0.60%,0.2%,0.80%,USD
+"2021, May 12, 08:30","(United States) Core Inflation Rate MoM",Medium,0.30%,0.3%,0.90%,USD
+"2021, May 12, 08:30","(United States) Inflation Rate YoY",High,2.60%,3.6%,4.20%,USD
+"2021, May 12, 08:30","(United States) Core Inflation Rate YoY",High,1.60%,2.3%,3.00%,USD
+"2021, May 12, 09:00","(United States) Fed Clarida Speech",Medium,,,,USD
+"2021, May 12, 10:30","(United States) EIA Heating Oil Stocks Change",Low,-0.02M,,-0.32M,USD
+"2021, May 12, 10:30","(United States) EIA Gasoline Stocks Change",Medium,0.74M,-0.6M,0.38M,USD
+"2021, May 12, 10:30","(United States) EIA Refinery Crude Runs Change",Low,0.23M,,-0.22M,USD
+"2021, May 12, 10:30","(United States) EIA Crude Oil Imports Change",Low,-2.75M,,2.36M,USD
+"2021, May 12, 10:30","(United States) EIA Cushing Crude Oil Stocks Change",Low,0.25M,,-0.42M,USD
+"2021, May 12, 10:30","(United States) EIA Crude Oil Stocks Change",Medium,-7.99M,-2.817M,-0.43M,USD
+"2021, May 12, 10:30","(United States) EIA Distillate Stocks Change",Low,-2.90M,-1.08M,-1.73M,USD
+"2021, May 12, 10:30","(United States) EIA Gasoline Production Change",Low,-0.48M,,0.44M,USD
+"2021, May 12, 10:30","(United States) EIA Distillate Fuel Production Change",Low,-0.13M,,0.16M,USD
+"2021, May 12, 12:00","(United States) WASDE Report",Low,,,,USD
+"2021, May 12, 13:00","(United States) 10-Year Note Auction",Medium,1.68%,,1.68%,USD
+"2021, May 12, 13:00","(United States) Fed Bostic Speech",Medium,,,,USD
+"2021, May 12, 13:30","(United States) Fed Harker Speech",Medium,,,,USD
+"2021, May 12, 14:00","(United States) Monthly Budget Statement",Medium,-$660.00B,$-220.0B,-$226.00B,USD
+"2021, May 12, 20:00","(Austria) Ascension Day",None,,,,EUR
+"2021, May 12, 20:00","(Belgium) Ascension Day",None,,,,EUR
+"2021, May 12, 20:00","(Finland) Ascension Day",None,,,,EUR
+"2021, May 12, 20:00","(France) Ascension Day",None,,,,EUR
+"2021, May 12, 20:00","(Germany) Ascension Day",None,,,,EUR
+"2021, May 12, 20:00","(Luxembourg) Ascension Day",None,,,,EUR
+"2021, May 12, 20:00","(Netherlands) Ascension Day",None,,,,EUR
+"2021, May 13, 03:00","(Slovakia) Inflation Rate MoM",Low,0.50%,0.2%,0.20%,EUR
+"2021, May 13, 03:00","(Slovakia) Inflation Rate YoY",Low,1.40%,1.6%,1.60%,EUR
+"2021, May 13, 03:00","(Slovakia) Core Inflation Rate YoY",Low,1.60%,1.8%,1.90%,EUR
+"2021, May 13, 03:00","(Slovakia) Core Inflation Rate MoM",Low,0.20%,0.2%,0.20%,EUR
+"2021, May 13, 05:45","(Italy) 3-Year BTP Auction",Low,-0.17%,,-0.06%,EUR
+"2021, May 13, 05:45","(Italy) 7-Year BTP Auction",Low,0.31%,,0.69%,EUR
+"2021, May 13, 05:45","(Italy) 30-Year BTP Auction",Low,1.47%,,2.06%,EUR
+"2021, May 13, 06:00","(Ireland) Inflation Rate MoM",Low,0.80%,0.4%,0.70%,EUR
+"2021, May 13, 06:00","(Ireland) Harmonised Inflation Rate MoM",Low,0.90%,0.3%,0.60%,EUR
+"2021, May 13, 06:00","(Ireland) Harmonised Inflation Rate YoY",Low,0.10%,0.8%,1.10%,EUR
+"2021, May 13, 06:00","(Ireland) Inflation Rate YoY",Medium,0.00%,0.8%,1.10%,EUR
+"2021, May 13, 08:30","(United States) Continuing Jobless Claims",High,3690.00K,3655.0K,3655.00K,USD
+"2021, May 13, 08:30","(United States) Jobless Claims 4-week Average",High,560.00K,526.25K,534.00K,USD
+"2021, May 13, 08:30","(United States) Initial Jobless Claims",High,498.00K,490.0K,473.00K,USD
+"2021, May 13, 08:30","(United States) Core PPI YoY",Low,3.10%,3.7%,4.10%,USD
+"2021, May 13, 08:30","(United States) Core PPI MoM",Low,0.70%,0.4%,0.70%,USD
+"2021, May 13, 08:30","(United States) PPI YoY",Low,4.20%,5.9%,6.20%,USD
+"2021, May 13, 08:30","(United States) PPI MoM",Medium,1.00%,0.3%,0.60%,USD
+"2021, May 13, 10:30","(United States) EIA Natural Gas Stocks Change",Low,60.00B,76.0B,71.00B,USD
+"2021, May 13, 11:30","(United States) 8-Week Bill Auction",Low,0.01%,,0.01%,USD
+"2021, May 13, 11:30","(United States) 4-Week Bill Auction",Low,0.01%,,0.00%,USD
+"2021, May 13, 13:00","(United States) 30-Year Bond Auction",Medium,2.32%,,2.40%,USD
+"2021, May 13, 13:00","(United States) Fed Waller Speech",Medium,,,,USD
+"2021, May 13, 16:00","(United States) Fed Bullard Speech",Medium,,,,USD
+"2021, May 13, 20:00","(Belgium) Friday after Ascension Day",None,,,,EUR
+"2021, May 14, 01:00","(Finland) Inflation Rate YoY",Low,1.30%,2.0%,2.10%,EUR
+"2021, May 14, 01:00","(Finland) Inflation Rate MoM",Low,0.20%,0.4%,0.40%,EUR
+"2021, May 14, 03:00","(Lithuania) Current Account",Low,€244.10M,€355.0M,-€79.70M,EUR
+"2021, May 14, 03:00","(Spain) Inflation Rate YoY",Low,1.30%,2.2%,2.20%,EUR
+"2021, May 14, 03:00","(Spain) Inflation Rate MoM",Low,1.00%,1.2%,1.20%,EUR
+"2021, May 14, 03:00","(Spain) Harmonised Inflation Rate YoY",Low,1.20%,1.9%,2.00%,EUR
+"2021, May 14, 03:00","(Spain) Harmonised Inflation Rate MoM",Low,1.90%,1.1%,1.10%,EUR
+"2021, May 14, 06:00","(Latvia) Current Account",Low,€116.00M,,-€66.00M,EUR
+"2021, May 14, 07:30","(Euro Area) ECB Monetary Policy Meeting Accounts",Medium,,,,EUR
+"2021, May 14, 08:30","(United States) Retail Sales YoY",High,27.70%,30.5%,51.20%,USD
+"2021, May 14, 08:30","(United States) Retail Sales Ex Autos MoM",High,8.40%,0.7%,-0.80%,USD
+"2021, May 14, 08:30","(United States) Retail Sales MoM",High,9.80%,1.0%,0.00%,USD
+"2021, May 14, 08:30","(United States) Export Prices YoY",Medium,9.10%,13.9%,14.40%,USD
+"2021, May 14, 08:30","(United States) Import Prices YoY",Medium,6.90%,7.3%,10.60%,USD
+"2021, May 14, 08:30","(United States) Import Prices MoM",Medium,1.20%,0.6%,0.70%,USD
+"2021, May 14, 08:30","(United States) Export Prices MoM",Medium,2.10%,0.6%,0.80%,USD
+"2021, May 14, 09:10","(Ecuador) Balance of Trade",Low,$241.70M,,$43.50M,USD
+"2021, May 14, 09:15","(United States) Manufacturing Production YoY",Low,3.10%,11.5%,23.00%,USD
+"2021, May 14, 09:15","(United States) Capacity Utilization",Low,74.40%,75.0%,74.90%,USD
+"2021, May 14, 09:15","(United States) Industrial Production MoM",Medium,1.40%,1.0%,0.70%,USD
+"2021, May 14, 09:15","(United States) Industrial Production YoY",Medium,1.00%,19.0%,16.50%,USD
+"2021, May 14, 09:15","(United States) Manufacturing Production MoM",Low,2.70%,0.4%,0.40%,USD
+"2021, May 14, 10:00","(United States) Michigan Consumer Sentiment",High,88.30,90.4,82.80,USD
+"2021, May 14, 10:00","(United States) Michigan Inflation Expectations",Medium,3.40%,3.8%,4.60%,USD
+"2021, May 14, 10:00","(United States) Michigan Consumer Expectations",Medium,82.70,85.0,77.60,USD
+"2021, May 14, 10:00","(United States) Michigan 5 Year Inflation Expectations",Medium,2.70%,2.8%,3.10%,USD
+"2021, May 14, 10:00","(United States) Michigan Current Conditions",Medium,97.20,99.6,90.80,USD
+"2021, May 14, 10:00","(United States) Business Inventories MoM",Medium,0.50%,0.3%,0.30%,USD
+"2021, May 14, 13:00","(United States) Baker Hughes Oil Rig Count",Low,344.00,,352.00,USD
+"2021, May 14, 13:00","(United States) Baker Hughes Total Rig Count",Low,448.00,,453.00,USD
+"2021, May 14, 13:00","(United States) Fed Kaplan Speech",Medium,,,,USD
+"2021, May 14, 13:30","(El Salvador) Balance of Trade",Low,-$741.70M,$-800.0M,-$674.00M,USD
+"2021, May 16, 19:01","(Ireland) Construction PMI",Low,30.90,52.5,49.30,EUR
+"2021, May 17, 01:00","(Estonia) Unemployment Rate",Low,7.40%,7.9%,7.10%,EUR
+"2021, May 17, 04:00","(Italy) Inflation Rate YoY",Medium,0.80%,1.1%,1.10%,EUR
+"2021, May 17, 04:00","(Italy) Harmonised Inflation Rate YoY",Low,0.60%,1.0%,1.00%,EUR
+"2021, May 17, 04:00","(Italy) Harmonised Inflation Rate MoM",Low,1.80%,0.9%,0.90%,EUR
+"2021, May 17, 04:00","(Italy) Inflation Rate MoM",Low,0.30%,0.4%,0.40%,EUR
+"2021, May 17, 04:00","(Spain) Balance of Trade",Medium,-€1.08B,€-2.1B,-€0.41B,EUR
+"2021, May 17, 05:00","(Greece) Unemployment Rate",High,15.80%,15.7%,16.00%,EUR
+"2021, May 17, 05:50","(Belgium) Construction Output YoY",Low,-10.90%,14.5%,36.30%,EUR
+"2021, May 17, 08:30","(United States) NY Empire State Manufacturing Index",Medium,26.30,23.9,24.30,USD
+"2021, May 17, 09:00","(France) 3-Month BTF Auction",Low,-0.64%,,-0.63%,EUR
+"2021, May 17, 09:00","(France) 6-Month BTF Auction",Low,-0.64%,,-0.63%,EUR
+"2021, May 17, 09:00","(France) 12-Month BTF Auction",Low,-0.63%,,-0.63%,EUR
+"2021, May 17, 10:00","(United States) NAHB Housing Market Index",Medium,83.00,83.0,83.00,USD
+"2021, May 17, 10:05","(United States) Fed Clarida Speech",Medium,,,,USD
+"2021, May 17, 10:10","(Belgium) Balance of Trade",Low,€1089.00M,,€2794.00M,EUR
+"2021, May 17, 10:25","(United States) Fed Bostic Speech",Medium,,,,USD
+"2021, May 17, 11:30","(United States) 6-Month Bill Auction",Low,0.04%,,0.03%,USD
+"2021, May 17, 11:30","(United States) 3-Month Bill Auction",Low,0.01%,,0.01%,USD
+"2021, May 17, 16:00","(United States) Foreign Bond Investment",Medium,-$65.50B,,$118.90B,USD
+"2021, May 17, 16:00","(United States) Overall Net Capital Flows",Medium,$72.60B,,$146.40B,USD
+"2021, May 17, 16:00","(United States) Net Long-Term Tic Flows",Medium,$4.20B,,$262.20B,USD
+"2021, May 18, 01:00","(Finland) GDP YoY",Low,-0.60%,,1.10%,EUR
+"2021, May 18, 01:00","(Finland) GDP Growth Rate QoQ",Low,0.40%,0.2%,0.40%,EUR
+"2021, May 18, 01:00","(Finland) GDP Growth Rate YoY",Low,-1.40%,-0.5%,-0.30%,EUR
+"2021, May 18, 03:00","(Slovakia) GDP Growth Rate YoY",Low,-2.70%,-2.0%,0.30%,EUR
+"2021, May 18, 03:00","(Slovakia) GDP Growth Rate QoQ",Low,0.20%,-1.1%,-1.80%,EUR
+"2021, May 18, 03:30","(Netherlands) Household Consumption YoY",Low,-10.70%,1.5%,-0.40%,EUR
+"2021, May 18, 03:30","(Netherlands) GDP Growth Rate QoQ",Medium,-0.10%,-0.6%,-0.50%,EUR
+"2021, May 18, 03:30","(Netherlands) GDP Growth Rate YoY",Medium,-2.80%,-2.1%,-2.80%,EUR
+"2021, May 18, 03:30","(Netherlands) Balance of Trade",Low,€5.43B,€5.1B,€6.54B,EUR
+"2021, May 18, 04:00","(Italy) Balance of Trade",Medium,€4.75B,€4.2B,€5.19B,EUR
+"2021, May 18, 05:00","(Cyprus) GDP Growth Rate YoY",Low,-4.50%,-2.7%,-1.60%,EUR
+"2021, May 18, 05:00","(Cyprus) GDP Growth Rate QoQ",Low,1.40%,0.2%,2.00%,EUR
+"2021, May 18, 05:00","(Euro Area) GDP Growth Rate YoY",Medium,-4.90%,-1.8%,-1.80%,EUR
+"2021, May 18, 05:00","(Euro Area) GDP Growth Rate QoQ",Medium,-0.70%,-0.6%,-0.60%,EUR
+"2021, May 18, 05:00","(Euro Area) Employment Change QoQ",High,0.30%,0.5%,-0.30%,EUR
+"2021, May 18, 05:00","(Euro Area) Employment Change YoY",High,-1.90%,-1.4%,-2.10%,EUR
+"2021, May 18, 05:00","(Euro Area) Balance of Trade",Medium,€17.70B,€26.5B,€15.80B,EUR
+"2021, May 18, 05:00","(Montenegro) Inflation Rate YoY",Low,0.80%,2.1%,2.20%,EUR
+"2021, May 18, 05:00","(Montenegro) Harmonised Inflation Rate YoY",Low,0.50%,1.9%,1.80%,EUR
+"2021, May 18, 05:40","(Germany) 2-Year Schatz Auction",Low,-0.69%,,-0.66%,EUR
+"2021, May 18, 06:00","(Portugal) PPI MoM",Low,2.00%,,1.50%,EUR
+"2021, May 18, 06:00","(Portugal) PPI YoY",Low,0.70%,1.4%,4.90%,EUR
+"2021, May 18, 08:30","(United States) Building Permits MoM",Medium,2.70%,-0.9%,0.30%,USD
+"2021, May 18, 08:30","(United States) Housing Starts MoM",Medium,19.40%,-2.8%,-9.50%,USD
+"2021, May 18, 08:30","(United States) Housing Starts",Medium,1.74M,1.71M,1.57M,USD
+"2021, May 18, 08:30","(United States) Building Permits",Medium,1.77M,1.77M,1.76M,USD
+"2021, May 18, 08:55","(United States) Redbook YoY",Low,13.30%,,12.60%,USD
+"2021, May 18, 11:30","(United States) 52-Week Bill Auction",Low,0.07%,,0.06%,USD
+"2021, May 18, 11:30","(United States) 42-Day Bill Auction",Low,0.01%,,0.01%,USD
+"2021, May 18, 16:30","(United States) API Crude Oil Stock Change",Medium,-2.53M,1.68M,0.62M,USD
+"2021, May 19, 02:00","(European Union) New Car Registrations YoY",Medium,87.30%,200.0%,218.60%,EUR
+"2021, May 19, 03:00","(Austria) Harmonised Inflation Rate YoY",Low,2.00%,2.0%,1.90%,EUR
+"2021, May 19, 03:00","(Austria) Harmonised Inflation Rate MoM",Low,1.20%,0.2%,0.10%,EUR
+"2021, May 19, 03:00","(Austria) Inflation Rate MoM",Low,1.10%,0.2%,-0.10%,EUR
+"2021, May 19, 03:00","(Austria) Inflation Rate YoY",Low,2.00%,2.0%,1.90%,EUR
+"2021, May 19, 03:00","(Slovakia) Harmonised Inflation Rate YoY",Low,1.50%,1.8%,1.70%,EUR
+"2021, May 19, 03:00","(Slovakia) Harmonised Inflation Rate MoM",Low,0.60%,0.2%,0.20%,EUR
+"2021, May 19, 04:00","(Euro Area) ECB Financial Stability Review",Medium,,,,EUR
+"2021, May 19, 05:00","(Cyprus) Harmonised Inflation Rate YoY",Low,0.30%,1.2%,1.20%,EUR
+"2021, May 19, 05:00","(Euro Area) Inflation Rate MoM",Low,0.90%,0.6%,0.60%,EUR
+"2021, May 19, 05:00","(Euro Area) Core Inflation Rate YoY",Medium,0.90%,0.8%,0.70%,EUR
+"2021, May 19, 05:00","(Euro Area) Inflation Rate YoY",Medium,1.30%,1.6%,1.60%,EUR
+"2021, May 19, 05:00","(Malta) Inflation Rate YoY",Low,0.10%,0.2%,0.10%,EUR
+"2021, May 19, 05:40","(Germany) 10-Year Bund Auction",Low,-0.25%,,-0.09%,EUR
+"2021, May 19, 06:00","(Ireland) Balance of Trade",Low,€5.90B,€6.2B,€5.95B,EUR
+"2021, May 19, 06:25","(Portugal) Current Account",Low,-€52.50M,€-210.0M,€24.10M,EUR
+"2021, May 19, 07:00","(United States) MBA Mortgage Applications",Low,2.10%,,1.20%,USD
+"2021, May 19, 07:00","(United States) MBA 30-Year Mortgage Rate",Low,3.11%,,3.15%,USD
+"2021, May 19, 10:30","(United States) EIA Heating Oil Stocks Change",Low,-0.32M,,-0.16M,USD
+"2021, May 19, 10:30","(United States) EIA Gasoline Stocks Change",Medium,0.38M,-0.886M,-1.96M,USD
+"2021, May 19, 10:30","(United States) EIA Refinery Crude Runs Change",Low,-0.22M,,0.10M,USD
+"2021, May 19, 10:30","(United States) EIA Cushing Crude Oil Stocks Change",Low,-0.42M,,-0.14M,USD
+"2021, May 19, 10:30","(United States) EIA Crude Oil Imports Change",Low,2.36M,,-0.59M,USD
+"2021, May 19, 10:30","(United States) EIA Crude Oil Stocks Change",Medium,-0.43M,1.623M,1.32M,USD
+"2021, May 19, 10:30","(United States) EIA Distillate Stocks Change",Low,-1.73M,-0.386M,-2.32M,USD
+"2021, May 19, 10:30","(United States) EIA Gasoline Production Change",Low,0.44M,,0.17M,USD
+"2021, May 19, 10:30","(United States) EIA Distillate Fuel Production Change",Low,0.16M,,-0.10M,USD
+"2021, May 19, 11:35","(United States) Fed Bostic Speech",Medium,,,,USD
+"2021, May 19, 13:00","(United States) 20-Year Bond Auction",Low,2.14%,,2.29%,USD
+"2021, May 19, 14:00","(United States) FOMC Minutes",High,,,,USD
+"2021, May 20, 00:30","(Netherlands) Unemployment Rate",Medium,3.50%,3.6%,3.40%,EUR
+"2021, May 20, 01:00","(Estonia) PPI YoY",Low,4.80%,5.3%,6.80%,EUR
+"2021, May 20, 01:00","(Estonia) PPI MoM",Low,-0.20%,0.2%,1.60%,EUR
+"2021, May 20, 02:00","(Germany) PPI YoY",Low,3.70%,5.1%,5.20%,EUR
+"2021, May 20, 02:00","(Germany) PPI MoM",Medium,0.90%,0.8%,0.80%,EUR
+"2021, May 20, 04:00","(Euro Area) Current Account",Low,€13.30B,€25.1B,€31.00B,EUR
+"2021, May 20, 04:00","(Italy) Construction Output YoY",Low,3.50%,38.0%,74.50%,EUR
+"2021, May 20, 05:00","(Euro Area) Construction Output YoY",Medium,-5.80%,17.0%,18.30%,EUR
+"2021, May 20, 05:00","(Euro Area) ECB Lane Speech",Medium,,,,EUR
+"2021, May 20, 05:00","(France) 5-Year BTAN Auction",Low,-0.36%,,-0.19%,EUR
+"2021, May 20, 05:00","(France) 3-Year BTAN Auction",Low,-0.61%,,-0.53%,EUR
+"2021, May 20, 05:00","(Italy) Current Account",Low,€3737.00M,€3240.0M,€3099.00M,EUR
+"2021, May 20, 05:00","(Luxembourg) Unemployment Rate",Low,6.10%,6.2%,6.10%,EUR
+"2021, May 20, 05:00","(Spain) 10-Year Obligacion Auction",Low,0.43%,,0.60%,EUR
+"2021, May 20, 05:00","(Spain) 3-Year Bonos Auction",Low,-0.41%,,-0.36%,EUR
+"2021, May 20, 06:00","(Montenegro) Current Account",Low,-€227.00M,,-€160.00M,EUR
+"2021, May 20, 06:40","(Slovakia) Unemployment Rate",Low,8.00%,7.85%,8.00%,EUR
+"2021, May 20, 08:00","(Euro Area) ECB President Lagarde Speech",Medium,,,,EUR
+"2021, May 20, 08:30","(United States) Philadelphia Fed Manufacturing Index",Medium,50.20,43.0,31.50,USD
+"2021, May 20, 08:30","(United States) Continuing Jobless Claims",High,3655.00K,3640.0K,3751.00K,USD
+"2021, May 20, 08:30","(United States) Jobless Claims 4-week Average",High,534.00K,505.25K,504.75K,USD
+"2021, May 20, 08:30","(United States) Initial Jobless Claims",High,473.00K,450.0K,444.00K,USD
+"2021, May 20, 10:00","(United States) CB Leading Index MoM",Low,1.30%,1.4%,1.60%,USD
+"2021, May 20, 10:30","(United States) EIA Natural Gas Stocks Change",Low,71.00B,60.0B,71.00B,USD
+"2021, May 20, 11:30","(United States) 8-Week Bill Auction",Low,0.01%,,0.01%,USD
+"2021, May 20, 11:30","(United States) 4-Week Bill Auction",Low,0.00%,,0.00%,USD
+"2021, May 20, 13:00","(United States) 10-Year TIPS Auction",Low,-0.58%,,-0.81%,USD
+"2021, May 20, 18:05","(United States) Fed Kaplan Speech",Medium,,,,USD
+"2021, May 20, 19:01","(Ireland) Consumer Confidence",Low,77.90,81.0,85.80,EUR
+"2021, May 20, 20:00","(Montenegro) Independence Day",None,,,,EUR
+"2021, May 21, 00:30","(Netherlands) Consumer Confidence",Medium,-14.00,-12.0,-9.00,EUR
+"2021, May 21, 03:15","(France) Markit Composite PMI",Low,51.60,53.7,57.00,EUR
+"2021, May 21, 03:15","(France) Markit Manufacturing PMI",Medium,58.90,58.5,59.20,EUR
+"2021, May 21, 03:15","(France) Markit Services PMI",Medium,50.30,53.0,56.60,EUR
+"2021, May 21, 03:30","(Germany) Markit Composite PMI",High,55.80,57.1,56.20,EUR
+"2021, May 21, 03:30","(Germany) Markit Services PMI",High,49.90,52.0,52.80,EUR
+"2021, May 21, 03:30","(Germany) Markit Manufacturing PMI",High,66.20,65.9,64.00,EUR
+"2021, May 21, 04:00","(Euro Area) Markit Composite PMI",High,53.80,55.1,56.90,EUR
+"2021, May 21, 04:00","(Euro Area) Markit Services PMI",High,50.50,52.3,55.10,EUR
+"2021, May 21, 04:00","(Euro Area) Markit Manufacturing PMI",High,62.90,62.5,62.80,EUR
+"2021, May 21, 04:00","(Euro Area) Eurogroup Meeting",Medium,,,,EUR
+"2021, May 21, 04:00","(Greece) Current Account",Low,-€0.84B,€-1.0B,-€1.46B,EUR
+"2021, May 21, 04:00","(Italy) Industrial Sales YoY",Low,0.90%,29.5%,38.10%,EUR
+"2021, May 21, 04:00","(Italy) Industrial Sales MoM",Low,0.20%,0.5%,1.60%,EUR
+"2021, May 21, 04:30","(Slovenia) Consumer Confidence",Low,-25.00,-23.0,-18.00,EUR
+"2021, May 21, 04:30","(Slovenia) PPI YoY",Low,2.00%,2.3%,2.40%,EUR
+"2021, May 21, 05:00","(Belgium) Consumer Confidence",Low,-6.00,-2.0,4.00,EUR
+"2021, May 21, 05:45","(Portugal) Private Consumption YoY",Low,-0.30%,1.5%,-0.40%,EUR
+"2021, May 21, 05:45","(Portugal) Economic Activity YoY",Low,-2.80%,1.2%,-2.00%,EUR
+"2021, May 21, 06:00","(Germany) Bundesbank Monthly Report",Low,,,,EUR
+"2021, May 21, 06:00","(Ireland) Wholesale Prices MoM",Low,1.00%,,0.40%,EUR
+"2021, May 21, 06:00","(Ireland) Wholesale Prices YoY",Low,-10.10%,-8.6%,-7.00%,EUR
+"2021, May 21, 07:00","(Euro Area) ECB President Lagarde Speech",Medium,,,,EUR
+"2021, May 21, 07:00","(Slovakia) Current Account",Low,-€177.00M,,€264.90M,EUR
+"2021, May 21, 08:00","(Slovenia) Unemployment Rate",Low,9.00%,8.9%,9.00%,EUR
+"2021, May 21, 09:15","(United States) Fed Kaplan Speech",Medium,,,,USD
+"2021, May 21, 09:45","(United States) Markit Services PMI",High,64.70,64.5,70.10,USD
+"2021, May 21, 09:45","(United States) Markit Composite PMI",High,63.50,63.0,68.10,USD
+"2021, May 21, 09:45","(United States) Markit Manufacturing PMI",High,60.50,60.2,61.50,USD
+"2021, May 21, 10:00","(Euro Area) Consumer Confidence",Medium,-8.10,-6.8,-5.10,EUR
+"2021, May 21, 10:00","(United States) Existing Home Sales MoM",High,-3.70%,2.0%,-2.70%,USD
+"2021, May 21, 10:00","(United States) Existing Home Sales",High,6.01M,6.09M,5.85M,USD
+"2021, May 21, 13:00","(United States) Baker Hughes Oil Rig Count",Low,352.00,,356.00,USD
+"2021, May 21, 13:00","(United States) Baker Hughes Total Rig Count",Low,453.00,,455.00,USD
+"2021, May 21, 13:30","(United States) Fed Daly Speech",Medium,,,,USD
+"2021, May 21, 16:55","(United States) Fed Kaplan Speech",Medium,,,,USD
+"2021, May 22, 07:30","(Euro Area) ECB Guindos Speech",High,,,,EUR
+"2021, May 23, 20:00","(Austria) Pentecost Monday",None,,,,EUR
+"2021, May 23, 20:00","(Belgium) Pentecost Monday",None,,,,EUR
+"2021, May 23, 20:00","(Ecuador) The Battle of Pichincha",None,,,,USD
+"2021, May 23, 20:00","(France) Pentecost Monday",None,,,,EUR
+"2021, May 23, 20:00","(Germany) Pentecost Monday",None,,,,EUR
+"2021, May 23, 20:00","(Luxembourg) Pentecost Monday",None,,,,EUR
+"2021, May 23, 20:00","(Netherlands) Pentecost Monday",None,,,,EUR
+"2021, May 24, 01:00","(Finland) Export Prices YoY",Low,6.90%,,9.40%,EUR
+"2021, May 24, 01:00","(Finland) Import Prices YoY",Low,7.70%,,12.00%,EUR
+"2021, May 24, 01:00","(Finland) PPI YoY",Low,6.70%,7.1%,8.70%,EUR
+"2021, May 24, 02:00","(Lithuania) Industrial Production MoM",Low,4.50%,,-2.40%,EUR
+"2021, May 24, 02:00","(Lithuania) Industrial Production YoY",Low,14.50%,10.5%,25.10%,EUR
+"2021, May 24, 06:00","(Latvia) PPI MoM",Low,1.40%,0.6%,1.60%,EUR
+"2021, May 24, 06:00","(Latvia) PPI YoY",Low,3.40%,4.1%,5.10%,EUR
+"2021, May 24, 08:30","(Kosovo) Balance of Trade",Low,-€321.00M,,-€323.00M,EUR
+"2021, May 24, 08:30","(United States) Chicago Fed National Activity Index",Medium,1.71,2.5,0.24,USD
+"2021, May 24, 09:00","(United States) Fed Brainard Speech",Medium,,,,USD
+"2021, May 24, 11:00","(United States) Fed Mester Speech",Medium,,,,USD
+"2021, May 24, 11:30","(United States) 6-Month Bill Auction",Low,0.03%,,0.03%,USD
+"2021, May 24, 11:30","(United States) 3-Month Bill Auction",Low,0.01%,,0.01%,USD
+"2021, May 24, 12:00","(United States) Fed Bostic Speech",Medium,,,,USD
+"2021, May 24, 17:30","(United States) Fed George Speech",Medium,,,,USD
+"2021, May 24, 21:50","(East Timor) Inflation Rate YoY",Low,2.90%,,3.40%,USD
+"2021, May 25, 01:00","(Finland) Unemployment Rate",Low,8.10%,8.2%,9.00%,EUR
+"2021, May 25, 02:00","(Germany) GDP Growth Rate QoQ",Medium,0.50%,-1.7%,-1.80%,EUR
+"2021, May 25, 02:00","(Germany) GDP Growth Rate YoY",Medium,-3.30%,-3.0%,-3.10%,EUR
+"2021, May 25, 03:00","(Austria) Industrial Production YoY",Low,1.90%,1.5%,12.70%,EUR
+"2021, May 25, 03:00","(Spain) PPI YoY",Low,6.30%,7.5%,12.80%,EUR
+"2021, May 25, 04:00","(Germany) Ifo Expectations",Low,99.50,101.4,102.90,EUR
+"2021, May 25, 04:00","(Germany) Ifo Current Conditions",Low,94.10,95.5,95.70,EUR
+"2021, May 25, 04:00","(Germany) Ifo Business Climate",High,96.80,98.2,99.20,EUR
+"2021, May 25, 04:30","(Slovenia) Tourist Arrivals",Low,24.50%,,29.30%,EUR
+"2021, May 25, 04:30","(Slovenia) Business Confidence",Low,9.00,10.0,12.00,EUR
+"2021, May 25, 05:40","(Germany) 12-Month Bubill Auction",Low,-0.64%,,-0.64%,EUR
+"2021, May 25, 06:00","(Latvia) Unemployment Rate",Low,7.90%,9.2%,8.10%,EUR
+"2021, May 25, 07:40","(United States) Fed Evans Speech",Low,,,,USD
+"2021, May 25, 08:55","(United States) Redbook YoY",Low,12.60%,,13.60%,USD
+"2021, May 25, 09:00","(Belgium) Business Confidence",Low,4.40,5.0,6.50,EUR
+"2021, May 25, 09:00","(France) 6-Month BTF Auction",Low,-0.63%,,-0.64%,EUR
+"2021, May 25, 09:00","(France) 3-Month BTF Auction",Low,-0.63%,,-0.63%,EUR
+"2021, May 25, 09:00","(France) 12-Month BTF Auction",Low,-0.63%,,-0.63%,EUR
+"2021, May 25, 09:00","(United States) S&P/Case-Shiller Home Price YoY",Medium,11.90%,12.3%,13.30%,USD
+"2021, May 25, 09:00","(United States) S&P/Case-Shiller Home Price MoM",Medium,1.20%,0.9%,2.20%,USD
+"2021, May 25, 09:00","(United States) House Price Index MoM",Low,0.90%,0.8%,1.40%,USD
+"2021, May 25, 09:00","(United States) House Price Index YoY",Low,12.20%,13.0%,13.90%,USD
+"2021, May 25, 10:00","(Euro Area) ECB Lane Speech",Low,,,,EUR
+"2021, May 25, 10:00","(United States) New Home Sales MoM",High,20.70%,-10.0%,-5.90%,USD
+"2021, May 25, 10:00","(United States) New Home Sales",High,1.02M,0.97M,0.86M,USD
+"2021, May 25, 10:00","(United States) Richmond Fed Manufacturing Index",Low,17.00,15.0,18.00,USD
+"2021, May 25, 10:00","(United States) Fed Quarles Testimony",Medium,,,,USD
+"2021, May 25, 10:00","(United States) CB Consumer Confidence",Medium,121.70,119.2,117.20,USD
+"2021, May 25, 11:30","(United States) 42-Day Bill Auction",Low,0.01%,,0.01%,USD
+"2021, May 25, 13:00","(United States) 2-Year Note Auction",Low,0.17%,,0.15%,USD
+"2021, May 25, 16:30","(United States) API Crude Oil Stock Change",Medium,0.62M,-1.279M,-0.44M,USD
+"2021, May 26, 02:45","(France) Consumer Confidence",Medium,94.00,97.0,97.00,EUR
+"2021, May 26, 02:45","(France) Business Confidence",Medium,104.00,106.0,107.00,EUR
+"2021, May 26, 02:45","(France) Business Climate Indicator",Low,95.00,97.0,108.00,EUR
+"2021, May 26, 07:00","(United States) MBA Mortgage Applications",Low,1.20%,,-4.20%,USD
+"2021, May 26, 07:00","(United States) MBA 30-Year Mortgage Rate",Low,3.15%,,3.18%,USD
+"2021, May 26, 10:00","(Luxembourg) Balance of Trade",Low,-€0.55B,,-€0.60B,EUR
+"2021, May 26, 10:00","(United States) Fed Quarles Speech",Medium,,,,USD
+"2021, May 26, 10:30","(United States) EIA Heating Oil Stocks Change",Low,-0.16M,,0.35M,USD
+"2021, May 26, 10:30","(United States) EIA Gasoline Stocks Change",Medium,-1.96M,-0.614M,-1.75M,USD
+"2021, May 26, 10:30","(United States) EIA Refinery Crude Runs Change",Low,0.10M,,0.12M,USD
+"2021, May 26, 10:30","(United States) EIA Cushing Crude Oil Stocks Change",Low,-0.14M,,-1.01M,USD
+"2021, May 26, 10:30","(United States) EIA Crude Oil Imports Change",Low,-0.59M,,-0.27M,USD
+"2021, May 26, 10:30","(United States) EIA Crude Oil Stocks Change",Medium,1.32M,-1.05M,-1.66M,USD
+"2021, May 26, 10:30","(United States) EIA Distillate Stocks Change",Low,-2.32M,-1.9M,-3.01M,USD
+"2021, May 26, 10:30","(United States) EIA Gasoline Production Change",Low,0.17M,,-0.01M,USD
+"2021, May 26, 10:30","(United States) EIA Distillate Fuel Production Change",Low,-0.10M,,0.11M,USD
+"2021, May 26, 11:30","(United States) 2-Year FRN Auction",Low,0.03%,,0.03%,USD
+"2021, May 26, 13:00","(United States) 5-Year Note Auction",Low,0.85%,,0.79%,USD
+"2021, May 26, 15:00","(United States) Fed Quarles Speech",Medium,,,,USD
+"2021, May 27, 01:00","(Finland) Consumer Confidence",Low,3.80,4.3,2.70,EUR
+"2021, May 27, 02:00","(Germany) GfK Consumer Confidence",High,-8.80,-5.2,-7.00,EUR
+"2021, May 27, 04:00","(Austria) Bank Austria Manufacturing PMI",High,64.70,64.2,66.40,EUR
+"2021, May 27, 04:00","(Italy) Consumer Confidence",Medium,102.30,104.4,110.60,EUR
+"2021, May 27, 04:00","(Italy) Business Confidence",Medium,105.40,106.4,110.20,EUR
+"2021, May 27, 05:00","(Montenegro) Balance of Trade",Low,-€151.00M,,-€150.00M,EUR
+"2021, May 27, 05:45","(Euro Area) ECB Guindos Speech",High,,,,EUR
+"2021, May 27, 06:00","(Euro Area) ECB Elderson Speech",Low,,,,EUR
+"2021, May 27, 06:00","(France) Jobseekers Total",Low,3557.90K,3531.9K,3623.80K,EUR
+"2021, May 27, 06:00","(France) Unemployment Benefit Claims",Medium,-16.80K,-26.0K,65.90K,EUR
+"2021, May 27, 06:00","(Italy) 6-Month BOT Auction",Low,-0.48%,,-0.50%,EUR
+"2021, May 27, 08:00","(Germany) Bundesbank Weidmann Speech",Low,,,,EUR
+"2021, May 27, 08:30","(United States) GDP Price Index QoQ",Medium,1.90%,4.1%,4.30%,USD
+"2021, May 27, 08:30","(United States) Corporate Profits QoQ",Medium,-3.30%,2.0%,-0.80%,USD
+"2021, May 27, 08:30","(United States) GDP Growth Rate QoQ",Medium,4.30%,6.5%,6.40%,USD
+"2021, May 27, 08:30","(United States) Durable Goods Orders Ex Transp MoM",High,1.60%,0.8%,1.00%,USD
+"2021, May 27, 08:30","(United States) Durable Goods Orders MoM",High,0.50%,0.7%,-1.30%,USD
+"2021, May 27, 08:30","(United States) Durable Goods Orders ex Defense MoM",High,0.50%,0.4%,0.00%,USD
+"2021, May 27, 08:30","(United States) Core PCE Prices QoQ",Low,1.30%,2.3%,2.50%,USD
+"2021, May 27, 08:30","(United States) PCE Prices QoQ",Low,1.50%,3.5%,3.70%,USD
+"2021, May 27, 08:30","(United States) Continuing Jobless Claims",High,3751.00K,3680.0K,3642.00K,USD
+"2021, May 27, 08:30","(United States) Jobless Claims 4-week Average",High,504.75K,463.5K,458.75K,USD
+"2021, May 27, 08:30","(United States) Initial Jobless Claims",High,444.00K,425.0K,406.00K,USD
+"2021, May 27, 09:00","(Euro Area) ECB Schnabel Speech",Medium,,,,EUR
+"2021, May 27, 10:00","(United States) Pending Home Sales MoM",Medium,1.90%,0.8%,-4.40%,USD
+"2021, May 27, 10:00","(United States) Pending Home Sales YoY",Medium,23.30%,35.0%,51.70%,USD
+"2021, May 27, 10:30","(United States) EIA Natural Gas Stocks Change",Low,71.00B,104.0B,115.00B,USD
+"2021, May 27, 11:00","(United States) Kansas Fed Manufacturing Index",Low,40.00,32.0,32.00,USD
+"2021, May 27, 11:30","(United States) 4-Week Bill Auction",Low,0.00%,,0.00%,USD
+"2021, May 27, 11:30","(United States) 8-Week Bill Auction",Low,0.01%,,0.01%,USD
+"2021, May 27, 13:00","(United States) 7-Year Note Auction",Low,1.31%,,1.28%,USD
+"2021, May 28, 00:30","(Netherlands) Business Confidence",Low,6.50,8.0,8.80,EUR
+"2021, May 28, 01:00","(Estonia) Retail Sales YoY",Low,4.00%,16.3%,23.00%,EUR
+"2021, May 28, 01:00","(Estonia) Retail Sales MoM",Low,10.00%,3.5%,-1.00%,EUR
+"2021, May 28, 01:00","(Finland) GDP Growth Rate YoY",Low,-1.40%,-0.3%,-1.00%,EUR
+"2021, May 28, 01:00","(Finland) GDP Growth Rate QoQ",Low,0.40%,0.4%,-0.10%,EUR
+"2021, May 28, 02:00","(Germany) Import Prices MoM",Low,1.80%,1.1%,1.40%,EUR
+"2021, May 28, 02:00","(Germany) Import Prices YoY",Low,6.90%,10.0%,10.30%,EUR
+"2021, May 28, 02:00","(Lithuania) Retail Sales YoY",Low,20.90%,23.2%,35.70%,EUR
+"2021, May 28, 02:00","(Lithuania) Retail Sales MoM",Low,21.80%,,4.50%,EUR
+"2021, May 28, 02:45","(France) Household Consumption MoM",Low,-1.10%,1.5%,-8.30%,EUR
+"2021, May 28, 02:45","(France) PPI MoM",Low,1.00%,0.5%,-0.30%,EUR
+"2021, May 28, 02:45","(France) Harmonised Inflation Rate YoY",Low,1.60%,1.8%,1.80%,EUR
+"2021, May 28, 02:45","(France) Harmonised Inflation Rate MoM",Low,0.20%,0.3%,0.40%,EUR
+"2021, May 28, 02:45","(France) Inflation Rate MoM",Low,0.10%,0.3%,0.30%,EUR
+"2021, May 28, 02:45","(France) Inflation Rate YoY",Medium,1.20%,1.4%,1.40%,EUR
+"2021, May 28, 02:45","(France) GDP Growth Rate QoQ",Medium,-1.40%,0.4%,-0.10%,EUR
+"2021, May 28, 02:45","(France) PPI YoY",Low,4.50%,8.0%,7.30%,EUR
+"2021, May 28, 03:00","(Austria) PPI MoM",Low,1.00%,0.7%,1.00%,EUR
+"2021, May 28, 03:00","(Austria) PPI YoY",Low,2.80%,4.3%,4.60%,EUR
+"2021, May 28, 03:00","(Slovakia) Business Confidence",Low,10.30,9.7,0.30,EUR
+"2021, May 28, 03:00","(Slovakia) Consumer Confidence",Low,-22.50,-21.3,-21.10,EUR
+"2021, May 28, 03:00","(Spain) Retail Sales YoY",High,14.90%,36.0%,41.00%,EUR
+"2021, May 28, 03:00","(Spain) Retail Sales MoM",High,3.50%,1.2%,-0.40%,EUR
+"2021, May 28, 04:00","(Italy) PPI YoY",Low,2.70%,5.8%,6.50%,EUR
+"2021, May 28, 04:00","(Italy) PPI MoM",Low,0.90%,0.4%,1.10%,EUR
+"2021, May 28, 04:30","(Portugal) Consumer Confidence",Low,-21.00,-17.0,-16.70,EUR
+"2021, May 28, 04:30","(Portugal) Business Confidence",Low,-0.50,0.6,0.50,EUR
+"2021, May 28, 04:30","(Slovenia) Retail Sales MoM",Low,3.40%,,-10.40%,EUR
+"2021, May 28, 04:30","(Slovenia) Retail Sales YoY",Low,24.00%,28.0%,25.10%,EUR
+"2021, May 28, 05:00","(Austria) Consumer Confidence",Low,-8.00,-6.5,-2.30,EUR
+"2021, May 28, 05:00","(Austria) Business Confidence",Low,12.30,12.6,14.30,EUR
+"2021, May 28, 05:00","(Cyprus) Consumer Confidence",Low,-18.40,-16.5,-17.80,EUR
+"2021, May 28, 05:00","(Cyprus) Business Confidence",Low,93.20,95.5,100.60,EUR
+"2021, May 28, 05:00","(Cyprus) Industrial Production YoY",Low,-7.60%,4.2%,8.30%,EUR
+"2021, May 28, 05:00","(Euro Area) Consumer Confidence",Medium,-8.10,-5.1,-5.10,EUR
+"2021, May 28, 05:00","(Euro Area) Industrial Sentiment",Low,10.70,11.3,11.50,EUR
+"2021, May 28, 05:00","(Euro Area) Services Sentiment",Low,2.10,7.5,11.30,EUR
+"2021, May 28, 05:00","(Euro Area) Economic Sentiment",Medium,110.30,112.1,114.50,EUR
+"2021, May 28, 05:00","(Euro Area) Consumer Inflation Expectations",Low,19.60,22.0,22.20,EUR
+"2021, May 28, 05:00","(Finland) Business Confidence",Low,9.80,9.3,15.00,EUR
+"2021, May 28, 05:00","(Greece) Consumer Confidence",Low,-34.60,-32.0,-22.20,EUR
+"2021, May 28, 05:00","(Greece) Business Confidence",Low,97.90,99.1,108.60,EUR
+"2021, May 28, 05:00","(Greece) PPI YoY",Low,9.10%,10.2%,14.60%,EUR
+"2021, May 28, 05:00","(Luxembourg) Consumer Confidence",Low,-0.60,1.2,-1.60,EUR
+"2021, May 28, 05:00","(Luxembourg) Business Confidence",Low,116.50,112.0,120.20,EUR
+"2021, May 28, 05:00","(Malta) Consumer Confidence",Low,5.20,7.8,8.30,EUR
+"2021, May 28, 05:30","(Belgium) Inflation Rate YoY",Low,1.23%,1.6%,1.46%,EUR
+"2021, May 28, 05:30","(Belgium) Inflation Rate MoM",Low,0.33%,0.3%,0.15%,EUR
+"2021, May 28, 05:45","(Italy) 10-Year BTP Auction",Low,0.88%,,0.94%,EUR
+"2021, May 28, 05:45","(Italy) 5-Year BTP Auction",Low,0.17%,,0.17%,EUR
+"2021, May 28, 06:00","(Ireland) Retail Sales YoY",Low,8.50%,45.0%,90.10%,EUR
+"2021, May 28, 06:00","(Ireland) Retail Sales MoM",Low,-1.90%,1.5%,7.40%,EUR
+"2021, May 28, 06:00","(Latvia) Retail Sales YoY",Low,3.20%,9.2%,15.60%,EUR
+"2021, May 28, 06:00","(Latvia) Retail Sales MoM",Low,6.90%,,3.90%,EUR
+"2021, May 28, 06:00","(Portugal) Retail Sales MoM",Low,2.20%,1.2%,4.40%,EUR
+"2021, May 28, 06:00","(Portugal) Retail Sales YoY",Low,-0.10%,25.1%,28.30%,EUR
+"2021, May 28, 07:20","(Spain) Business Confidence",Medium,-1.90,2.0,1.10,EUR
+"2021, May 28, 08:30","(United States) Goods Trade Balance",High,-$90.60B,$-91.0B,-$85.23B,USD
+"2021, May 28, 08:30","(United States) Wholesale Inventories MoM",Medium,1.30%,1.2%,0.80%,USD
+"2021, May 28, 08:30","(United States) Core PCE Price Index MoM",Low,0.40%,0.6%,0.70%,USD
+"2021, May 28, 08:30","(United States) Core PCE Price Index YoY",Low,1.80%,2.9%,3.10%,USD
+"2021, May 28, 08:30","(United States) PCE Price Index MoM",Medium,0.50%,0.7%,0.60%,USD
+"2021, May 28, 08:30","(United States) PCE Price Index YoY",Medium,2.30%,3.0%,3.60%,USD
+"2021, May 28, 08:30","(United States) Personal Spending MoM",High,4.20%,0.5%,0.50%,USD
+"2021, May 28, 08:30","(United States) Personal Income MoM",High,21.10%,-14.1%,-13.10%,USD
+"2021, May 28, 09:45","(United States) Chicago PMI",Medium,72.10,68.0,75.20,USD
+"2021, May 28, 10:00","(United States) Michigan Current Conditions",Medium,97.20,90.8,89.40,USD
+"2021, May 28, 10:00","(United States) Michigan Consumer Expectations",Medium,82.70,77.6,78.80,USD
+"2021, May 28, 10:00","(United States) Michigan 5 Year Inflation Expectations",Medium,2.70%,3.1%,3.00%,USD
+"2021, May 28, 10:00","(United States) Michigan Consumer Sentiment",High,88.30,82.9,82.90,USD
+"2021, May 28, 10:00","(United States) Michigan Inflation Expectations",Medium,3.40%,4.6%,4.60%,USD
+"2021, May 28, 13:00","(United States) Baker Hughes Total Rig Count",Low,455.00,,457.00,USD
+"2021, May 28, 13:00","(United States) Baker Hughes Oil Rig Count",Low,356.00,,359.00,USD
+"2021, May 28, 14:00","(United States) President's FY2022 Budget",Medium,-$966.00B,,-$1837.00B,USD
+"2021, May 30, 20:00","(United States) Memorial Day",None,,,,USD
+"2021, May 31, 00:30","(Netherlands) Retail Sales YoY",Low,5.90%,6.5%,9.60%,EUR
+"2021, May 31, 01:00","(Estonia) GDP Growth Rate YoY",Low,-1.20%,-1.5%,5.40%,EUR
+"2021, May 31, 01:00","(Estonia) GDP Growth Rate QoQ",Low,2.10%,-1.3%,4.80%,EUR
+"2021, May 31, 03:00","(Austria) GDP Growth Rate QoQ",Low,-2.70%,0.2%,-1.10%,EUR
+"2021, May 31, 03:00","(Austria) GDP Growth Rate YoY",Low,-5.90%,-2.7%,-5.50%,EUR
+"2021, May 31, 03:00","(Spain) Inflation Rate MoM",Low,1.20%,0.4%,0.40%,EUR
+"2021, May 31, 03:00","(Spain) Harmonised Inflation Rate YoY",Low,2.00%,2.4%,2.40%,EUR
+"2021, May 31, 03:00","(Spain) Harmonised Inflation Rate MoM",Low,1.10%,0.5%,0.50%,EUR
+"2021, May 31, 03:00","(Spain) Inflation Rate YoY",Low,2.20%,2.6%,2.70%,EUR
+"2021, May 31, 04:00","(Euro Area) Loans to Companies YoY",Low,5.30%,5.1%,3.20%,EUR
+"2021, May 31, 04:00","(Euro Area) M3 Money Supply YoY",Low,10.10%,9.5%,9.20%,EUR
+"2021, May 31, 04:00","(Euro Area) Loans to Households YoY",Low,3.30%,3.3%,3.80%,EUR
+"2021, May 31, 04:00","(Spain) Current Account",Low,-€1.71B,€-0.2B,-€0.16B,EUR
+"2021, May 31, 04:30","(Slovenia) GDP Growth Rate YoY",Low,-4.50%,-1.2%,1.60%,EUR
+"2021, May 31, 04:30","(Slovenia) GDP Growth Rate QoQ",Low,-0.60%,-0.3%,1.40%,EUR
+"2021, May 31, 04:30","(Slovenia) Harmonised Inflation Rate YoY",Low,2.20%,1.9%,2.20%,EUR
+"2021, May 31, 04:30","(Slovenia) Inflation Rate YoY",Low,2.10%,2.0%,2.10%,EUR
+"2021, May 31, 05:00","(Belgium) GDP Growth Rate YoY",Low,-5.10%,-1.0%,-0.60%,EUR
+"2021, May 31, 05:00","(Belgium) GDP Growth Rate QoQ",Low,-0.10%,0.6%,1.00%,EUR
+"2021, May 31, 05:00","(Greece) Retail Sales YoY",High,-1.80%,4.5%,-0.90%,EUR
+"2021, May 31, 05:00","(Italy) Harmonised Inflation Rate YoY",Low,1.00%,1.3%,1.30%,EUR
+"2021, May 31, 05:00","(Italy) Harmonised Inflation Rate MoM",Low,0.90%,0.1%,0.00%,EUR
+"2021, May 31, 05:00","(Italy) Inflation Rate YoY",Medium,1.10%,1.5%,1.30%,EUR
+"2021, May 31, 05:00","(Italy) Inflation Rate MoM",Low,0.40%,0.2%,0.00%,EUR
+"2021, May 31, 05:00","(Malta) PPI YoY",Low,1.04%,1.7%,0.39%,EUR
+"2021, May 31, 05:00","(Montenegro) Tourist Arrivals",Low,9.90K,,18.80K,EUR
+"2021, May 31, 05:30","(Belgium) PPI YoY",Low,8.00%,9.4%,12.00%,EUR
+"2021, May 31, 06:00","(Cyprus) GDP Growth Rate QoQ",Low,1.10%,2.0%,2.00%,EUR
+"2021, May 31, 06:00","(Cyprus) GDP Growth Rate YoY",Low,-4.40%,-1.6%,-1.60%,EUR
+"2021, May 31, 06:00","(Latvia) GDP Growth Rate YoY",Low,-1.50%,-2.2%,-1.30%,EUR
+"2021, May 31, 06:00","(Latvia) GDP Growth Rate QoQ",Low,1.10%,-2.6%,-1.70%,EUR
+"2021, May 31, 06:00","(Portugal) GDP Growth Rate YoY",Low,-6.10%,-5.4%,-5.40%,EUR
+"2021, May 31, 06:00","(Portugal) GDP Growth Rate QoQ",Low,0.20%,-3.3%,-3.30%,EUR
+"2021, May 31, 06:00","(Portugal) Inflation Rate MoM",Low,0.40%,0.2%,0.20%,EUR
+"2021, May 31, 06:00","(Portugal) Inflation Rate YoY",Low,0.60%,1.2%,1.20%,EUR
+"2021, May 31, 06:15","(Greece) Total Credit YoY",Low,15.60%,15.4%,17.30%,EUR
+"2021, May 31, 07:00","(Luxembourg) PPI YoY",Low,3.60%,2.9%,2.20%,EUR
+"2021, May 31, 08:00","(Germany) Inflation Rate MoM",Low,0.70%,0.3%,0.50%,EUR
+"2021, May 31, 08:00","(Germany) Harmonised Inflation Rate YoY",Low,2.10%,2.5%,2.40%,EUR
+"2021, May 31, 08:00","(Germany) Harmonised Inflation Rate MoM",Low,0.50%,0.3%,0.30%,EUR
+"2021, May 31, 08:00","(Germany) Inflation Rate YoY",Medium,2.00%,2.3%,2.50%,EUR
+"2021, May 31, 09:00","(France) 12-Month BTF Auction",Low,-0.63%,,-0.64%,EUR
+"2021, May 31, 09:00","(France) 6-Month BTF Auction",Low,-0.64%,,-0.65%,EUR
+"2021, May 31, 09:00","(France) 3-Month BTF Auction",Low,-0.63%,,-0.63%,EUR
+"2021, May 31, 20:01","(Ireland) AIB Manufacturing PMI",Low,60.80,60.0,64.10,EUR
+"2021, June 01, 02:00","(Germany) Unemployment Rate Harmonised",High,4.50%,4.5%,4.40%,EUR
+"2021, June 01, 02:00","(Lithuania) GDP Growth Rate QoQ",Low,-0.20%,1.8%,2.00%,EUR
+"2021, June 01, 02:00","(Lithuania) GDP Growth Rate YoY",Low,-1.00%,1.0%,1.20%,EUR
+"2021, June 01, 03:00","(Netherlands) NEVI Manufacturing PMI",Low,67.20,67.7,69.40,EUR
+"2021, June 01, 03:00","(Spain) Tourist Arrivals YoY",Low,-75.50K,,630.60K,EUR
+"2021, June 01, 03:15","(Spain) Markit Manufacturing PMI",High,57.70,59.5,59.40,EUR
+"2021, June 01, 03:45","(Italy) IHS Markit Manufacturing PMI",High,60.70,62.0,62.30,EUR
+"2021, June 01, 03:50","(France) Markit Manufacturing PMI",Medium,58.90,59.2,59.40,EUR
+"2021, June 01, 03:55","(Germany) Markit Manufacturing PMI",High,66.20,64.0,64.40,EUR
+"2021, June 01, 03:55","(Germany) Unemployment Rate",High,6.00%,6.0%,6.00%,EUR
+"2021, June 01, 03:55","(Germany) Unemployment Change",High,9.00K,-9.0K,-15.00K,EUR
+"2021, June 01, 04:00","(Euro Area) Markit Manufacturing PMI",High,62.90,62.8,63.10,EUR
+"2021, June 01, 04:00","(Greece) Markit Manufacturing PMI",High,54.40,54.9,58.00,EUR
+"2021, June 01, 04:00","(Italy) Unemployment Rate",High,10.10%,10.1%,10.70%,EUR
+"2021, June 01, 04:30","(Austria) Unemployment Rate",High,8.70%,8.2%,7.70%,EUR
+"2021, June 01, 05:00","(Cyprus) Unemployment Rate",Low,7.10%,7.5%,9.40%,EUR
+"2021, June 01, 05:00","(Euro Area) Unemployment Rate",High,8.10%,8.1%,8.00%,EUR
+"2021, June 01, 05:00","(Euro Area) Inflation Rate MoM",Medium,0.60%,0.3%,0.30%,EUR
+"2021, June 01, 05:00","(Euro Area) Inflation Rate YoY",Medium,1.60%,1.9%,2.00%,EUR
+"2021, June 01, 05:00","(Euro Area) Core Inflation Rate YoY",Medium,0.70%,0.8%,0.90%,EUR
+"2021, June 01, 05:00","(France) New Car Registrations YoY",Low,568.60%,54.5%,46.40%,EUR
+"2021, June 01, 05:00","(Italy) GDP Growth Rate QoQ",Medium,-1.80%,-0.4%,0.10%,EUR
+"2021, June 01, 05:00","(Italy) GDP Growth Rate YoY",Medium,-6.60%,-1.4%,-0.80%,EUR
+"2021, June 01, 05:10","(Cyprus) Retail Sales YoY",Low,1.00%,3.2%,10.60%,EUR
+"2021, June 01, 06:00","(Ireland) Average Weekly Earnings YoY",Low,7.50%,8.8%,8.40%,EUR
+"2021, June 01, 06:00","(Portugal) Industrial Production YoY",Low,5.00%,34.2%,36.90%,EUR
+"2021, June 01, 06:00","(Portugal) Industrial Production MoM",Low,-0.90%,0.7%,0.50%,EUR
+"2021, June 01, 06:30","(Portugal) Budget Balance",Low,-€3.00B,€-4.4B,-€5.68B,EUR
+"2021, June 01, 06:35","(Spain) New Car Sales YoY",Low,1.79%,,177.80%,EUR
+"2021, June 01, 09:00","(United States) LMI Logistics Managers Index Current",Low,74.50,,71.30,USD
+"2021, June 01, 09:45","(United States) Markit Manufacturing PMI",High,60.50,61.5,62.10,USD
+"2021, June 01, 10:00","(United States) Fed Quarles Speech",Medium,,,,USD
+"2021, June 01, 10:00","(United States) ISM Manufacturing New Orders",Low,64.30,64.0,67.00,USD
+"2021, June 01, 10:00","(United States) ISM Manufacturing Prices",Low,89.60,89.8,88.00,USD
+"2021, June 01, 10:00","(United States) Construction Spending MoM",Medium,0.20%,0.5%,0.20%,USD
+"2021, June 01, 10:00","(United States) ISM Manufacturing Employment",Low,55.10,55.3,50.90,USD
+"2021, June 01, 10:00","(United States) ISM Manufacturing PMI",High,60.70,60.9,61.20,USD
+"2021, June 01, 10:30","(United States) Dallas Fed Manufacturing Index",Medium,37.30,32.0,34.90,USD
+"2021, June 01, 11:20","(United States) NY Fed Treasury Purchases 2.25 to 4.5 yrs",Low,,8.425,,USD
+"2021, June 01, 11:30","(United States) 6-Month Bill Auction",Low,0.03%,,0.04%,USD
+"2021, June 01, 11:30","(United States) 3-Month Bill Auction",Low,0.01%,,0.02%,USD
+"2021, June 01, 14:00","(United States) Fed Brainard Speech",Medium,,,,USD
+"2021, June 01, 20:00","(Italy) Republic Day",None,,,,EUR
+"2021, June 02, 02:00","(Germany) Retail Sales MoM",High,7.70%,-2.0%,-5.50%,EUR
+"2021, June 02, 02:00","(Germany) Retail Sales YoY",High,11.00%,10.1%,4.40%,EUR
+"2021, June 02, 02:45","(France) Budget Balance",Low,-€60.07B,€-98.0B,-€91.37B,EUR
+"2021, June 02, 03:00","(Spain) Unemployment Change",High,-39.00K,-54.0K,-129.40K,EUR
+"2021, June 02, 05:00","(Euro Area) PPI MoM",Low,1.10%,0.9%,1.00%,EUR
+"2021, June 02, 05:00","(Euro Area) PPI YoY",Low,4.30%,7.3%,7.60%,EUR
+"2021, June 02, 05:40","(Germany) 5-Year Bobl Auction",Low,-0.61%,,-0.57%,EUR
+"2021, June 02, 06:00","(Ireland) Construction Output YoY",Low,2.70%,4.5%,-27.30%,EUR
+"2021, June 02, 07:00","(United States) MBA Mortgage Applications",Low,-4.20%,,-4.00%,USD
+"2021, June 02, 07:00","(United States) MBA 30-Year Mortgage Rate",Low,3.18%,,3.17%,USD
+"2021, June 02, 08:55","(United States) Redbook YoY",Low,13.60%,,13.00%,USD
+"2021, June 02, 10:00","(United States) IBD/TIPP Economic Optimism",Medium,54.40,54.0,56.40,USD
+"2021, June 02, 10:30","(United States) NY Fed Treasury Purchases TIPS 7.5 to 30 yrs",Low,,1.225,,USD
+"2021, June 02, 11:45","(Germany) Bundesbank Weidmann Speech",Low,,,,EUR
+"2021, June 02, 12:00","(United States) Fed Evans Speech",Medium,,,,USD
+"2021, June 02, 12:00","(United States) Fed Harker Speech",Medium,,,,USD
+"2021, June 02, 13:10","(Euro Area) ECB President Lagarde Speech",Medium,,,,EUR
+"2021, June 02, 14:00","(United States) Fed Beige Book",Low,,,,USD
+"2021, June 02, 14:00","(United States) Fed Bostic Speech",Medium,,,,USD
+"2021, June 02, 16:30","(United States) API Crude Oil Stock Change",Medium,-0.44M,-2.114M,-5.36M,USD
+"2021, June 02, 18:05","(United States) Fed Kaplan Speech",Medium,,,,USD
+"2021, June 02, 20:00","(Austria) Corpus Christi",None,,,,EUR
+"2021, June 02, 20:00","(Portugal) Corpus Christi",None,,,,EUR
+"2021, June 02, 20:01","(Ireland) AIB Services PMI",Low,57.70,59.1,62.10,EUR
+"2021, June 03, 03:15","(Spain) Markit Services PMI",High,54.60,58.0,59.40,EUR
+"2021, June 03, 03:15","(Spain) Markit Composite PMI",High,55.20,54.7,59.20,EUR
+"2021, June 03, 03:45","(Italy) IHS Markit Services PMI",High,47.30,52.5,53.10,EUR
+"2021, June 03, 03:45","(Italy) IHS Markit Composite PMI",High,51.20,55.1,55.70,EUR
+"2021, June 03, 03:50","(France) Markit Composite PMI",Low,51.60,57.0,57.00,EUR
+"2021, June 03, 03:50","(France) Markit Services PMI",Medium,50.30,56.6,56.60,EUR
+"2021, June 03, 03:55","(Germany) Markit Services PMI",High,49.90,52.8,52.80,EUR
+"2021, June 03, 03:55","(Germany) Markit Composite PMI",High,55.80,56.2,56.20,EUR
+"2021, June 03, 04:00","(Euro Area) Markit Services PMI",High,50.50,55.1,55.20,EUR
+"2021, June 03, 04:00","(Euro Area) Markit Composite PMI",High,53.80,56.9,57.10,EUR
+"2021, June 03, 05:00","(Cyprus) Inflation Rate YoY",Low,1.60%,2.2%,2.40%,EUR
+"2021, June 03, 05:00","(France) 10-Year OAT Auction",Low,0.13%,,0.16%,EUR
+"2021, June 03, 05:00","(Spain) 5-Year Bonos Auction",Low,-0.24%,,-0.25%,EUR
+"2021, June 03, 06:00","(Latvia) Industrial Production YoY",Low,4.70%,9.7%,20.50%,EUR
+"2021, June 03, 06:00","(Latvia) Industrial Production MoM",Low,0.50%,,2.60%,EUR
+"2021, June 03, 07:30","(United States) Challenger Job Cuts",Low,22.91K,20.0K,24.59K,USD
+"2021, June 03, 08:15","(United States) ADP Employment Change",High,742.00K,650.0K,978.00K,USD
+"2021, June 03, 08:30","(United States) Continuing Jobless Claims",High,3642.00K,3615.0K,3771.00K,USD
+"2021, June 03, 08:30","(United States) Jobless Claims 4-week Average",High,458.75K,,428.00K,USD
+"2021, June 03, 08:30","(United States) Initial Jobless Claims",High,406.00K,390.0K,385.00K,USD
+"2021, June 03, 08:30","(United States) Unit Labour Costs QoQ",Medium,5.60%,-0.4%,1.70%,USD
+"2021, June 03, 08:30","(United States) Nonfarm Productivity QoQ",Medium,-3.80%,5.5%,5.40%,USD
+"2021, June 03, 09:45","(United States) Markit Services PMI",High,64.70,70.1,70.40,USD
+"2021, June 03, 09:45","(United States) Markit Composite PMI",High,63.50,68.1,68.70,USD
+"2021, June 03, 10:00","(United States) ISM Non-Manufacturing Business Activity",Low,62.70,67.2,66.20,USD
+"2021, June 03, 10:00","(United States) ISM Non-Manufacturing Prices",Low,76.80,77.0,80.60,USD
+"2021, June 03, 10:00","(United States) ISM Non-Manufacturing New Orders",Low,63.20,63.3,63.90,USD
+"2021, June 03, 10:00","(United States) ISM Non-Manufacturing Employment",Low,58.80,58.8,55.30,USD
+"2021, June 03, 10:00","(United States) ISM Non-Manufacturing PMI",High,62.70,63.0,64.00,USD
+"2021, June 03, 10:30","(United States) EIA Natural Gas Stocks Change",Low,115.00B,95.0B,98.00B,USD
+"2021, June 03, 11:00","(United States) EIA Heating Oil Stocks Change",Low,0.35M,,0.50M,USD
+"2021, June 03, 11:00","(United States) EIA Gasoline Stocks Change",Medium,-1.75M,-1.479M,1.50M,USD
+"2021, June 03, 11:00","(United States) EIA Refinery Crude Runs Change",Low,0.12M,,0.36M,USD
+"2021, June 03, 11:00","(United States) EIA Cushing Crude Oil Stocks Change",Low,-1.01M,,0.78M,USD
+"2021, June 03, 11:00","(United States) EIA Crude Oil Imports Change",Low,-0.27M,,0.25M,USD
+"2021, June 03, 11:00","(United States) EIA Crude Oil Stocks Change",Medium,-1.66M,-2.443M,-5.08M,USD
+"2021, June 03, 11:00","(United States) EIA Distillate Stocks Change",Low,-3.01M,-1.479M,3.72M,USD
+"2021, June 03, 11:00","(United States) EIA Gasoline Production Change",Low,-0.01M,,-0.18M,USD
+"2021, June 03, 11:00","(United States) EIA Distillate Fuel Production Change",Low,0.11M,,0.14M,USD
+"2021, June 03, 11:20","(United States) NY Fed Treasury Purchases 22.5 to 30 yrs",Low,,2.025,,USD
+"2021, June 03, 11:30","(United States) 8-Week Bill Auction",Low,0.01%,,0.01%,USD
+"2021, June 03, 11:30","(United States) 4-Week Bill Auction",Low,0.00%,,0.00%,USD
+"2021, June 03, 12:30","(United States) Fed Bostic Speech",Medium,,,,USD
+"2021, June 03, 13:50","(United States) Fed Harker Speech",Medium,,,,USD
+"2021, June 03, 15:05","(United States) Fed Quarles Speech",Medium,,,,USD
+"2021, June 04, 03:00","(Slovakia) GDP Growth Rate YoY",Low,-2.70%,0.3%,0.20%,EUR
+"2021, June 04, 03:00","(Slovakia) GDP Growth Rate QoQ",Low,0.80%,-1.8%,-2.00%,EUR
+"2021, June 04, 03:00","(Slovakia) Real Wages YoY",Low,5.80%,6.0%,2.50%,EUR
+"2021, June 04, 03:00","(Slovakia) Retail Sales MoM",Low,7.10%,,3.00%,EUR
+"2021, June 04, 03:00","(Slovakia) Retail Sales YoY",Low,0.30%,6.5%,11.50%,EUR
+"2021, June 04, 03:30","(Euro Area) Construction PMI",Low,50.10,54.4,50.30,EUR
+"2021, June 04, 03:30","(France) Construction PMI",Low,49.80,54.2,51.10,EUR
+"2021, June 04, 03:30","(Germany) Construction PMI",Medium,46.20,54.5,44.50,EUR
+"2021, June 04, 03:30","(Italy) Construction PMI",Low,57.60,57.0,58.30,EUR
+"2021, June 04, 05:00","(Austria) Retail Sales MoM",High,-1.90%,,-5.00%,EUR
+"2021, June 04, 05:00","(Austria) Retail Sales YoY",High,19.10%,21.0%,21.90%,EUR
+"2021, June 04, 05:00","(Belgium) Retail Sales YoY",Low,13.80%,22.5%,19.00%,EUR
+"2021, June 04, 05:00","(Belgium) Retail Sales MoM",Low,0.10%,,-2.70%,EUR
+"2021, June 04, 05:00","(Euro Area) Retail Sales MoM",High,2.70%,-1.2%,-3.10%,EUR
+"2021, June 04, 05:00","(Euro Area) Retail Sales YoY",High,12.00%,25.5%,23.90%,EUR
+"2021, June 04, 05:00","(France) Retail Sales MoM",Low,-1.00%,1.2%,-6.00%,EUR
+"2021, June 04, 05:00","(France) Retail Sales YoY",Low,21.30%,34.8%,42.10%,EUR
+"2021, June 04, 05:00","(Greece) GDP Growth Rate YoY",Low,-7.90%,-7.6%,-2.30%,EUR
+"2021, June 04, 05:00","(Greece) GDP Growth Rate QoQ",Low,2.70%,-1.6%,4.40%,EUR
+"2021, June 04, 05:00","(Luxembourg) Retail Sales MoM",Low,0.60%,,1.00%,EUR
+"2021, June 04, 05:00","(Malta) Retail Sales YoY",Low,-0.10%,13.5%,17.70%,EUR
+"2021, June 04, 05:00","(Malta) Retail Sales MoM",Low,2.60%,,-2.50%,EUR
+"2021, June 04, 05:00","(Malta) GDP Growth Rate YoY",Low,-6.20%,-3.0%,-1.80%,EUR
+"2021, June 04, 05:30","(Germany) New Car Registrations YoY",Low,90.00%,51.0%,37.20%,EUR
+"2021, June 04, 06:00","(Ireland) Current Account",Low,€7.10B,€4.5B,€18.40B,EUR
+"2021, June 04, 06:00","(Ireland) GDP Growth Rate YoY",Low,1.50%,1.8%,11.80%,EUR
+"2021, June 04, 06:00","(Ireland) GDP Growth Rate QoQ",Medium,-5.10%,-1.4%,7.80%,EUR
+"2021, June 04, 06:00","(Ireland) GNP YoY",Low,1.00%,,2.90%,EUR
+"2021, June 04, 06:00","(Ireland) GNP QoQ",Low,8.50%,,-1.00%,EUR
+"2021, June 04, 07:00","(Euro Area) ECB President Lagarde Speech",Medium,,,,EUR
+"2021, June 04, 07:00","(United States) Fed Chair Powell Speech",High,,,,USD
+"2021, June 04, 08:30","(United States) Average Hourly Earnings MoM",Low,0.70%,0.2%,0.50%,USD
+"2021, June 04, 08:30","(United States) Nonfarm Payrolls Private",High,218.00K,600.0K,492.00K,USD
+"2021, June 04, 08:30","(United States) Unemployment Rate",High,6.10%,5.9%,5.80%,USD
+"2021, June 04, 08:30","(United States) Non Farm Payrolls",High,266.00K,650.0K,559.00K,USD
+"2021, June 04, 08:30","(United States) Average Weekly Hours",Low,35.00,35.0,34.90,USD
+"2021, June 04, 08:30","(United States) Participation Rate",Low,61.70%,61.8%,61.60%,USD
+"2021, June 04, 08:30","(United States) Average Hourly Earnings YoY",Low,0.30%,1.6%,2.00%,USD
+"2021, June 04, 08:30","(United States) Government Payrolls",Low,48.00K,25.0K,67.00K,USD
+"2021, June 04, 08:30","(United States) Manufacturing Payrolls",Low,-18.00K,24.0K,23.00K,USD
+"2021, June 04, 09:30","(Kosovo) PPI YoY",Low,0.20%,1.5%,2.00%,EUR
+"2021, June 04, 09:55","(Ecuador) Inflation Rate YoY",Low,-1.47%,,-1.13%,USD
+"2021, June 04, 10:00","(United States) Factory Orders ex Transportation",Low,1.70%,0.4%,0.50%,USD
+"2021, June 04, 10:00","(United States) Factory Orders MoM",Medium,1.10%,-0.2%,-0.60%,USD
+"2021, June 04, 10:30","(United States) NY Fed Treasury Purchases 7 to 10 yrs",Low,,3.225,,USD
+"2021, June 04, 13:00","(United States) Baker Hughes Oil Rig Count",Low,359.00,,359.00,USD
+"2021, June 04, 13:00","(United States) Baker Hughes Total Rig Count",Low,457.00,,456.00,USD
+"2021, June 04, 17:30","(United States) Total Vehicle Sales",Medium,18.50M,,17.00M,USD
+"2021, June 06, 20:00","(Ireland) June Bank Holiday",None,,,,EUR
+"2021, June 06, 20:00","(Malta) Sette Giugno",None,,,,EUR
+"2021, June 07, 01:00","(Estonia) Inflation Rate YoY",Low,1.90%,2.8%,3.60%,EUR
+"2021, June 07, 01:00","(Estonia) Inflation Rate MoM",Low,0.40%,0.3%,0.90%,EUR
+"2021, June 07, 02:00","(Finland) Balance of Trade",Low,-€0.31B,€-0.34B,-€0.27B,EUR
+"2021, June 07, 02:00","(Germany) Factory Orders MoM",Medium,3.00%,1.0%,-0.20%,EUR
+"2021, June 07, 03:00","(Austria) Wholesale Prices MoM",Low,0.60%,,1.70%,EUR
+"2021, June 07, 03:00","(Austria) Wholesale Prices YoY",Low,8.70%,,10.90%,EUR
+"2021, June 07, 03:00","(Spain) Industrial Production YoY",Low,12.40%,36.0%,48.20%,EUR
+"2021, June 07, 05:00","(Greece) Balance of Trade",Low,-€2.09B,€-1.4B,-€1.84B,EUR
+"2021, June 07, 06:30","(Spain) Consumer Confidence",Medium,77.80,79.5,89.00,EUR
+"2021, June 07, 09:00","(France) 3-Month BTF Auction",Low,-0.63%,,-0.64%,EUR
+"2021, June 07, 09:00","(France) 12-Month BTF Auction",Low,-0.64%,,-0.64%,EUR
+"2021, June 07, 09:00","(France) 6-Month BTF Auction",Low,-0.65%,,-0.64%,EUR
+"2021, June 07, 10:30","(United States) NY Fed Treasury Purchases 10 to 22.5 yrs",Low,,1.425,,USD
+"2021, June 07, 11:30","(United States) 6-Month Bill Auction",Low,0.04%,,0.04%,USD
+"2021, June 07, 11:30","(United States) 3-Month Bill Auction",Low,0.02%,,0.03%,USD
+"2021, June 07, 15:00","(United States) Consumer Credit Change",Low,$25.84B,$22.0B,$18.61B,USD
+"2021, June 08, 00:30","(Netherlands) Inflation Rate YoY",Medium,1.90%,2.1%,2.10%,EUR
+"2021, June 08, 01:00","(Estonia) Industrial Production YoY",Low,2.00%,12.2%,16.90%,EUR
+"2021, June 08, 01:00","(Estonia) Industrial Production MoM",Low,4.00%,1.7%,4.00%,EUR
+"2021, June 08, 02:00","(Germany) Industrial Production MoM",Medium,2.50%,0.5%,-1.00%,EUR
+"2021, June 08, 02:00","(Lithuania) Inflation Rate MoM",Low,0.90%,,0.60%,EUR
+"2021, June 08, 02:00","(Lithuania) Inflation Rate YoY",Low,2.50%,3.5%,3.60%,EUR
+"2021, June 08, 02:45","(France) Current Account",Low,-€2.90B,€-3.4B,-€1.40B,EUR
+"2021, June 08, 02:45","(France) Balance of Trade",Medium,-€6.10B,€-5.7B,-€6.24B,EUR
+"2021, June 08, 03:00","(Austria) Balance of Trade",Low,-€316.70M,€-420.0M,-€805.90M,EUR
+"2021, June 08, 04:00","(Italy) Retail Sales YoY",High,22.90%,51.0%,30.40%,EUR
+"2021, June 08, 04:00","(Italy) Retail Sales MoM",High,-0.10%,0.8%,-0.40%,EUR
+"2021, June 08, 05:00","(Euro Area) GDP Growth Rate YoY",Medium,-4.90%,-1.8%,-1.30%,EUR
+"2021, June 08, 05:00","(Euro Area) GDP Growth Rate QoQ",Medium,-0.70%,-0.6%,-0.30%,EUR
+"2021, June 08, 05:00","(Euro Area) Employment Change YoY",High,-1.90%,-2.1%,-1.80%,EUR
+"2021, June 08, 05:00","(Euro Area) Employment Change QoQ",High,0.40%,-0.3%,-0.30%,EUR
+"2021, June 08, 05:00","(Euro Area) ZEW Economic Sentiment Index",Medium,84.00,84.9,81.30,EUR
+"2021, June 08, 05:00","(Germany) ZEW Current Conditions",Low,-40.10,-27.8,-9.10,EUR
+"2021, June 08, 05:00","(Germany) ZEW Economic Sentiment Index",High,84.40,86.0,79.80,EUR
+"2021, June 08, 05:30","(Spain) 6-Month Letras Auction",Low,-0.56%,,-0.58%,EUR
+"2021, June 08, 05:30","(Spain) 12-Month Letras Auction",Low,-0.53%,,-0.53%,EUR
+"2021, June 08, 06:00","(Ireland) Industrial Production YoY",Low,2.30%,10.5%,28.50%,EUR
+"2021, June 08, 06:00","(Latvia) Inflation Rate YoY",Low,1.70%,2.6%,2.60%,EUR
+"2021, June 08, 06:00","(Latvia) Inflation Rate MoM",Low,0.90%,,0.50%,EUR
+"2021, June 08, 06:00","(United States) NFIB Business Optimism Index",Low,99.80,101.0,99.60,USD
+"2021, June 08, 08:30","(United States) Balance of Trade",High,-$74.40B,$-69.0B,-$68.90B,USD
+"2021, June 08, 08:30","(United States) Exports",Low,$200.03B,$204.0B,$204.99B,USD
+"2021, June 08, 08:30","(United States) Imports",Low,$274.48B,$273.0B,$273.89B,USD
+"2021, June 08, 08:55","(United States) Redbook YoY",Low,13.00%,,14.50%,USD
+"2021, June 08, 10:00","(United States) JOLTs Job Openings",Medium,8.12M,8.3M,9.29M,USD
+"2021, June 08, 10:30","(United States) NY Fed Treasury Purchases TIPS 1 to 7.5 yrs",Low,,2.025,,USD
+"2021, June 08, 11:30","(United States) 42-Day Bill Auction",Low,0.01%,,0.01%,USD
+"2021, June 08, 13:00","(United States) 3-Year Note Auction",Low,0.33%,,0.33%,USD
+"2021, June 08, 16:30","(United States) API Crude Oil Stock Change",Medium,-5.36M,-3.576M,-2.11M,USD
+"2021, June 09, 01:00","(Estonia) Balance of Trade",Low,-€186.00M,€-150.0M,-€78.00M,EUR
+"2021, June 09, 02:00","(Germany) Current Account",Low,€30.20B,€18.9B,€21.30B,EUR
+"2021, June 09, 02:00","(Germany) Balance of Trade",High,€20.50B,€12.5B,€15.50B,EUR
+"2021, June 09, 02:00","(Germany) Imports MoM s.a",Low,6.50%,-1.1%,-1.70%,EUR
+"2021, June 09, 02:00","(Germany) Exports MoM s.a",Low,1.20%,0.5%,0.30%,EUR
+"2021, June 09, 02:00","(Germany) Balance of Trade s.a",Low,€14.30B,€16.3B,€15.90B,EUR
+"2021, June 09, 02:00","(Lithuania) Balance of Trade",Low,-€0.36B,,-€0.26B,EUR
+"2021, June 09, 02:00","(Lithuania) PPI MoM",Low,0.40%,,1.10%,EUR
+"2021, June 09, 02:00","(Lithuania) PPI YoY",Low,10.70%,11.1%,11.90%,EUR
+"2021, June 09, 03:00","(Slovakia) Balance of Trade",Low,€595.30M,€385.5M,€201.30M,EUR
+"2021, June 09, 04:30","(Slovenia) Balance of Trade",Low,€118.70M,,-€100.00M,EUR
+"2021, June 09, 05:00","(Malta) Balance of Trade",Low,-€165.60M,,-€254.20M,EUR
+"2021, June 09, 05:30","(Cyprus) Balance of Trade",Low,-€366.70M,,-€410.90M,EUR
+"2021, June 09, 05:40","(Germany) 30-Year Bund Auction",Low,0.22%,,0.31%,EUR
+"2021, June 09, 05:45","(Italy) 12-Month BOT Auction",Low,-0.44%,,-0.49%,EUR
+"2021, June 09, 06:00","(Latvia) Balance of Trade",Low,-€163.60M,,-€216.80M,EUR
+"2021, June 09, 06:00","(Luxembourg) Inflation Rate YoY",Low,2.10%,2.4%,2.50%,EUR
+"2021, June 09, 06:00","(Portugal) Balance of Trade",Low,-€1002.00M,€-1200.0M,-€1260.00M,EUR
+"2021, June 09, 07:00","(United States) MBA Mortgage Applications",Low,-4.00%,,-3.10%,USD
+"2021, June 09, 07:00","(United States) MBA 30-Year Mortgage Rate",Low,3.17%,,3.15%,USD
+"2021, June 09, 10:00","(United States) Wholesale Inventories MoM",Medium,1.10%,0.8%,0.80%,USD
+"2021, June 09, 10:30","(United States) EIA Heating Oil Stocks Change",Low,0.50M,,0.57M,USD
+"2021, June 09, 10:30","(United States) EIA Gasoline Stocks Change",Medium,1.50M,0.698M,7.05M,USD
+"2021, June 09, 10:30","(United States) EIA Refinery Crude Runs Change",Low,0.36M,,0.33M,USD
+"2021, June 09, 10:30","(United States) EIA Cushing Crude Oil Stocks Change",Low,0.78M,,0.17M,USD
+"2021, June 09, 10:30","(United States) EIA Crude Oil Imports Change",Low,0.25M,,0.62M,USD
+"2021, June 09, 10:30","(United States) EIA Crude Oil Stocks Change",Medium,-5.08M,-2.036M,-5.24M,USD
+"2021, June 09, 10:30","(United States) EIA Distillate Stocks Change",Low,3.72M,1.358M,4.41M,USD
+"2021, June 09, 10:30","(United States) EIA Gasoline Production Change",Low,-0.18M,,-0.14M,USD
+"2021, June 09, 10:30","(United States) EIA Distillate Fuel Production Change",Low,0.14M,,0.11M,USD
+"2021, June 09, 10:30","(United States) NY Fed Treasury Purchases 22.5 to 30 yrs",Low,,2.025,,USD
+"2021, June 09, 13:00","(United States) 10-Year Note Auction",Medium,1.68%,,1.50%,USD
+"2021, June 09, 20:00","(Portugal) Portugal Day",None,,,,EUR
+"2021, June 10, 00:30","(Netherlands) Manufacturing Production YoY",Low,3.00%,12.9%,12.70%,EUR
+"2021, June 10, 01:00","(Finland) Industrial Production YoY",Low,-2.30%,7.3%,3.10%,EUR
+"2021, June 10, 01:30","(France) Non Farm Payrolls QoQ",Low,-0.10%,0.2%,0.30%,EUR
+"2021, June 10, 01:30","(France) Private Non Farm Payrolls QoQ",Low,-0.10%,0.3%,0.50%,EUR
+"2021, June 10, 02:45","(France) Industrial Production MoM",Medium,0.80%,0.5%,-0.10%,EUR
+"2021, June 10, 03:00","(Austria) Industrial Production YoY",Low,12.70%,26.3%,35.90%,EUR
+"2021, June 10, 03:00","(Slovakia) Industrial Production YoY",Low,24.60%,66.0%,69.00%,EUR
+"2021, June 10, 03:00","(Slovakia) Construction Output YoY",Low,-0.80%,9.0%,8.40%,EUR
+"2021, June 10, 04:00","(Italy) Industrial Production YoY",Low,37.70%,72.2%,79.50%,EUR
+"2021, June 10, 04:00","(Italy) Industrial Production MoM",Medium,-0.10%,0.3%,1.80%,EUR
+"2021, June 10, 04:30","(Slovenia) Industrial Production YoY",Low,8.50%,16.0%,35.90%,EUR
+"2021, June 10, 05:00","(Greece) Harmonised Inflation Rate YoY",Low,-1.10%,-1.1%,-1.20%,EUR
+"2021, June 10, 05:00","(Greece) Inflation Rate YoY",Low,-0.30%,-0.1%,0.10%,EUR
+"2021, June 10, 05:00","(Greece) Industrial Production YoY",Low,5.50%,12.5%,22.50%,EUR
+"2021, June 10, 05:00","(Malta) Industrial Production YoY",Low,-2.90%,8.0%,16.40%,EUR
+"2021, June 10, 05:45","(Germany) Bundesbank Balz Speech",Low,,,,EUR
+"2021, June 10, 05:45","(Italy) 20-Year BTP Auction",Low,1.14%,,1.55%,EUR
+"2021, June 10, 05:45","(Italy) 3-Year BTP Auction",Low,-0.06%,,-0.22%,EUR
+"2021, June 10, 05:45","(Italy) 7-Year BTP Auction",Low,0.69%,,0.46%,EUR
+"2021, June 10, 06:00","(Belgium) Industrial Production YoY",Low,1.70%,15.0%,3.60%,EUR
+"2021, June 10, 06:00","(Belgium) Industrial Production MoM",Low,-4.00%,,7.40%,EUR
+"2021, June 10, 06:00","(Ireland) Harmonised Inflation Rate YoY",Low,1.10%,1.9%,1.90%,EUR
+"2021, June 10, 06:00","(Ireland) Harmonised Inflation Rate MoM",Low,0.60%,0.2%,0.20%,EUR
+"2021, June 10, 06:00","(Ireland) Inflation Rate MoM",Low,0.70%,0.2%,0.10%,EUR
+"2021, June 10, 06:00","(Ireland) Inflation Rate YoY",Medium,1.10%,1.8%,1.70%,EUR
+"2021, June 10, 07:45","(Euro Area) Marginal Lending Rate",Low,0.25%,0.25%,0.25%,EUR
+"2021, June 10, 07:45","(Euro Area) Deposit Facility Rate",Medium,-0.50%,-0.5%,-0.50%,EUR
+"2021, June 10, 07:45","(Euro Area) ECB Interest Rate Decision",Medium,0.00%,0.0%,0.00%,EUR
+"2021, June 10, 08:30","(Euro Area) ECB Press Conference",Medium,,,,EUR
+"2021, June 10, 08:30","(Kosovo) Inflation Rate YoY",Low,1.90%,,2.00%,EUR
+"2021, June 10, 08:30","(United States) Core Inflation Rate MoM",Medium,0.90%,0.4%,0.70%,USD
+"2021, June 10, 08:30","(United States) Inflation Rate MoM",Medium,0.80%,0.4%,0.60%,USD
+"2021, June 10, 08:30","(United States) Core Inflation Rate YoY",High,3.00%,3.4%,3.80%,USD
+"2021, June 10, 08:30","(United States) Inflation Rate YoY",High,4.20%,4.7%,5.00%,USD
+"2021, June 10, 08:30","(United States) Continuing Jobless Claims",High,3771.00K,3602.0K,3499.00K,USD
+"2021, June 10, 08:30","(United States) Jobless Claims 4-week Average",High,428.00K,399.75K,402.50K,USD
+"2021, June 10, 08:30","(United States) Initial Jobless Claims",High,385.00K,370.0K,376.00K,USD
+"2021, June 10, 10:15","(El Salvador) Inflation Rate YoY",Low,2.79%,,2.59%,USD
+"2021, June 10, 10:30","(United States) EIA Natural Gas Stocks Change",Low,98.00B,98.0B,98.00B,USD
+"2021, June 10, 10:30","(United States) NY Fed Treasury Purchases 4.5 to 7 yrs",Low,,6.025,,USD
+"2021, June 10, 11:30","(United States) 8-Week Bill Auction",Low,0.01%,,0.02%,USD
+"2021, June 10, 11:30","(United States) 4-Week Bill Auction",Low,0.00%,,0.01%,USD
+"2021, June 10, 12:00","(United States) WASDE Report",Low,,,,USD
+"2021, June 10, 13:00","(United States) 30-Year Bond Auction",Medium,2.40%,,2.17%,USD
+"2021, June 10, 14:00","(United States) Monthly Budget Statement",Medium,-$226.00B,$-230.0B,-$132.00B,USD
+"2021, June 11, 01:00","(Finland) Current Account",Low,-€0.70B,€-0.9B,-€0.60B,EUR
+"2021, June 11, 02:00","(Germany) Wholesale Prices MoM",Medium,1.10%,0.6%,1.70%,EUR
+"2021, June 11, 02:00","(Germany) Wholesale Prices YoY",Medium,7.20%,8.4%,9.70%,EUR
+"2021, June 11, 02:30","(Germany) Bundesbank Semi-Annual Forecasts",Low,,,,EUR
+"2021, June 11, 03:00","(Spain) Harmonised Inflation Rate MoM",Low,1.10%,0.5%,0.50%,EUR
+"2021, June 11, 03:00","(Spain) Harmonised Inflation Rate YoY",Low,2.00%,2.4%,2.40%,EUR
+"2021, June 11, 03:00","(Spain) Inflation Rate MoM",Low,1.20%,0.4%,0.50%,EUR
+"2021, June 11, 03:00","(Spain) Inflation Rate YoY",Low,2.20%,2.7%,2.70%,EUR
+"2021, June 11, 04:00","(France) IEA Oil Market Report",Medium,,,,EUR
+"2021, June 11, 05:00","(Greece) Unemployment Rate",High,16.00%,15.5%,15.90%,EUR
+"2021, June 11, 05:00","(Greece) Unemployment Rate",High,15.90%,15.1%,16.30%,EUR
+"2021, June 11, 06:00","(Latvia) Current Account",Low,-€66.00M,,-€17.00M,EUR
+"2021, June 11, 10:00","(United States) Michigan Current Conditions",Medium,89.40,92.3,90.60,USD
+"2021, June 11, 10:00","(United States) Michigan Inflation Expectations",Medium,4.60%,4.8%,4.00%,USD
+"2021, June 11, 10:00","(United States) Michigan Consumer Sentiment",High,82.90,84.0,86.40,USD
+"2021, June 11, 10:00","(United States) Michigan 5 Year Inflation Expectations",Medium,3.00%,3.1%,2.80%,USD
+"2021, June 11, 10:00","(United States) Michigan Consumer Expectations",Medium,78.80,79.0,83.80,USD
+"2021, June 11, 10:30","(United States) NY Fed Treasury Purchases 10 to 22.5 yrs",Low,,1.425,,USD
+"2021, June 11, 13:00","(United States) Baker Hughes Oil Rig Count",Low,359.00,,365.00,USD
+"2021, June 11, 13:00","(United States) Baker Hughes Total Rig Count",Low,456.00,,461.00,USD
+"2021, June 13, 20:00","(Belgium) NATO Summit",Medium,,,,EUR
+"2021, June 13, 20:00","(Belgium) US-Turkey Meeting",Low,,,,EUR
+"2021, June 13, 20:01","(Ireland) Construction PMI",Low,49.30,52.5,66.40,EUR
+"2021, June 14, 01:00","(Finland) Inflation Rate YoY",Low,2.10%,2.3%,2.20%,EUR
+"2021, June 14, 01:00","(Finland) Inflation Rate MoM",Low,0.40%,0.2%,0.20%,EUR
+"2021, June 14, 05:00","(Euro Area) Industrial Production MoM",Medium,0.10%,0.4%,0.80%,EUR
+"2021, June 14, 05:00","(Euro Area) Industrial Production YoY",Medium,10.90%,37.4%,39.30%,EUR
+"2021, June 14, 06:00","(Luxembourg) GDP Growth Rate YoY",Low,1.40%,2.0%,4.90%,EUR
+"2021, June 14, 06:00","(Luxembourg) GDP Growth Rate QoQ",Low,1.60%,0.5%,1.40%,EUR
+"2021, June 14, 06:00","(Portugal) Inflation Rate MoM",Low,0.40%,0.2%,0.20%,EUR
+"2021, June 14, 06:00","(Portugal) Inflation Rate YoY",Low,0.60%,1.2%,1.20%,EUR
+"2021, June 14, 09:00","(France) 3-Month BTF Auction",Low,-0.64%,,-0.66%,EUR
+"2021, June 14, 09:00","(France) 12-Month BTF Auction",Low,-0.64%,,-0.65%,EUR
+"2021, June 14, 09:00","(France) 6-Month BTF Auction",Low,-0.64%,,-0.65%,EUR
+"2021, June 14, 10:30","(United States) NY Fed Treasury Purchases 0 to 2.25 yrs",Low,,12.425,,USD
+"2021, June 14, 11:00","(United States) Consumer Inflation Expectations",Low,3.40%,3.8%,4.00%,USD
+"2021, June 14, 11:30","(United States) 6-Month Bill Auction",Low,0.04%,,0.04%,USD
+"2021, June 14, 11:30","(United States) 3-Month Bill Auction",Low,0.03%,,0.03%,USD
+"2021, June 15, 00:30","(Netherlands) Balance of Trade",Low,€6.70B,€5.5B,€5.22B,EUR
+"2021, June 15, 01:00","(Finland) GDP YoY",Low,1.10%,4.7%,6.40%,EUR
+"2021, June 15, 02:00","(Germany) Harmonised Inflation Rate MoM",Low,0.50%,0.3%,0.30%,EUR
+"2021, June 15, 02:00","(Germany) Harmonised Inflation Rate YoY",Low,2.10%,2.4%,2.40%,EUR
+"2021, June 15, 02:00","(Germany) Inflation Rate MoM",Low,0.70%,0.5%,0.50%,EUR
+"2021, June 15, 02:00","(Germany) Inflation Rate YoY",Medium,2.00%,2.5%,2.50%,EUR
+"2021, June 15, 02:45","(France) Inflation Rate MoM",Low,0.10%,0.3%,0.30%,EUR
+"2021, June 15, 02:45","(France) Inflation Rate YoY",Medium,1.20%,1.4%,1.40%,EUR
+"2021, June 15, 02:45","(France) Harmonised Inflation Rate MoM",Low,0.20%,0.4%,0.30%,EUR
+"2021, June 15, 02:45","(France) Harmonised Inflation Rate YoY",Low,1.60%,1.8%,1.80%,EUR
+"2021, June 15, 03:00","(Slovakia) Inflation Rate MoM",Low,0.20%,0.6%,0.80%,EUR
+"2021, June 15, 03:00","(Slovakia) Inflation Rate YoY",Low,1.60%,1.9%,2.20%,EUR
+"2021, June 15, 03:00","(Slovakia) Core Inflation Rate MoM",Low,0.20%,0.6%,1.00%,EUR
+"2021, June 15, 03:00","(Slovakia) Core Inflation Rate YoY",Low,1.90%,2.3%,2.60%,EUR
+"2021, June 15, 04:00","(Italy) Inflation Rate YoY",Medium,1.10%,1.3%,1.30%,EUR
+"2021, June 15, 04:00","(Italy) Harmonised Inflation Rate MoM",Low,0.90%,0.0%,-0.10%,EUR
+"2021, June 15, 04:00","(Italy) Harmonised Inflation Rate YoY",Low,1.00%,1.3%,1.20%,EUR
+"2021, June 15, 04:00","(Italy) Inflation Rate MoM",Low,0.40%,0.0%,0.00%,EUR
+"2021, June 15, 04:00","(Lithuania) Current Account",Low,-€79.70M,€-120.0M,€10.91M,EUR
+"2021, June 15, 05:00","(Euro Area) Balance of Trade",Medium,€15.80B,€14.4B,€10.90B,EUR
+"2021, June 15, 05:00","(Greece) Construction Output YoY",Low,-1.00%,7.4%,-5.60%,EUR
+"2021, June 15, 05:00","(Montenegro) Inflation Rate YoY",Low,2.20%,2.6%,2.40%,EUR
+"2021, June 15, 05:00","(Montenegro) Harmonised Inflation Rate YoY",Low,1.80%,2.3%,2.30%,EUR
+"2021, June 15, 05:00","(Spain) 3-Month Letras Auction",Low,-0.59%,,-0.63%,EUR
+"2021, June 15, 05:30","(Belgium) Construction Output YoY",Low,36.30%,19.8%,45.20%,EUR
+"2021, June 15, 05:40","(Germany) 2-Year Schatz Auction",Low,-0.66%,,-0.68%,EUR
+"2021, June 15, 06:00","(Ireland) Balance of Trade",Low,€5.95B,€4.5B,€4.36B,EUR
+"2021, June 15, 06:30","(Belgium) Balance of Trade",Low,€2794.00M,,€2819.00M,EUR
+"2021, June 15, 08:30","(United States) Core PPI MoM",Low,0.70%,0.5%,0.70%,USD
+"2021, June 15, 08:30","(United States) Core PPI YoY",Low,4.10%,4.8%,4.80%,USD
+"2021, June 15, 08:30","(United States) PPI YoY",Low,6.20%,6.3%,6.60%,USD
+"2021, June 15, 08:30","(United States) PPI MoM",Medium,0.60%,0.6%,0.80%,USD
+"2021, June 15, 08:30","(United States) NY Empire State Manufacturing Index",Medium,24.30,23.0,17.40,USD
+"2021, June 15, 08:30","(United States) Retail Sales YoY",High,51.20%,55.0%,28.10%,USD
+"2021, June 15, 08:30","(United States) Retail Sales Ex Autos MoM",High,-0.80%,0.2%,-0.70%,USD
+"2021, June 15, 08:30","(United States) Retail Sales MoM",High,0.00%,-0.8%,-1.30%,USD
+"2021, June 15, 08:55","(United States) Redbook YoY",Low,14.50%,,16.40%,USD
+"2021, June 15, 09:15","(United States) Manufacturing Production MoM",Low,0.40%,0.6%,0.90%,USD
+"2021, June 15, 09:15","(United States) Capacity Utilization",Low,74.90%,75.1%,75.20%,USD
+"2021, June 15, 09:15","(United States) Manufacturing Production YoY",Low,23.00%,28.0%,18.30%,USD
+"2021, June 15, 09:15","(United States) Industrial Production YoY",Medium,16.50%,21.0%,16.30%,USD
+"2021, June 15, 09:15","(United States) Industrial Production MoM",Medium,0.70%,0.6%,0.80%,USD
+"2021, June 15, 10:00","(United States) Business Inventories MoM",Medium,0.30%,-0.1%,-0.20%,USD
+"2021, June 15, 10:00","(United States) NAHB Housing Market Index",Medium,83.00,83.0,81.00,USD
+"2021, June 15, 10:30","(United States) NY Fed Treasury Purchases TIPS 7.5 to 30 yrs",Low,,1.225,,USD
+"2021, June 15, 11:00","(Ecuador) Balance of Trade",Low,$43.50M,,$164.30M,USD
+"2021, June 15, 11:30","(United States) 52-Week Bill Auction",Low,0.06%,,0.07%,USD
+"2021, June 15, 11:30","(United States) 42-Day Bill Auction",Low,0.01%,,0.01%,USD
+"2021, June 15, 13:00","(United States) 20-Year Bond Auction",Low,2.14%,,2.12%,USD
+"2021, June 15, 16:00","(United States) Foreign Bond Investment",Medium,$118.90B,,$49.60B,USD
+"2021, June 15, 16:00","(United States) Net Long-Term Tic Flows",Medium,$262.20B,,$100.70B,USD
+"2021, June 15, 16:00","(United States) Overall Net Capital Flows",Medium,$146.40B,,$101.20B,USD
+"2021, June 15, 16:30","(United States) API Crude Oil Stock Change",Medium,-2.11M,-3.0M,-8.54M,USD
+"2021, June 16, 05:00","(Euro Area) Labour Cost Index YoY",Low,3.00%,3.8%,1.50%,EUR
+"2021, June 16, 05:00","(Euro Area) Wage Growth YoY",Low,3.50%,4.6%,2.20%,EUR
+"2021, June 16, 05:00","(Montenegro) GDP Growth Rate YoY",Low,-7.50%,-2.0%,-6.40%,EUR
+"2021, June 16, 05:40","(Germany) 10-Year Bund Auction",Low,-0.09%,,-0.19%,EUR
+"2021, June 16, 06:00","(Cyprus) Harmonised Inflation Rate YoY",Low,1.20%,1.5%,1.50%,EUR
+"2021, June 16, 06:00","(Ireland) Residential Property Prices YoY",Low,3.70%,4.1%,4.50%,EUR
+"2021, June 16, 06:00","(Ireland) Residential Property Prices MoM",Low,0.70%,0.3%,0.80%,EUR
+"2021, June 16, 07:00","(United States) MBA Mortgage Applications",Low,-3.10%,,4.20%,USD
+"2021, June 16, 07:00","(United States) MBA 30-Year Mortgage Rate",Low,3.15%,,3.11%,USD
+"2021, June 16, 08:30","(United States) Housing Starts",Medium,1.57M,1.63M,1.57M,USD
+"2021, June 16, 08:30","(United States) Building Permits",Medium,1.73M,1.73M,1.68M,USD
+"2021, June 16, 08:30","(United States) Housing Starts MoM",Medium,-9.50%,2.5%,3.60%,USD
+"2021, June 16, 08:30","(United States) Building Permits MoM",Medium,-1.30%,0.9%,-3.00%,USD
+"2021, June 16, 08:30","(United States) Import Prices YoY",Medium,10.60%,10.7%,11.30%,USD
+"2021, June 16, 08:30","(United States) Export Prices YoY",Medium,14.40%,15.2%,17.40%,USD
+"2021, June 16, 08:30","(United States) Import Prices MoM",Medium,0.70%,0.8%,1.10%,USD
+"2021, June 16, 08:30","(United States) Export Prices MoM",Medium,0.80%,0.8%,2.20%,USD
+"2021, June 16, 10:30","(United States) EIA Heating Oil Stocks Change",Low,0.57M,,-0.52M,USD
+"2021, June 16, 10:30","(United States) EIA Gasoline Stocks Change",Medium,7.05M,-0.614M,1.95M,USD
+"2021, June 16, 10:30","(United States) EIA Refinery Crude Runs Change",Low,0.33M,,0.41M,USD
+"2021, June 16, 10:30","(United States) EIA Cushing Crude Oil Stocks Change",Low,0.17M,,-2.15M,USD
+"2021, June 16, 10:30","(United States) EIA Crude Oil Imports Change",Low,0.62M,,-0.84M,USD
+"2021, June 16, 10:30","(United States) EIA Crude Oil Stocks Change",Medium,-5.24M,-3.29M,-7.36M,USD
+"2021, June 16, 10:30","(United States) EIA Distillate Stocks Change",Low,4.41M,0.186M,-1.02M,USD
+"2021, June 16, 10:30","(United States) EIA Gasoline Production Change",Low,-0.14M,,0.49M,USD
+"2021, June 16, 10:30","(United States) EIA Distillate Fuel Production Change",Low,0.11M,,0.14M,USD
+"2021, June 16, 14:00","(United States) Fed Interest Rate Decision",High,0.25%,0.25%,0.25%,USD
+"2021, June 16, 14:00","(United States) FOMC Economic Projections",High,,,,USD
+"2021, June 16, 14:30","(United States) Fed Press Conference",High,,,,USD
+"2021, June 16, 20:00","(El Salvador) Fathers' Day",None,,,,USD
+"2021, June 17, 00:30","(Netherlands) Unemployment Rate",Medium,3.40%,3.4%,3.30%,EUR
+"2021, June 17, 02:00","(European Union) New Car Registrations YoY",Medium,218.60%,85.0%,53.40%,EUR
+"2021, June 17, 03:00","(Austria) Inflation Rate MoM",Low,-0.10%,0.4%,0.30%,EUR
+"2021, June 17, 03:00","(Austria) Inflation Rate YoY",Low,1.90%,2.8%,2.80%,EUR
+"2021, June 17, 03:00","(Austria) Harmonised Inflation Rate YoY",Low,1.90%,3.1%,3.00%,EUR
+"2021, June 17, 03:00","(Austria) Harmonised Inflation Rate MoM",Low,0.10%,0.3%,0.20%,EUR
+"2021, June 17, 03:00","(Slovakia) Harmonised Inflation Rate YoY",Low,1.70%,2.0%,2.00%,EUR
+"2021, June 17, 03:00","(Slovakia) Harmonised Inflation Rate MoM",Low,0.20%,0.6%,0.60%,EUR
+"2021, June 17, 04:00","(Italy) Balance of Trade",Medium,€5.19B,€3.6B,€5.87B,EUR
+"2021, June 17, 04:00","(Spain) Balance of Trade",Medium,-€0.40B,€-1.3B,-€1.30B,EUR
+"2021, June 17, 05:00","(Euro Area) Inflation Rate MoM",Low,0.60%,0.3%,0.30%,EUR
+"2021, June 17, 05:00","(Euro Area) Core Inflation Rate YoY",Medium,0.70%,0.9%,1.00%,EUR
+"2021, June 17, 05:00","(Euro Area) Inflation Rate YoY",Medium,1.60%,2.0%,2.00%,EUR
+"2021, June 17, 05:00","(Euro Area) Construction Output YoY",Medium,18.30%,40.0%,42.30%,EUR
+"2021, June 17, 05:00","(France) 5-Year BTAN Auction",Low,-0.19%,,-0.30%,EUR
+"2021, June 17, 05:00","(France) 3-Year BTAN Auction",Low,-0.53%,,-0.51%,EUR
+"2021, June 17, 05:00","(Malta) Inflation Rate YoY",Low,0.10%,0.3%,0.20%,EUR
+"2021, June 17, 05:00","(Spain) 15-Year Obligacion Auction",Low,0.66%,,0.97%,EUR
+"2021, June 17, 05:10","(Spain) 3-Year Bonos Auction",Low,-0.36%,,-0.44%,EUR
+"2021, June 17, 08:30","(United States) Philadelphia Fed Manufacturing Index",Medium,31.50,31.0,30.70,USD
+"2021, June 17, 08:30","(United States) Continuing Jobless Claims",High,3499.00K,3430.0K,3518.00K,USD
+"2021, June 17, 08:30","(United States) Jobless Claims 4-week Average",High,402.50K,383.25K,395.00K,USD
+"2021, June 17, 08:30","(United States) Initial Jobless Claims",High,376.00K,359.0K,412.00K,USD
+"2021, June 17, 10:00","(United States) CB Leading Index MoM",Low,1.60%,1.3%,1.30%,USD
+"2021, June 17, 10:00","(United States) Treasury Secretary Yellen Testimony",Medium,,,,USD
+"2021, June 17, 10:30","(United States) EIA Natural Gas Stocks Change",Low,98.00B,72.0B,16.00B,USD
+"2021, June 17, 10:30","(United States) NY Fed Treasury Purchases 22.5 to 30 yrs",Low,,2.025,,USD
+"2021, June 17, 11:30","(United States) 8-Week Bill Auction",Low,0.02%,,0.04%,USD
+"2021, June 17, 11:30","(United States) 4-Week Bill Auction",Low,0.01%,,0.04%,USD
+"2021, June 17, 13:00","(United States) 5-Year TIPS Auction",Low,-1.63%,,-1.42%,USD
+"2021, June 18, 02:00","(Germany) PPI YoY",Low,5.20%,6.4%,7.20%,EUR
+"2021, June 18, 02:00","(Germany) PPI MoM",Medium,0.80%,0.7%,1.50%,EUR
+"2021, June 18, 04:00","(Euro Area) Current Account",Low,€31.00B,€18.5B,€31.40B,EUR
+"2021, June 18, 04:00","(Greece) Current Account",Low,-€1.46B,€-1.2B,-€2.08B,EUR
+"2021, June 18, 04:00","(Italy) Construction Output YoY",Low,74.50%,77.0%,60.20%,EUR
+"2021, June 18, 05:00","(Italy) Current Account",Low,€3099.00M,€2450.0M,€6654.00M,EUR
+"2021, June 18, 06:00","(Portugal) PPI YoY",Low,4.90%,6.4%,7.80%,EUR
+"2021, June 18, 06:00","(Portugal) PPI MoM",Low,1.50%,0.5%,1.60%,EUR
+"2021, June 18, 06:00","(Portugal) Economic Activity YoY",Low,-2.00%,-1.4%,-0.50%,EUR
+"2021, June 18, 06:00","(Portugal) Private Consumption YoY",Low,-0.40%,0.7%,1.60%,EUR
+"2021, June 18, 07:30","(Slovakia) Unemployment Rate",Low,8.00%,7.93%,7.90%,EUR
+"2021, June 18, 10:30","(United States) NY Fed Treasury Purchases 7 to 10 yrs",Low,,3.225,,USD
+"2021, June 18, 13:00","(United States) Baker Hughes Oil Rig Count",Low,365.00,,373.00,USD
+"2021, June 18, 13:00","(United States) Baker Hughes Total Rig Count",Low,461.00,,470.00,USD
+"2021, June 19, 20:00","(France) Regional Elections - 1st Round",Medium,,,,EUR
+"2021, June 20, 20:00","(Cyprus) Orthodox Pentecost Monday",None,,,,EUR
+"2021, June 20, 20:00","(Greece) Orthodox Pentecost Monday",None,,,,EUR
+"2021, June 21, 01:00","(Estonia) PPI YoY",Low,6.80%,8.0%,8.40%,EUR
+"2021, June 21, 01:00","(Estonia) PPI MoM",Low,1.60%,1.2%,1.60%,EUR
+"2021, June 21, 04:30","(Slovenia) PPI YoY",Low,2.40%,3.8%,3.50%,EUR
+"2021, June 21, 05:00","(Belgium) Consumer Confidence",Low,4.00,3.0,8.00,EUR
+"2021, June 21, 05:00","(Luxembourg) Unemployment Rate",Low,6.10%,6.2%,5.90%,EUR
+"2021, June 21, 06:00","(Germany) Bundesbank Monthly Report",Low,,,,EUR
+"2021, June 21, 06:00","(Latvia) PPI MoM",Low,1.60%,1.3%,2.10%,EUR
+"2021, June 21, 06:00","(Latvia) PPI YoY",Low,5.10%,7.4%,8.30%,EUR
+"2021, June 21, 07:00","(Slovakia) Current Account",Low,€264.90M,€220.0M,-€77.00M,EUR
+"2021, June 21, 08:30","(United States) Chicago Fed National Activity Index",Medium,0.24,0.15,0.29,USD
+"2021, June 21, 09:00","(France) 3-Month BTF Auction",Low,-0.66%,,-0.65%,EUR
+"2021, June 21, 09:00","(France) 6-Month BTF Auction",Low,-0.65%,,-0.65%,EUR
+"2021, June 21, 09:00","(France) 12-Month BTF Auction",Low,-0.65%,,-0.65%,EUR
+"2021, June 21, 10:15","(Euro Area) ECB President Lagarde Speech",Medium,,,,EUR
+"2021, June 21, 10:30","(United States) NY Fed Treasury Purchases 10 to 22.5 yrs",Low,,1.425,,USD
+"2021, June 21, 11:30","(United States) 6-Month Bill Auction",Low,0.04%,,0.06%,USD
+"2021, June 21, 11:30","(United States) 3-Month Bill Auction",Low,0.03%,,0.04%,USD
+"2021, June 21, 15:00","(United States) Fed Williams Speech",Medium,,,,USD
+"2021, June 21, 19:01","(Ireland) Consumer Confidence",Low,85.80,87.0,87.20,EUR
+"2021, June 22, 00:30","(Netherlands) Household Consumption YoY",Low,-0.40%,19.5%,9.40%,EUR
+"2021, June 22, 00:30","(Netherlands) Consumer Confidence",Medium,-9.00,-7.0,-3.00,EUR
+"2021, June 22, 01:00","(Finland) Unemployment Rate",Low,9.00%,10.4%,9.60%,EUR
+"2021, June 22, 04:00","(Italy) Industrial Sales YoY",Low,38.10%,65.0%,105.10%,EUR
+"2021, June 22, 04:00","(Italy) Industrial Sales MoM",Low,1.60%,0.8%,3.30%,EUR
+"2021, June 22, 04:30","(Slovenia) Consumer Confidence",Low,-18.00,-20.0,-17.00,EUR
+"2021, June 22, 06:00","(Ireland) Wholesale Prices MoM",Low,0.40%,0.7%,-1.50%,EUR
+"2021, June 22, 06:00","(Ireland) Wholesale Prices YoY",Low,-7.00%,-5.6%,-7.60%,EUR
+"2021, June 22, 06:30","(Portugal) Current Account",Low,€24.10M,€250.0M,-€576.50M,EUR
+"2021, June 22, 08:55","(United States) Redbook YoY",Low,16.40%,,17.60%,USD
+"2021, June 22, 09:30","(Germany) Bundesbank Wuermeling Speech",Low,,,,EUR
+"2021, June 22, 10:00","(Euro Area) ECB Lane Speech",Low,,,,EUR
+"2021, June 22, 10:00","(Euro Area) Consumer Confidence",Medium,-5.10,-3.0,-3.30,EUR
+"2021, June 22, 10:00","(United States) Richmond Fed Manufacturing Index",Low,18.00,16.0,22.00,USD
+"2021, June 22, 10:00","(United States) Existing Home Sales MoM",High,-2.70%,-1.0%,-0.90%,USD
+"2021, June 22, 10:00","(United States) Existing Home Sales",High,5.85M,5.72M,5.80M,USD
+"2021, June 22, 10:30","(United States) NY Fed Treasury Purchases TIPS 1 to 7.5 yrs",Low,,2.025,,USD
+"2021, June 22, 11:00","(United States) Fed Daly Speech",Medium,,,,USD
+"2021, June 22, 11:30","(United States) 42-Day Bill Auction",Low,0.01%,,0.04%,USD
+"2021, June 22, 13:00","(United States) 2-Year Note Auction",Low,0.15%,,0.25%,USD
+"2021, June 22, 13:30","(Euro Area) ECB Schnabel Speech",Low,,,,EUR
+"2021, June 22, 14:00","(United States) Fed Chair Powell Testimony",High,,,,USD
+"2021, June 22, 16:30","(United States) API Crude Oil Stock Change",Medium,-8.54M,-3.625M,-7.20M,USD
+"2021, June 22, 20:00","(Estonia) Victory Day",None,,,,EUR
+"2021, June 22, 20:00","(Latvia) Midsummer Eve",None,,,,EUR
+"2021, June 22, 20:00","(Luxembourg) National Day",None,,,,EUR
+"2021, June 23, 02:00","(Lithuania) Industrial Production MoM",Low,-2.40%,1.0%,7.70%,EUR
+"2021, June 23, 02:00","(Lithuania) Industrial Production YoY",Low,25.10%,11.3%,25.30%,EUR
+"2021, June 23, 03:15","(France) Markit Composite PMI",Low,57.00,59.0,57.10,EUR
+"2021, June 23, 03:15","(France) Markit Services PMI",Medium,56.60,59.4,57.40,EUR
+"2021, June 23, 03:15","(France) Markit Manufacturing PMI",Medium,59.40,59.0,58.60,EUR
+"2021, June 23, 03:30","(Euro Area) ECB Guindos Speech",High,,,,EUR
+"2021, June 23, 03:30","(Germany) Markit Composite PMI",High,56.20,57.5,60.40,EUR
+"2021, June 23, 03:30","(Germany) Markit Services PMI",High,52.80,55.5,58.10,EUR
+"2021, June 23, 03:30","(Germany) Markit Manufacturing PMI",High,64.40,63.0,64.90,EUR
+"2021, June 23, 04:00","(Euro Area) Markit Composite PMI",High,57.10,58.8,59.20,EUR
+"2021, June 23, 04:00","(Euro Area) Markit Manufacturing PMI",High,63.10,62.1,63.10,EUR
+"2021, June 23, 04:00","(Euro Area) Markit Services PMI",High,55.20,57.8,58.00,EUR
+"2021, June 23, 04:00","(Euro Area) ECB Non-Monetary Policy Meeting",Medium,,,,EUR
+"2021, June 23, 06:00","(Ireland) Unemployment Rate",Low,5.80%,5.9%,7.80%,EUR
+"2021, June 23, 07:00","(United States) MBA Mortgage Applications",Low,4.20%,,2.10%,USD
+"2021, June 23, 07:00","(United States) MBA 30-Year Mortgage Rate",Low,3.11%,,3.18%,USD
+"2021, June 23, 08:30","(United States) Current Account",Medium,-$188.50B,$-206.8B,-$195.70B,USD
+"2021, June 23, 09:00","(Kosovo) GDP Growth Rate YoY",Low,0.70%,-0.5%,5.57%,EUR
+"2021, June 23, 09:10","(United States) Fed Bowman Speech",Medium,,,,USD
+"2021, June 23, 09:45","(United States) Markit Manufacturing PMI",High,62.10,61.5,62.60,USD
+"2021, June 23, 09:45","(United States) Markit Services PMI",High,70.40,70.0,64.80,USD
+"2021, June 23, 09:45","(United States) Markit Composite PMI",High,68.70,67.0,63.90,USD
+"2021, June 23, 10:00","(United States) New Home Sales MoM",High,-5.90%,-2.1%,-5.90%,USD
+"2021, June 23, 10:00","(United States) New Home Sales",High,0.86M,0.87M,0.77M,USD
+"2021, June 23, 10:30","(United States) EIA Heating Oil Stocks Change",Low,-0.52M,,0.20M,USD
+"2021, June 23, 10:30","(United States) EIA Gasoline Stocks Change",Medium,1.95M,0.833M,-2.93M,USD
+"2021, June 23, 10:30","(United States) EIA Refinery Crude Runs Change",Low,0.41M,,-0.23M,USD
+"2021, June 23, 10:30","(United States) EIA Cushing Crude Oil Stocks Change",Low,-2.15M,,-1.83M,USD
+"2021, June 23, 10:30","(United States) EIA Crude Oil Imports Change",Low,-0.84M,,0.43M,USD
+"2021, June 23, 10:30","(United States) EIA Crude Oil Stocks Change",Medium,-7.36M,-3.942M,-7.61M,USD
+"2021, June 23, 10:30","(United States) EIA Distillate Stocks Change",Low,-1.02M,1.083M,1.75M,USD
+"2021, June 23, 10:30","(United States) EIA Gasoline Production Change",Low,0.49M,,0.40M,USD
+"2021, June 23, 10:30","(United States) EIA Distillate Fuel Production Change",Low,0.14M,,0.06M,USD
+"2021, June 23, 10:30","(United States) NY Fed Treasury Purchases 4.5 to 7 yrs",Low,,6.025,,USD
+"2021, June 23, 11:00","(United States) Fed Bostic Speech",Medium,,,,USD
+"2021, June 23, 11:30","(United States) 2-Year FRN Auction",Low,0.03%,,0.03%,USD
+"2021, June 23, 12:00","(Euro Area) ECB President Lagarde Speech",Medium,,,,EUR
+"2021, June 23, 13:00","(United States) 5-Year Note Auction",Low,0.79%,,0.90%,USD
+"2021, June 23, 20:00","(Estonia) St. John's Day",None,,,,EUR
+"2021, June 23, 20:00","(Latvia) Midsummer Day",None,,,,EUR
+"2021, June 23, 20:00","(Lithuania) St. John's Day",None,,,,EUR
+"2021, June 24, 00:30","(Netherlands) GDP Growth Rate YoY",Medium,-2.80%,-2.8%,-2.40%,EUR
+"2021, June 24, 00:30","(Netherlands) GDP Growth Rate QoQ",Medium,-0.10%,-0.5%,-0.80%,EUR
+"2021, June 24, 01:00","(Finland) Export Prices YoY",Low,9.40%,,11.50%,EUR
+"2021, June 24, 01:00","(Finland) Import Prices YoY",Low,12.00%,,12.10%,EUR
+"2021, June 24, 01:00","(Finland) PPI YoY",Low,8.70%,9.5%,11.20%,EUR
+"2021, June 24, 02:45","(France) Business Confidence",Medium,107.00,109.0,107.00,EUR
+"2021, June 24, 02:45","(France) Business Climate Indicator",Low,108.00,111.0,113.00,EUR
+"2021, June 24, 03:00","(Spain) GDP Growth Rate YoY",Medium,-8.90%,-4.3%,-4.20%,EUR
+"2021, June 24, 03:00","(Spain) GDP Growth Rate QoQ",Medium,0.00%,-0.5%,-0.40%,EUR
+"2021, June 24, 04:00","(Euro Area) ECB General Council Meeting",Medium,,,,EUR
+"2021, June 24, 04:00","(European Union) European Council Meeting",Medium,,,,EUR
+"2021, June 24, 04:00","(Germany) Ifo Current Conditions",Low,95.70,97.8,99.60,EUR
+"2021, June 24, 04:00","(Germany) Ifo Expectations",Low,102.90,103.9,104.00,EUR
+"2021, June 24, 04:00","(Germany) Ifo Business Climate",High,99.20,100.6,101.80,EUR
+"2021, June 24, 04:30","(Slovenia) Business Confidence",Low,12.00,14.0,11.00,EUR
+"2021, June 24, 04:30","(Slovenia) Tourist Arrivals",Low,29.30K,,113.40K,EUR
+"2021, June 24, 06:30","(Malta) Unemployment Rate",Low,4.40%,6.5%,3.90%,EUR
+"2021, June 24, 06:50","(Kosovo) Balance of Trade",Low,-€323.00M,,-€308.00M,EUR
+"2021, June 24, 07:35","(Euro Area) ECB Panetta Speech",Low,,,,EUR
+"2021, June 24, 08:30","(United States) Continuing Jobless Claims",High,3518.00K,3470.0K,3390.00K,USD
+"2021, June 24, 08:30","(United States) Jobless Claims 4-week Average",High,395.00K,383.0K,397.75K,USD
+"2021, June 24, 08:30","(United States) Initial Jobless Claims",High,412.00K,380.0K,411.00K,USD
+"2021, June 24, 08:30","(United States) GDP Price Index QoQ",Medium,1.90%,4.3%,4.30%,USD
+"2021, June 24, 08:30","(United States) Corporate Profits QoQ",Medium,-3.30%,-0.8%,1.70%,USD
+"2021, June 24, 08:30","(United States) GDP Growth Rate QoQ",Medium,4.30%,6.4%,6.40%,USD
+"2021, June 24, 08:30","(United States) Durable Goods Orders MoM",High,-1.30%,2.8%,2.30%,USD
+"2021, June 24, 08:30","(United States) Durable Goods Orders ex Defense MoM",High,0.00%,0.2%,1.70%,USD
+"2021, June 24, 08:30","(United States) Durable Goods Orders Ex Transp MoM",High,1.00%,0.8%,0.30%,USD
+"2021, June 24, 08:30","(United States) Goods Trade Balance",High,-$85.23B,$-84.0B,-$88.11B,USD
+"2021, June 24, 08:30","(United States) Wholesale Inventories MoM",Medium,0.80%,0.4%,1.10%,USD
+"2021, June 24, 08:30","(United States) Core PCE Prices QoQ",Low,1.30%,2.5%,2.50%,USD
+"2021, June 24, 08:30","(United States) PCE Prices QoQ",Low,1.50%,3.7%,3.70%,USD
+"2021, June 24, 09:00","(Belgium) Business Confidence",Low,6.50,5.2,9.80,EUR
+"2021, June 24, 10:30","(United States) EIA Natural Gas Stocks Change",Low,16.00B,66.0B,55.00B,USD
+"2021, June 24, 10:30","(United States) NY Fed Treasury Purchases 22.5 to 30 yrs",Low,,2.025,,USD
+"2021, June 24, 11:00","(United States) Fed Williams Speech",Medium,,,,USD
+"2021, June 24, 11:00","(United States) Kansas Fed Manufacturing Index",Low,32.00,29.0,30.00,USD
+"2021, June 24, 11:30","(United States) 4-Week Bill Auction",Low,0.04%,,0.04%,USD
+"2021, June 24, 11:30","(United States) 8-Week Bill Auction",Low,0.04%,,0.05%,USD
+"2021, June 24, 13:00","(United States) 7-Year Note Auction",Low,1.28%,,1.26%,USD
+"2021, June 24, 16:30","(United States) Fed Bank Stress Test Results",Medium,,,,USD
+"2021, June 24, 20:00","(Finland) Midsummer's Eve",None,,,,EUR
+"2021, June 24, 20:00","(Slovenia) Statehood Day",None,,,,EUR
+"2021, June 25, 02:00","(Germany) GfK Consumer Confidence",High,-7.00,-4.0,-0.30,EUR
+"2021, June 25, 03:00","(Spain) PPI YoY",Low,12.80%,14.2%,15.30%,EUR
+"2021, June 25, 04:00","(Euro Area) Loans to Companies YoY",Low,3.20%,3.4%,1.90%,EUR
+"2021, June 25, 04:00","(Euro Area) Loans to Households YoY",Low,3.80%,4.0%,3.90%,EUR
+"2021, June 25, 04:00","(Euro Area) M3 Money Supply YoY",Low,9.20%,8.5%,8.40%,EUR
+"2021, June 25, 04:00","(European Union) European Council Meeting",Medium,,,,EUR
+"2021, June 25, 04:00","(Italy) Consumer Confidence",Medium,110.60,112.0,115.10,EUR
+"2021, June 25, 04:00","(Italy) Business Confidence",Medium,110.20,112.0,114.80,EUR
+"2021, June 25, 06:00","(France) Jobseekers Total",Low,3623.80K,3581.8K,3490.10K,EUR
+"2021, June 25, 06:00","(France) Unemployment Benefit Claims",Medium,65.90K,-42.0K,-133.70K,EUR
+"2021, June 25, 06:00","(Luxembourg) Current Account",Low,-€175.50M,,€352.00M,EUR
+"2021, June 25, 06:15","(Greece) Total Credit YoY",Low,17.30%,,16.60%,EUR
+"2021, June 25, 06:45","(Netherlands) Current Account",Low,€14.00B,€19.5B,€22.60B,EUR
+"2021, June 25, 08:30","(United States) Core PCE Price Index YoY",Low,3.10%,3.4%,3.40%,USD
+"2021, June 25, 08:30","(United States) Core PCE Price Index MoM",Low,0.70%,0.6%,0.50%,USD
+"2021, June 25, 08:30","(United States) PCE Price Index YoY",Medium,3.60%,4.2%,3.90%,USD
+"2021, June 25, 08:30","(United States) PCE Price Index MoM",Medium,0.60%,0.8%,0.40%,USD
+"2021, June 25, 08:30","(United States) Personal Income MoM",High,-13.10%,-2.5%,-2.00%,USD
+"2021, June 25, 08:30","(United States) Personal Spending MoM",High,0.50%,0.4%,0.00%,USD
+"2021, June 25, 10:00","(United States) Michigan Inflation Expectations",Medium,4.60%,4.0%,4.20%,USD
+"2021, June 25, 10:00","(United States) Michigan Consumer Sentiment",High,82.90,86.5,85.50,USD
+"2021, June 25, 10:00","(United States) Michigan 5 Year Inflation Expectations",Medium,3.00%,2.8%,2.80%,USD
+"2021, June 25, 10:00","(United States) Michigan Consumer Expectations",Medium,78.80,84.0,83.50,USD
+"2021, June 25, 10:00","(United States) Michigan Current Conditions",Medium,89.40,90.7,88.60,USD
+"2021, June 25, 10:30","(United States) NY Fed Treasury Purchases 2.25 to 4.5 yrs",Low,,8.425,,USD
+"2021, June 25, 11:30","(El Salvador) Balance of Trade",Low,-$674.00M,,-$615.00M,USD
+"2021, June 25, 13:00","(United States) Baker Hughes Total Rig Count",Low,470.00,,470.00,USD
+"2021, June 25, 13:00","(United States) Baker Hughes Oil Rig Count",Low,373.00,,372.00,USD
+"2021, June 26, 20:00","(France) Regional Elections - 2nd Round",Medium,,,,EUR
+"2021, June 27, 22:00","(East Timor) Inflation Rate YoY",Low,3.40%,3.8%,3.60%,USD
+"2021, June 28, 01:00","(Finland) Consumer Confidence",Low,2.70,4.0,4.60,EUR
+"2021, June 28, 02:00","(Germany) Import Prices MoM",Low,1.40%,1.5%,1.70%,EUR
+"2021, June 28, 02:00","(Germany) Import Prices YoY",Low,10.30%,11.3%,11.80%,EUR
+"2021, June 28, 02:00","(Lithuania) Retail Sales MoM",Low,4.50%,,5.10%,EUR
+"2021, June 28, 02:00","(Lithuania) Retail Sales YoY",Low,35.70%,11.0%,18.80%,EUR
+"2021, June 28, 04:00","(Austria) Bank Austria Manufacturing PMI",High,66.40,65.5,67.00,EUR
+"2021, June 28, 04:10","(Euro Area) ECB Panetta Speech",Low,,,,EUR
+"2021, June 28, 05:40","(Germany) 12-Month Bubill Auction",Low,-0.64%,,-0.63%,EUR
+"2021, June 28, 05:40","(Italy) 6-Month BOT Auction",Low,-0.50%,,-0.52%,EUR
+"2021, June 28, 06:00","(Ireland) Retail Sales MoM",Low,7.40%,1.0%,1.80%,EUR
+"2021, June 28, 06:00","(Ireland) Retail Sales YoY",Low,90.10%,45.0%,44.00%,EUR
+"2021, June 28, 09:00","(France) 3-Month BTF Auction",Low,-0.65%,,-0.65%,EUR
+"2021, June 28, 09:00","(France) 6-Month BTF Auction",Low,-0.65%,,-0.65%,EUR
+"2021, June 28, 09:00","(France) 12-Month BTF Auction",Low,-0.65%,,-0.65%,EUR
+"2021, June 28, 09:00","(United States) Fed Williams Speech",Medium,,,,USD
+"2021, June 28, 10:00","(Euro Area) ECB Guindos Speech",High,,,,EUR
+"2021, June 28, 10:30","(United States) NY Fed Treasury Purchases 10 to 22.5 yrs",Low,,1.425,,USD
+"2021, June 28, 10:30","(United States) Dallas Fed Manufacturing Index",Medium,34.90,31.0,31.10,USD
+"2021, June 28, 11:30","(United States) 6-Month Bill Auction",Low,0.06%,,0.06%,USD
+"2021, June 28, 11:30","(United States) 3-Month Bill Auction",Low,0.04%,,0.05%,USD
+"2021, June 28, 13:10","(United States) Fed Quarles Speech",Medium,,,,USD
+"2021, June 28, 20:00","(Malta) Feast of Saint Peter and Saint Paul",None,,,,EUR
+"2021, June 29, 00:30","(Netherlands) Business Confidence",Low,8.80,9.0,11.50,EUR
+"2021, June 29, 02:45","(France) Consumer Confidence",Medium,97.00,100.0,102.00,EUR
+"2021, June 29, 03:00","(Slovakia) Business Confidence",Low,0.30,1.0,10.00,EUR
+"2021, June 29, 03:00","(Slovakia) Consumer Confidence",Low,-21.10,-20.0,-18.40,EUR
+"2021, June 29, 03:00","(Spain) Harmonised Inflation Rate MoM",Low,0.50%,0.4%,0.40%,EUR
+"2021, June 29, 03:00","(Spain) Harmonised Inflation Rate YoY",Low,2.40%,2.4%,2.40%,EUR
+"2021, June 29, 03:00","(Spain) Inflation Rate MoM",Low,0.50%,0.4%,0.40%,EUR
+"2021, June 29, 03:00","(Spain) Inflation Rate YoY",Low,2.70%,2.7%,2.60%,EUR
+"2021, June 29, 03:00","(Spain) Retail Sales YoY",High,41.00%,25.0%,19.60%,EUR
+"2021, June 29, 03:00","(Spain) Retail Sales MoM",High,-0.40%,0.7%,0.00%,EUR
+"2021, June 29, 04:30","(Portugal) Consumer Confidence",Low,-12.80,-10.0,-12.60,EUR
+"2021, June 29, 04:30","(Portugal) Business Confidence",Low,0.50,0.9,1.60,EUR
+"2021, June 29, 04:30","(Slovenia) Retail Sales YoY",Low,25.10%,12.0%,14.30%,EUR
+"2021, June 29, 04:30","(Slovenia) Retail Sales MoM",Low,-10.40%,,3.60%,EUR
+"2021, June 29, 05:00","(Austria) Business Confidence",Low,14.30,14.0,20.30,EUR
+"2021, June 29, 05:00","(Austria) Consumer Confidence",Low,-2.30,-2.0,-2.00,EUR
+"2021, June 29, 05:00","(Cyprus) Business Confidence",Low,100.60,100.5,105.00,EUR
+"2021, June 29, 05:00","(Cyprus) Consumer Confidence",Low,-17.80,-16.5,-13.40,EUR
+"2021, June 29, 05:00","(Euro Area) Consumer Confidence",Medium,-5.10,-3.3,-3.30,EUR
+"2021, June 29, 05:00","(Euro Area) Services Sentiment",Low,11.30,14.8,17.90,EUR
+"2021, June 29, 05:00","(Euro Area) Industrial Sentiment",Low,11.50,12.3,12.70,EUR
+"2021, June 29, 05:00","(Euro Area) Economic Sentiment",Medium,114.50,116.5,117.90,EUR
+"2021, June 29, 05:00","(Euro Area) Consumer Inflation Expectations",Low,22.20,21.5,27.10,EUR
+"2021, June 29, 05:00","(Finland) Business Confidence",Low,15.00,12.5,20.80,EUR
+"2021, June 29, 05:00","(Greece) Consumer Confidence",Low,-22.20,-20.0,-25.60,EUR
+"2021, June 29, 05:00","(Greece) Business Confidence",Low,108.60,109.1,108.70,EUR
+"2021, June 29, 05:00","(Luxembourg) Balance of Trade",Low,-€0.60B,,-€0.51B,EUR
+"2021, June 29, 05:00","(Luxembourg) Consumer Confidence",Low,-1.60,-0.2,1.10,EUR
+"2021, June 29, 05:00","(Luxembourg) Business Confidence",Low,120.20,117.0,121.90,EUR
+"2021, June 29, 05:00","(Malta) Consumer Confidence",Low,8.30,9.7,6.00,EUR
+"2021, June 29, 05:00","(Malta) Business Confidence",Low,115.20,,113.50,EUR
+"2021, June 29, 05:00","(Malta) Business Confidence",Low,117.30,,115.20,EUR
+"2021, June 29, 05:00","(Montenegro) Balance of Trade",Low,-€150.00M,,-€174.00M,EUR
+"2021, June 29, 05:30","(Belgium) Inflation Rate MoM",Low,0.15%,,0.23%,EUR
+"2021, June 29, 05:30","(Belgium) Inflation Rate YoY",Low,1.46%,1.7%,1.63%,EUR
+"2021, June 29, 05:30","(Cyprus) Industrial Production YoY",Low,8.30%,27.0%,55.90%,EUR
+"2021, June 29, 05:30","(Cyprus) Wage Growth YoY",Low,0.40%,1.0%,-3.30%,EUR
+"2021, June 29, 06:00","(France) Unemployment Rate",Medium,8.00%,8.1%,8.10%,EUR
+"2021, June 29, 06:00","(Latvia) Retail Sales MoM",Low,3.90%,,-3.90%,EUR
+"2021, June 29, 06:00","(Latvia) Retail Sales YoY",Low,15.60%,3.5%,3.20%,EUR
+"2021, June 29, 06:00","(Portugal) Retail Sales YoY",Low,28.30%,17.2%,16.10%,EUR
+"2021, June 29, 06:00","(Portugal) Retail Sales MoM",Low,4.40%,-2.0%,3.90%,EUR
+"2021, June 29, 07:20","(Spain) Business Confidence",Medium,1.10,5.0,-1.10,EUR
+"2021, June 29, 08:00","(Germany) Harmonised Inflation Rate YoY",Low,2.40%,2.1%,2.10%,EUR
+"2021, June 29, 08:00","(Germany) Harmonised Inflation Rate MoM",Low,0.30%,0.4%,0.40%,EUR
+"2021, June 29, 08:00","(Germany) Inflation Rate MoM",Low,0.50%,0.4%,0.40%,EUR
+"2021, June 29, 08:00","(Germany) Inflation Rate YoY",Medium,2.50%,2.3%,2.30%,EUR
+"2021, June 29, 08:55","(United States) Redbook YoY",Low,17.60%,,18.20%,USD
+"2021, June 29, 09:00","(United States) House Price Index MoM",Low,1.40%,0.8%,1.80%,USD
+"2021, June 29, 09:00","(United States) S&P/Case-Shiller Home Price MoM",Medium,2.20%,1.9%,2.10%,USD
+"2021, June 29, 09:00","(United States) S&P/Case-Shiller Home Price YoY",Medium,13.30%,14.5%,14.90%,USD
+"2021, June 29, 09:00","(United States) Fed Barkin Speech",Medium,,,,USD
+"2021, June 29, 09:00","(United States) House Price Index YoY",Low,13.90%,14.4%,15.70%,USD
+"2021, June 29, 09:40","(Euro Area) ECB President Lagarde Speech",Medium,,,,EUR
+"2021, June 29, 10:00","(United States) CB Consumer Confidence",Medium,117.20,119.0,127.30,USD
+"2021, June 29, 10:30","(United States) NY Fed Treasury Purchases TIPS 7.5 to 30 yrs",Low,,1.225,,USD
+"2021, June 29, 16:30","(United States) API Crude Oil Stock Change",Medium,-7.20M,-4.46M,-8.15M,USD
+"2021, June 30, 00:30","(Netherlands) Retail Sales YoY",Low,9.60%,4.0%,9.70%,EUR
+"2021, June 30, 01:00","(Estonia) Retail Sales YoY",Low,23.00%,8.7%,17.80%,EUR
+"2021, June 30, 01:00","(Estonia) Retail Sales MoM",Low,-1.00%,,17.30%,EUR
+"2021, June 30, 02:00","(Germany) Unemployment Rate Harmonised",High,3.80%,4.4%,3.70%,EUR
+"2021, June 30, 02:45","(France) Harmonised Inflation Rate MoM",Low,0.30%,0.2%,0.20%,EUR
+"2021, June 30, 02:45","(France) Harmonised Inflation Rate YoY",Low,1.80%,1.9%,1.90%,EUR
+"2021, June 30, 02:45","(France) Inflation Rate MoM",Low,0.30%,0.2%,0.20%,EUR
+"2021, June 30, 02:45","(France) Household Consumption MoM",Low,-8.30%,7.5%,10.40%,EUR
+"2021, June 30, 02:45","(France) PPI MoM",Low,-0.30%,0.6%,0.50%,EUR
+"2021, June 30, 02:45","(France) Inflation Rate YoY",Medium,1.40%,1.5%,1.50%,EUR
+"2021, June 30, 02:45","(France) PPI YoY",Low,7.30%,7.9%,7.20%,EUR
+"2021, June 30, 03:00","(Austria) PPI YoY",Low,4.60%,5.8%,6.00%,EUR
+"2021, June 30, 03:00","(Austria) PPI MoM",Low,1.00%,0.8%,0.90%,EUR
+"2021, June 30, 03:55","(Germany) Unemployment Change",High,-15.00K,-20.0K,-38.00K,EUR
+"2021, June 30, 03:55","(Germany) Unemployment Rate",High,6.00%,5.9%,5.90%,EUR
+"2021, June 30, 04:00","(Austria) Current Account",Low,€1.60B,,-€0.81B,EUR
+"2021, June 30, 04:00","(Italy) PPI MoM",Low,1.10%,0.8%,1.00%,EUR
+"2021, June 30, 04:00","(Italy) PPI YoY",Low,6.50%,7.5%,8.00%,EUR
+"2021, June 30, 04:00","(Spain) Current Account",Low,-€0.16B,€1.2B,€0.40B,EUR
+"2021, June 30, 04:30","(Portugal) Inflation Rate YoY",Low,1.20%,1.0%,0.50%,EUR
+"2021, June 30, 04:30","(Portugal) Inflation Rate MoM",Low,0.20%,0.7%,0.10%,EUR
+"2021, June 30, 04:30","(Slovenia) Harmonised Inflation Rate YoY",Low,2.20%,2.1%,1.70%,EUR
+"2021, June 30, 04:30","(Slovenia) Inflation Rate YoY",Low,2.10%,1.7%,1.40%,EUR
+"2021, June 30, 05:00","(Euro Area) Inflation Rate MoM",Medium,0.30%,0.4%,0.30%,EUR
+"2021, June 30, 05:00","(Euro Area) Core Inflation Rate YoY",Medium,1.00%,0.9%,0.90%,EUR
+"2021, June 30, 05:00","(Euro Area) Inflation Rate YoY",Medium,2.00%,1.9%,1.90%,EUR
+"2021, June 30, 05:00","(Greece) PPI YoY",Low,14.60%,16.0%,13.70%,EUR
+"2021, June 30, 05:00","(Greece) Retail Sales YoY",High,-0.90%,28.5%,39.30%,EUR
+"2021, June 30, 05:00","(Italy) Harmonised Inflation Rate YoY",Low,1.20%,1.4%,1.30%,EUR
+"2021, June 30, 05:00","(Italy) Harmonised Inflation Rate MoM",Low,-0.10%,0.2%,0.20%,EUR
+"2021, June 30, 05:00","(Italy) Inflation Rate MoM",Low,0.00%,0.2%,0.10%,EUR
+"2021, June 30, 05:00","(Italy) Inflation Rate YoY",Medium,1.30%,1.4%,1.30%,EUR
+"2021, June 30, 05:00","(Malta) PPI YoY",Low,0.39%,1.0%,1.73%,EUR
+"2021, June 30, 05:00","(Montenegro) Tourist Arrivals",Low,18.80K,,47.40K,EUR
+"2021, June 30, 05:30","(Belgium) PPI YoY",Low,12.00%,17.0%,17.20%,EUR
+"2021, June 30, 05:45","(Italy) 10-Year BTP Auction",Low,0.94%,,0.81%,EUR
+"2021, June 30, 05:45","(Italy) 5-Year BTP Auction",Low,0.17%,,0.12%,EUR
+"2021, June 30, 06:00","(Ireland) Unemployment Rate",Low,7.80%,7.7%,7.60%,EUR
+"2021, June 30, 06:00","(Luxembourg) PPI YoY",Low,2.20%,2.0%,2.00%,EUR
+"2021, June 30, 06:00","(Portugal) Industrial Production YoY",Low,36.90%,32.0%,27.10%,EUR
+"2021, June 30, 06:00","(Portugal) Industrial Production MoM",Low,0.50%,0.9%,-4.50%,EUR
+"2021, June 30, 07:00","(United States) MBA Mortgage Applications",Low,2.10%,,-6.90%,USD
+"2021, June 30, 07:00","(United States) MBA 30-Year Mortgage Rate",Low,3.18%,,3.20%,USD
+"2021, June 30, 07:30","(Cyprus) Current Account",Low,-€799.50M,,-€922.00M,EUR
+"2021, June 30, 08:15","(United States) ADP Employment Change",High,978.00K,600.0K,692.00K,USD
+"2021, June 30, 09:45","(United States) Chicago PMI",Medium,75.20,70.0,66.10,USD
+"2021, June 30, 10:00","(Slovenia) Unemployment Rate",Low,8.50%,8.7%,8.20%,EUR
+"2021, June 30, 10:00","(United States) Pending Home Sales MoM",Medium,-4.40%,-0.8%,8.00%,USD
+"2021, June 30, 10:00","(United States) Pending Home Sales YoY",Medium,51.70%,25.0%,13.10%,USD
+"2021, June 30, 10:30","(United States) EIA Heating Oil Stocks Change",Low,0.20M,,0.02M,USD
+"2021, June 30, 10:30","(United States) EIA Gasoline Stocks Change",Medium,-2.93M,-0.886M,1.52M,USD
+"2021, June 30, 10:30","(United States) EIA Refinery Crude Runs Change",Low,-0.23M,,0.19M,USD
+"2021, June 30, 10:30","(United States) EIA Cushing Crude Oil Stocks Change",Low,-1.83M,,-1.46M,USD
+"2021, June 30, 10:30","(United States) EIA Crude Oil Imports Change",Low,0.43M,,-0.60M,USD
+"2021, June 30, 10:30","(United States) EIA Crude Oil Stocks Change",Medium,-7.61M,-4.686M,-6.72M,USD
+"2021, June 30, 10:30","(United States) EIA Distillate Stocks Change",Low,1.75M,0.486M,-0.87M,USD
+"2021, June 30, 10:30","(United States) EIA Gasoline Production Change",Low,0.40M,,-0.75M,USD
+"2021, June 30, 10:30","(United States) EIA Distillate Fuel Production Change",Low,0.06M,,-0.08M,USD
+"2021, June 30, 10:30","(United States) NY Fed Treasury Purchases 7 to 10 yrs",Low,,3.225,,USD
+"2021, June 30, 12:00","(United States) Quarterly Grain Stocks - Corn",Low,7.70B,4.144B,4.11B,USD
+"2021, June 30, 12:00","(United States) Quarterly Grain Stocks - Soy",Low,1.56B,0.787B,0.77B,USD
+"2021, June 30, 12:00","(United States) Quarterly Grain Stocks - Wheat",Low,1.31B,0.859B,0.84B,USD
+"2021, June 30, 20:01","(Ireland) AIB Manufacturing PMI",Low,64.10,62.5,64.00,EUR
+

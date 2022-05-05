@@ -1,0 +1,2049 @@
+Date,Event,Impact,Previous,Consensus,Actual,Currency
+"2022, April 01, 01:30","(El Salvador) Current Account",Low,-$540.24M,$-300.0M,-$520.15M,USD
+"2022, April 01, 02:00","(El Salvador) GDP Growth Rate YoY",Low,11.70%,4.0%,3.70%,USD
+"2022, April 01, 07:01","(Ireland) AIB Manufacturing PMI",Low,57.80,55.7,59.40,EUR
+"2022, April 01, 13:45","(France) Budget Balance",Low,-€15.93B,€-58.0B,-€37.63B,EUR
+"2022, April 01, 14:00","(Austria) Inflation Rate YoY",Low,5.90%,6.8%,6.80%,EUR
+"2022, April 01, 14:00","(Austria) Harmonised Inflation Rate YoY",Low,5.50%,6.2%,6.70%,EUR
+"2022, April 01, 14:00","(Austria) Harmonised Inflation Rate MoM",Low,1.30%,1.9%,2.30%,EUR
+"2022, April 01, 14:00","(Netherlands) NEVI Manufacturing PMI",Low,60.60,60.5,58.40,EUR
+"2022, April 01, 14:00","(Austria) Inflation Rate MoM",Low,1.30%,2.0%,2.00%,EUR
+"2022, April 01, 14:15","(Spain) Markit Manufacturing PMI",High,56.90,55.5,54.20,EUR
+"2022, April 01, 14:30","(Austria) Unemployment Rate",High,7.30%,7.2%,6.30%,EUR
+"2022, April 01, 14:45","(Italy) IHS Markit Manufacturing PMI",High,58.30,57.0,55.80,EUR
+"2022, April 01, 14:50","(France) Markit Manufacturing PMI",Medium,57.20,54.8,54.70,EUR
+"2022, April 01, 14:55","(Germany) Markit Manufacturing PMI",High,58.40,57.6,56.90,EUR
+"2022, April 01, 15:00","(Euro Area) Markit Manufacturing PMI",High,58.20,57.0,56.50,EUR
+"2022, April 01, 15:00","(Greece) Markit Manufacturing PMI",High,57.80,50.1,54.60,EUR
+"2022, April 01, 16:00","(Euro Area) Inflation Rate YoY",High,5.90%,6.6%,7.50%,EUR
+"2022, April 01, 16:00","(Euro Area) Core Inflation Rate YoY",Medium,2.70%,3.1%,3.00%,EUR
+"2022, April 01, 16:00","(Euro Area) Inflation Rate MoM",Medium,0.90%,1.9%,2.50%,EUR
+"2022, April 01, 16:00","(Euro Area) CPI",High,111.74,113.9,114.50,EUR
+"2022, April 01, 17:00","(Portugal) Industrial Production YoY",Low,-3.20%,-4.9%,-4.30%,EUR
+"2022, April 01, 17:00","(Portugal) Industrial Production MoM",Low,-5.00%,,0.60%,EUR
+"2022, April 01, 17:30","(Portugal) Budget Balance",Low,€0.38B,€-0.9B,-€0.37B,EUR
+"2022, April 01, 19:00","(Spain) New Car Sales YoY",Low,6.60%,9.5%,-30.20%,EUR
+"2022, April 01, 19:30","(United States) Average Hourly Earnings YoY",Medium,5.10%,5.5%,5.60%,USD
+"2022, April 01, 19:30","(United States) Average Hourly Earnings MoM",Medium,0.00%,0.4%,0.40%,USD
+"2022, April 01, 19:30","(United States) Nonfarm Payrolls Private",High,654.00K,480.0K,426.00K,USD
+"2022, April 01, 19:30","(United States) Unemployment Rate",High,3.80%,3.7%,3.60%,USD
+"2022, April 01, 19:30","(United States) Non Farm Payrolls",High,678.00K,490.0K,431.00K,USD
+"2022, April 01, 19:30","(United States) Average Weekly Hours",Low,34.70,34.7,34.60,USD
+"2022, April 01, 19:30","(United States) Government Payrolls",Low,24.00K,30.0K,5.00K,USD
+"2022, April 01, 19:30","(United States) Manufacturing Payrolls",Low,36.00K,30.0K,38.00K,USD
+"2022, April 01, 19:30","(United States) Participation Rate",Medium,62.30%,62.3%,62.40%,USD
+"2022, April 01, 20:05","(United States) Fed Evans Speech",Medium,,,,USD
+"2022, April 01, 20:45","(United States) Markit Manufacturing PMI",High,57.30,58.5,58.80,USD
+"2022, April 01, 21:00","(United States) ISM Manufacturing Prices",Low,75.60,80.0,87.10,USD
+"2022, April 01, 21:00","(United States) ISM Manufacturing Employment",Low,52.90,53.3,56.30,USD
+"2022, April 01, 21:00","(United States) Construction Spending MoM",Low,1.30%,1.0%,0.50%,USD
+"2022, April 01, 21:00","(United States) ISM Manufacturing PMI",High,58.60,59.0,57.10,USD
+"2022, April 01, 21:00","(United States) ISM Manufacturing New Orders",Low,61.70,61.5,53.80,USD
+"2022, April 01, 22:00","(El Salvador) GDP Growth Rate QoQ",Low,0.50%,0.6%,-0.06%,USD
+"2022, April 02, 00:00","(United States) Baker Hughes Oil Rig Count",Low,531.00,,533.00,USD
+"2022, April 02, 00:00","(United States) Baker Hughes Total Rig Count",Low,670.00,,673.00,USD
+"2022, April 02, 15:30","(Euro Area) ECB Schnabel Speech",Low,,,,EUR
+"2022, April 03, 00:00","(United States) Fed Williams Speech",Medium,,,,USD
+"2022, April 04, 07:00","(Euro Area) Eurogroup Meeting",Medium,,,,EUR
+"2022, April 04, 13:00","(Germany) Imports MoM s.a",Low,-4.20%,1.4%,4.50%,EUR
+"2022, April 04, 13:00","(Germany) Exports MoM s.a",Low,-2.80%,1.5%,6.40%,EUR
+"2022, April 04, 13:00","(Germany) Balance of Trade s.a",Low,€9.40B,€9.6B,€11.50B,EUR
+"2022, April 04, 13:00","(Germany) Balance of Trade",High,€3.50B,€7.1B,€11.40B,EUR
+"2022, April 04, 14:00","(Spain) Unemployment Change",High,-11.40K,-9.0K,-2.90K,EUR
+"2022, April 04, 14:00","(Spain) Tourist Arrivals YoY",Low,467.70%,650.0%,1007.80%,EUR
+"2022, April 04, 15:30","(Slovenia) Balance of Trade",Low,-€423.00M,€-390.0M,-€617.80M,EUR
+"2022, April 04, 16:30","(Belgium) PPI YoY",Low,37.80%,42.2%,36.10%,EUR
+"2022, April 04, 16:30","(Cyprus) Retail Sales YoY",Low,3.90%,8.0%,12.60%,EUR
+"2022, April 04, 16:30","(Cyprus) Retail Sales YoY",Low,12.60%,,-2.00%,EUR
+"2022, April 04, 17:00","(France) New Car Registrations YoY",Low,-13.00%,-15.7%,-19.50%,EUR
+"2022, April 04, 17:00","(Italy) New Car Registrations YoY",Low,-22.60%,,-29.70%,EUR
+"2022, April 04, 17:00","(Latvia) Industrial Production MoM",Low,-0.70%,-0.2%,-2.50%,EUR
+"2022, April 04, 17:00","(Latvia) Industrial Production YoY",Low,5.90%,5.7%,-0.60%,EUR
+"2022, April 04, 20:00","(France) 12-Month BTF Auction",Low,-0.47%,,-0.41%,EUR
+"2022, April 04, 20:00","(France) 3-Month BTF Auction",Low,-0.65%,,-0.65%,EUR
+"2022, April 04, 20:00","(France) 6-Month BTF Auction",Low,-0.62%,,-0.65%,EUR
+"2022, April 04, 21:00","(United States) Factory Orders ex Transportation",Low,1.00%,-0.3%,0.40%,USD
+"2022, April 04, 21:00","(United States) Factory Orders MoM",Medium,1.40%,-0.5%,-0.50%,USD
+"2022, April 04, 22:30","(United States) 3-Month Bill Auction",Low,0.60%,,0.67%,USD
+"2022, April 04, 22:30","(United States) 6-Month Bill Auction",Low,1.05%,,1.11%,USD
+"2022, April 05, 07:01","(Ireland) AIB Services PMI",Low,61.80,56.6,63.40,EUR
+"2022, April 05, 09:45","(Netherlands) Balance of Trade",Low,€3.90B,€2.8B,€4.60B,EUR
+"2022, April 05, 13:00","(Finland) Balance of Trade",Low,-€0.94B,€-0.87B,-€1.08B,EUR
+"2022, April 05, 13:45","(France) Industrial Production MoM",Medium,1.60%,0.2%,-0.90%,EUR
+"2022, April 05, 14:15","(Spain) Markit Services PMI",High,56.60,54.2,53.40,EUR
+"2022, April 05, 14:15","(Spain) Markit Composite PMI",High,56.50,50.6,53.10,EUR
+"2022, April 05, 14:45","(Italy) IHS Markit Services PMI",High,52.80,51.5,52.10,EUR
+"2022, April 05, 14:45","(Italy) IHS Markit Composite PMI",High,53.60,52.2,52.10,EUR
+"2022, April 05, 14:50","(France) Markit Composite PMI",Low,55.50,56.2,56.30,EUR
+"2022, April 05, 14:50","(France) Markit Services PMI",Medium,55.50,57.4,57.40,EUR
+"2022, April 05, 14:55","(Germany) Markit Services PMI",High,55.80,55.0,56.10,EUR
+"2022, April 05, 14:55","(Germany) Markit Composite PMI",High,55.60,54.6,55.10,EUR
+"2022, April 05, 15:00","(Euro Area) Markit Services PMI",High,55.50,54.8,55.60,EUR
+"2022, April 05, 15:00","(Euro Area) Markit Composite PMI",High,55.50,54.5,54.90,EUR
+"2022, April 05, 15:00","(European Union) EcoFin Meeting",Medium,,,,EUR
+"2022, April 05, 15:40","(Spain) 6-Month Letras Auction",Low,-0.57%,,-0.55%,EUR
+"2022, April 05, 15:40","(Spain) 12-Month Letras Auction",Low,-0.48%,,-0.29%,EUR
+"2022, April 05, 16:30","(United States) LMI Logistics Managers Index Current",Low,75.20,,76.20,USD
+"2022, April 05, 17:00","(Ireland) Household Saving Ratio",Low,17.10%,19.2%,14.90%,EUR
+"2022, April 05, 19:30","(United States) Exports",Medium,$224.40B,$225.0B,$228.60B,USD
+"2022, April 05, 19:30","(United States) Imports",Medium,$314.10B,$313.0B,$317.80B,USD
+"2022, April 05, 19:30","(United States) Balance of Trade",High,-$89.70B,$-88.5B,-$89.20B,USD
+"2022, April 05, 19:55","(United States) Redbook YoY",Low,12.90%,,14.30%,USD
+"2022, April 05, 20:00","(Germany) New Car Registrations YoY",Low,3.20%,,-17.50%,EUR
+"2022, April 05, 20:45","(United States) Markit Composite PMI",High,55.90,58.5,57.70,USD
+"2022, April 05, 20:45","(United States) Markit Services PMI",High,56.50,58.9,58.00,USD
+"2022, April 05, 21:00","(United States) ISM Non-Manufacturing Business Activity",Low,55.10,56.0,55.50,USD
+"2022, April 05, 21:00","(United States) ISM Non-Manufacturing Prices",Low,83.10,83.4,83.80,USD
+"2022, April 05, 21:00","(United States) ISM Non-Manufacturing New Orders",Low,56.10,56.3,60.10,USD
+"2022, April 05, 21:00","(United States) ISM Non-Manufacturing Employment",Low,48.50,50.0,54.00,USD
+"2022, April 05, 21:00","(United States) ISM Non-Manufacturing PMI",High,56.50,58.4,58.30,USD
+"2022, April 05, 21:00","(United States) Fed Brainard Speech",Medium,,,,USD
+"2022, April 05, 21:00","(United States) Fed Kashkari Speech",Medium,,,,USD
+"2022, April 05, 22:05","(United States) Fed Brainard Speech",Medium,,,,USD
+"2022, April 06, 01:00","(United States) Fed Williams Speech",Medium,,,,USD
+"2022, April 06, 03:30","(United States) API Crude Oil Stock Change",Medium,-3.00M,-2.056M,1.08M,USD
+"2022, April 06, 07:00","(United States) Total Vehicle Sales",Low,14.07M,,13.30M,USD
+"2022, April 06, 12:00","(Estonia) Industrial Production MoM",Low,-6.10%,3.8%,-0.50%,EUR
+"2022, April 06, 12:00","(Estonia) Industrial Production YoY",Low,1.40%,9.0%,1.70%,EUR
+"2022, April 06, 13:00","(Germany) Factory Orders MoM",Medium,1.80%,-0.2%,-2.20%,EUR
+"2022, April 06, 14:00","(Slovakia) Retail Sales MoM",Low,2.20%,2.6%,-0.50%,EUR
+"2022, April 06, 14:00","(Slovakia) Retail Sales YoY",Low,17.00%,2.0%,16.40%,EUR
+"2022, April 06, 14:00","(Euro Area) ECB Guindos Speech",High,,,,EUR
+"2022, April 06, 14:30","(Euro Area) Construction PMI",Low,56.30,55.9,52.80,EUR
+"2022, April 06, 14:30","(France) Construction PMI",Low,50.00,47.7,48.40,EUR
+"2022, April 06, 14:30","(Germany) Construction PMI",Medium,54.90,54.2,50.90,EUR
+"2022, April 06, 14:30","(Italy) Construction PMI",Low,68.50,65.3,62.90,EUR
+"2022, April 06, 16:00","(Euro Area) PPI MoM",Low,5.20%,1.3%,1.10%,EUR
+"2022, April 06, 16:00","(Euro Area) PPI YoY",Low,30.60%,31.5%,31.40%,EUR
+"2022, April 06, 16:00","(Euro Area) ECB Schnabel Speech",Low,,,,EUR
+"2022, April 06, 16:00","(Euro Area) ECB Panetta Speech",Low,,,,EUR
+"2022, April 06, 17:00","(Ireland) Unemployment Rate",Low,5.20%,5.3%,5.50%,EUR
+"2022, April 06, 17:10","(European Union) 3-Month Bill Auction",Low,-0.67%,,-0.64%,EUR
+"2022, April 06, 17:10","(European Union) 6-Month Bill Auction",Low,-0.65%,,-0.55%,EUR
+"2022, April 06, 17:30","(Spain) Consumer Confidence",Medium,89.80,77.4,53.80,EUR
+"2022, April 06, 17:45","(Euro Area) ECB Lane Speech",Low,,,,EUR
+"2022, April 06, 18:00","(United States) MBA Mortgage Applications",Low,-6.80%,,-6.30%,USD
+"2022, April 06, 18:00","(United States) MBA 30-Year Mortgage Rate",Low,4.80%,,4.90%,USD
+"2022, April 06, 18:00","(United States) MBA Mortgage Market Index",Low,425.10,,398.50,USD
+"2022, April 06, 18:00","(United States) MBA Mortgage Refinance Index",Low,1295.10,,1166.30,USD
+"2022, April 06, 18:00","(United States) MBA Purchase Index",Low,267.10,,258.10,USD
+"2022, April 06, 20:30","(United States) Fed Harker Speech",Medium,,,,USD
+"2022, April 06, 21:30","(United States) EIA Gasoline Production Change",Low,-0.75M,,0.07M,USD
+"2022, April 06, 21:30","(United States) EIA Heating Oil Stocks Change",Low,-0.24M,,0.03M,USD
+"2022, April 06, 21:30","(United States) EIA Refinery Crude Runs Change",Low,0.04M,,0.04M,USD
+"2022, April 06, 21:30","(United States) EIA Distillate Stocks Change",Low,1.39M,-0.819M,0.77M,USD
+"2022, April 06, 21:30","(United States) EIA Distillate Fuel Production Change",Low,0.12M,,-0.06M,USD
+"2022, April 06, 21:30","(United States) EIA Cushing Crude Oil Stocks Change",Low,-1.01M,,1.65M,USD
+"2022, April 06, 21:30","(United States) EIA Crude Oil Imports Change",Low,0.63M,,-0.66M,USD
+"2022, April 06, 21:30","(United States) EIA Crude Oil Stocks Change",Medium,-3.45M,-2.056M,2.42M,USD
+"2022, April 06, 21:30","(United States) EIA Gasoline Stocks Change",Medium,0.79M,0.063M,-2.04M,USD
+"2022, April 07, 01:00","(United States) FOMC Minutes",High,,,,USD
+"2022, April 07, 11:30","(Netherlands) Inflation Rate YoY",Medium,6.20%,10.9%,9.70%,EUR
+"2022, April 07, 11:30","(Netherlands) Inflation Rate MoM",Low,0.60%,4.7%,3.60%,EUR
+"2022, April 07, 12:00","(Estonia) Inflation Rate MoM",Low,1.50%,2.7%,2.70%,EUR
+"2022, April 07, 12:00","(Estonia) Inflation Rate YoY",Low,12.00%,15.3%,15.20%,EUR
+"2022, April 07, 13:00","(Germany) Industrial Production MoM",Medium,2.70%,0.0%,0.20%,EUR
+"2022, April 07, 14:00","(Austria) Wholesale Prices MoM",Low,2.20%,2.6%,9.70%,EUR
+"2022, April 07, 14:00","(Austria) Wholesale Prices YoY",Low,16.30%,16.5%,25.60%,EUR
+"2022, April 07, 15:00","(France) Foreign Exchange Reserves",Low,$232.62B,,$235.52B,EUR
+"2022, April 07, 15:55","(Spain) 7-Year Obligacion Auction",Low,0.66%,,1.23%,EUR
+"2022, April 07, 15:55","(Spain) 10-Year Obligacion Auction",Low,1.31%,,1.60%,EUR
+"2022, April 07, 16:00","(Austria) Retail Sales MoM",High,-1.00%,,0.20%,EUR
+"2022, April 07, 16:00","(Austria) Retail Sales YoY",High,15.80%,2.5%,-5.90%,EUR
+"2022, April 07, 16:00","(Belgium) Retail Sales YoY",Low,0.30%,2.1%,-5.10%,EUR
+"2022, April 07, 16:00","(Belgium) Retail Sales MoM",Low,-0.70%,,-1.80%,EUR
+"2022, April 07, 16:00","(Euro Area) Retail Sales YoY",High,7.80%,4.8%,5.00%,EUR
+"2022, April 07, 16:00","(Euro Area) Retail Sales MoM",High,0.20%,0.6%,0.30%,EUR
+"2022, April 07, 16:00","(France) Retail Sales YoY",Low,3.70%,1.2%,4.40%,EUR
+"2022, April 07, 16:00","(France) Retail Sales MoM",Low,-0.90%,-0.4%,-0.60%,EUR
+"2022, April 07, 16:00","(Luxembourg) Retail Sales MoM",Low,4.20%,-0.4%,0.30%,EUR
+"2022, April 07, 16:00","(Malta) Retail Sales MoM",Low,1.70%,-0.1%,-0.20%,EUR
+"2022, April 07, 16:00","(Malta) Retail Sales YoY",Low,11.60%,10.9%,6.90%,EUR
+"2022, April 07, 16:00","(Cyprus) Inflation Rate MoM",Low,1.21%,1.9%,1.80%,EUR
+"2022, April 07, 16:00","(France) 10-Year OAT Auction",Low,0.52%,,1.17%,EUR
+"2022, April 07, 16:00","(Cyprus) Inflation Rate YoY",Low,6.60%,7.2%,7.10%,EUR
+"2022, April 07, 16:00","(Germany) Bundesbank Balz Speech",Low,,,,EUR
+"2022, April 07, 16:30","(Greece) Balance of Trade",Low,-€2.94B,€-3.0B,-€3.10B,EUR
+"2022, April 07, 17:00","(Ireland) Harmonised Inflation Rate YoY",Low,5.70%,6.3%,6.90%,EUR
+"2022, April 07, 17:00","(Ireland) Harmonised Inflation Rate MoM",Low,0.90%,1.4%,2.10%,EUR
+"2022, April 07, 17:00","(Ireland) Inflation Rate MoM",Low,0.90%,2.1%,1.90%,EUR
+"2022, April 07, 17:00","(Ireland) Inflation Rate YoY",Low,5.60%,7.0%,6.70%,EUR
+"2022, April 07, 18:30","(Euro Area) ECB Monetary Policy Meeting Accounts",Medium,,,,EUR
+"2022, April 07, 19:30","(United States) Jobless Claims 4-week Average",High,208.50K,210.0K,170.00K,USD
+"2022, April 07, 19:30","(United States) Continuing Jobless Claims",High,1307.00K,1311.0K,1523.00K,USD
+"2022, April 07, 19:30","(United States) Initial Jobless Claims",High,202.00K,200.0K,166.00K,USD
+"2022, April 07, 20:00","(United States) Fed Bullard Speech",Medium,,,,USD
+"2022, April 07, 21:00","(Ecuador) Inflation Rate YoY",Low,2.71%,2.91%,2.64%,USD
+"2022, April 07, 21:30","(United States) EIA Natural Gas Stocks Change",Low,26.00B,-26.0B,-33.00B,USD
+"2022, April 07, 22:30","(United States) 8-Week Bill Auction",Low,0.38%,,0.50%,USD
+"2022, April 07, 22:30","(United States) 4-Week Bill Auction",Low,0.14%,,0.20%,USD
+"2022, April 07, 23:30","(Germany) Bundesbank Balz Speech",Low,,,,EUR
+"2022, April 08, 01:00","(United States) Fed Bostic Speech",Medium,,,,USD
+"2022, April 08, 01:00","(United States) Fed Evans Speech",Medium,,,,USD
+"2022, April 08, 02:00","(United States) Consumer Credit Change",Low,$6.84B,$16.65B,$41.82B,USD
+"2022, April 08, 03:05","(United States) Fed Williams Speech",Medium,,,,USD
+"2022, April 08, 11:30","(Netherlands) Manufacturing Production YoY",Low,7.90%,8.4%,10.20%,EUR
+"2022, April 08, 12:00","(Finland) Industrial Production YoY",Low,4.50%,2.6%,3.80%,EUR
+"2022, April 08, 13:00","(Lithuania) Inflation Rate MoM",Low,1.80%,2.6%,2.40%,EUR
+"2022, April 08, 13:00","(Lithuania) Inflation Rate YoY",Low,14.20%,16.0%,15.70%,EUR
+"2022, April 08, 13:00","(Lithuania) Balance of Trade",Low,-€0.30B,€-0.35B,-€0.49B,EUR
+"2022, April 08, 14:00","(Austria) Balance of Trade",Low,-€1661.50M,€-1050.0M,-€1707.00M,EUR
+"2022, April 08, 14:00","(Austria) Industrial Production YoY",Low,13.90%,14.8%,12.20%,EUR
+"2022, April 08, 14:00","(Slovakia) Balance of Trade",Low,-€400.50M,€-239.6M,-€259.00M,EUR
+"2022, April 08, 14:00","(Spain) Industrial Production YoY",Low,1.70%,1.7%,3.00%,EUR
+"2022, April 08, 15:00","(Italy) Retail Sales YoY",High,8.40%,6.1%,4.30%,EUR
+"2022, April 08, 15:00","(Italy) Retail Sales MoM",High,-0.50%,0.7%,0.70%,EUR
+"2022, April 08, 16:00","(Greece) Industrial Production YoY",Low,-0.20%,3.2%,4.80%,EUR
+"2022, April 08, 16:00","(Greece) Harmonised Inflation Rate YoY",Low,6.30%,6.7%,8.00%,EUR
+"2022, April 08, 16:00","(Greece) Inflation Rate YoY",Low,7.20%,8.8%,8.90%,EUR
+"2022, April 08, 16:00","(Malta) Industrial Production YoY",Low,-3.70%,-1.0%,-3.30%,EUR
+"2022, April 08, 16:00","(Greece) Inflation Rate MoM",Low,1.10%,2.7%,2.70%,EUR
+"2022, April 08, 17:00","(Luxembourg) Inflation Rate Mom",Low,2.20%,2.1%,1.00%,EUR
+"2022, April 08, 17:00","(Cyprus) Construction Output YoY",Low,-3.30%,1.0%,-5.50%,EUR
+"2022, April 08, 17:00","(Luxembourg) Inflation Rate YoY",Low,6.60%,7.3%,6.10%,EUR
+"2022, April 08, 17:00","(Ireland) Industrial Production YoY",Low,-19.60%,-23.3%,-15.40%,EUR
+"2022, April 08, 17:00","(Latvia) Inflation Rate YoY",Low,8.70%,11.7%,11.50%,EUR
+"2022, April 08, 17:00","(Latvia) Inflation Rate MoM",Low,1.60%,3.5%,3.30%,EUR
+"2022, April 08, 17:00","(Portugal) Balance of Trade",Low,-€1939.00M,€-2050.0M,-€2154.00M,EUR
+"2022, April 08, 18:10","(Euro Area) ECB Panetta Speech",Low,,,,EUR
+"2022, April 08, 21:00","(United States) Wholesale Inventories MoM",Medium,1.10%,2.1%,2.50%,USD
+"2022, April 08, 23:00","(United States) WASDE Report",Low,,,,USD
+"2022, April 09, 00:00","(United States) Baker Hughes Total Rig Count",Low,673.00,,689.00,USD
+"2022, April 09, 00:00","(United States) Baker Hughes Oil Rig Count",Low,533.00,,546.00,USD
+"2022, April 09, 01:00","(El Salvador) Inflation Rate Mom",Low,0.61%,0.51%,0.81%,USD
+"2022, April 09, 01:00","(El Salvador) Inflation Rate YoY",Low,6.67%,7.09%,6.69%,USD
+"2022, April 10, 07:00","(France) Presidential Election 1st Round",Medium,,,,EUR
+"2022, April 11, 07:01","(Ireland) Construction PMI",Low,58.40,56.4,53.90,EUR
+"2022, April 11, 11:30","(Netherlands) Balance of Trade",Low,€4.60B,€4.8B,€6.00B,EUR
+"2022, April 11, 12:00","(Estonia) Balance of Trade",Low,-€178.00M,€-100.0M,-€309.00M,EUR
+"2022, April 11, 13:00","(Lithuania) PPI MoM",Low,1.50%,1.8%,5.50%,EUR
+"2022, April 11, 13:00","(Lithuania) PPI YoY",Low,18.10%,18.5%,23.10%,EUR
+"2022, April 11, 14:00","(Slovakia) Industrial Production YoY",Low,3.10%,1.5%,-0.20%,EUR
+"2022, April 11, 15:30","(Slovenia) Industrial Production YoY",Low,9.90%,10.7%,-1.20%,EUR
+"2022, April 11, 16:00","(Malta) Balance of Trade",Low,-€210.20M,€-250.0M,-€238.10M,EUR
+"2022, April 11, 16:30","(Belgium) Industrial Production YoY",Low,7.10%,3.2%,7.80%,EUR
+"2022, April 11, 16:30","(Belgium) Industrial Production MoM",Low,0.40%,0.9%,-0.60%,EUR
+"2022, April 11, 16:30","(Cyprus) Balance of Trade",Low,-€518.00M,€-480.0M,-€407.90M,EUR
+"2022, April 11, 16:30","(Germany) 12-Month Bubill Auction",Low,-0.66%,,-0.54%,EUR
+"2022, April 11, 17:00","(Latvia) Balance of Trade",Low,-€209.30M,€-250.0M,-€256.10M,EUR
+"2022, April 11, 20:00","(France) 12-Month BTF Auction",Low,-0.41%,,-0.32%,EUR
+"2022, April 11, 20:00","(France) 3-Month BTF Auction",Low,-0.65%,,-0.66%,EUR
+"2022, April 11, 20:00","(France) 6-Month BTF Auction",Low,-0.65%,,-0.58%,EUR
+"2022, April 11, 20:30","(United States) Fed Bostic Speech",Medium,,,,USD
+"2022, April 11, 20:30","(United States) Fed Bowman Speech",Medium,,,,USD
+"2022, April 11, 22:00","(United States) Consumer Inflation Expectations",Low,6.00%,6.2%,6.60%,USD
+"2022, April 11, 22:30","(United States) 3-Month Bill Auction",Low,0.67%,,0.79%,USD
+"2022, April 11, 22:30","(United States) 6-Month Bill Auction",Low,1.11%,,1.22%,USD
+"2022, April 11, 23:00","(United States) Fed Williams Speech",Medium,,,,USD
+"2022, April 11, 23:40","(United States) Fed Evans Speech",Medium,,,,USD
+"2022, April 12, 00:00","(United States) 3-Year Note Auction",Low,1.77%,,2.74%,USD
+"2022, April 12, 02:15","(Euro Area) ECB McCaul Speech",Low,,,,EUR
+"2022, April 12, 12:00","(Finland) Current Account",Low,€0.10B,,-€0.10B,EUR
+"2022, April 12, 13:00","(Germany) Harmonised Inflation Rate MoM",Low,0.90%,2.5%,2.50%,EUR
+"2022, April 12, 13:00","(Germany) Harmonised Inflation Rate YoY",Low,5.50%,7.6%,7.60%,EUR
+"2022, April 12, 13:00","(Germany) Inflation Rate YoY",Medium,5.10%,7.3%,7.30%,EUR
+"2022, April 12, 13:00","(Germany) Inflation Rate MoM",Medium,0.90%,2.5%,2.50%,EUR
+"2022, April 12, 13:00","(Germany) Wholesale Prices YoY",Medium,16.60%,20.9%,22.60%,EUR
+"2022, April 12, 13:00","(Germany) Wholesale Prices MoM",Medium,1.70%,5.5%,6.90%,EUR
+"2022, April 12, 13:45","(France) Current Account",Low,-€1.80B,€-3.2B,-€1.10B,EUR
+"2022, April 12, 13:45","(France) Exports",Low,€47.30B,,€45.70B,EUR
+"2022, April 12, 13:45","(France) Imports",Low,€55.30B,,€56.00B,EUR
+"2022, April 12, 13:45","(France) Balance of Trade",Medium,-€8.03B,€-9.5B,-€10.27B,EUR
+"2022, April 12, 14:00","(Slovakia) Construction Output YoY",Low,0.30%,1.5%,13.30%,EUR
+"2022, April 12, 16:00","(Euro Area) ZEW Economic Sentiment Index",Medium,-38.70,-28.0,-43.00,EUR
+"2022, April 12, 16:00","(Germany) ZEW Current Conditions",Low,-21.40,-35.0,-30.80,EUR
+"2022, April 12, 16:00","(Germany) ZEW Economic Sentiment Index",High,-39.30,-48.0,-41.00,EUR
+"2022, April 12, 16:10","(Italy) 12-Month BOT Auction",Low,-0.44%,,-0.10%,EUR
+"2022, April 12, 16:30","(Germany) 2-Year Schatz Auction",Low,-0.36%,,0.16%,EUR
+"2022, April 12, 17:00","(United States) NFIB Business Optimism Index",Low,95.70,90.0,93.20,USD
+"2022, April 12, 17:00","(Portugal) Inflation Rate YoY",Low,4.20%,5.3%,5.30%,EUR
+"2022, April 12, 17:00","(Portugal) Inflation Rate MoM",Low,0.40%,2.5%,2.50%,EUR
+"2022, April 12, 19:30","(Kosovo) Inflation Rate YoY",Low,7.50%,8.0%,10.00%,EUR
+"2022, April 12, 19:30","(United States) Inflation Rate MoM",Medium,0.80%,1.2%,1.20%,USD
+"2022, April 12, 19:30","(United States) Core Inflation Rate MoM",Medium,0.50%,0.5%,0.30%,USD
+"2022, April 12, 19:30","(United States) Core Inflation Rate YoY",High,6.40%,6.6%,6.50%,USD
+"2022, April 12, 19:30","(United States) Inflation Rate YoY",High,7.90%,8.4%,8.50%,USD
+"2022, April 12, 19:55","(United States) Redbook YoY",Low,14.30%,,13.40%,USD
+"2022, April 12, 21:00","(United States) IBD/TIPP Economic Optimism",Medium,41.00,40.3,45.50,USD
+"2022, April 12, 22:00","(Germany) Current Account",Low,€11.00B,€13.5B,€20.80B,EUR
+"2022, April 12, 23:10","(United States) Fed Brainard Speech",Medium,,,,USD
+"2022, April 13, 00:00","(United States) 10-Year Note Auction",Medium,1.92%,,2.72%,USD
+"2022, April 13, 01:00","(United States) Monthly Budget Statement",Medium,-$217.00B,$-191.0B,-$193.00B,USD
+"2022, April 13, 03:30","(United States) API Crude Oil Stock Change",Medium,1.08M,1.367M,7.76M,USD
+"2022, April 13, 04:30","(United States) Fed Barkin Speech",Medium,,,,USD
+"2022, April 13, 14:00","(Lithuania) Current Account",Low,€68.00M,€70.0M,-€131.20M,EUR
+"2022, April 13, 14:00","(Spain) Inflation Rate MoM",Medium,0.80%,3.0%,3.00%,EUR
+"2022, April 13, 14:00","(Spain) Inflation Rate YoY",Low,7.60%,9.8%,9.80%,EUR
+"2022, April 13, 14:00","(Spain) Harmonised Inflation Rate MoM",Low,0.80%,3.9%,3.90%,EUR
+"2022, April 13, 14:00","(Spain) Harmonised Inflation Rate YoY",Low,7.60%,9.8%,9.80%,EUR
+"2022, April 13, 15:00","(France) IEA Oil Market Report",Medium,,,,EUR
+"2022, April 13, 15:00","(Italy) Industrial Production YoY",Low,-2.60%,0.7%,3.30%,EUR
+"2022, April 13, 15:00","(Italy) Industrial Production MoM",Medium,-3.40%,1.4%,4.00%,EUR
+"2022, April 13, 16:00","(Greece) Unemployment Rate",High,12.80%,13.0%,12.80%,EUR
+"2022, April 13, 16:10","(Italy) 7-Year BTP Auction",Low,1.47%,,2.04%,EUR
+"2022, April 13, 16:10","(Italy) 20-Year BTP Auction",Low,2.30%,,2.69%,EUR
+"2022, April 13, 16:10","(Italy) 3-Year BTP Auction",Low,0.57%,,1.32%,EUR
+"2022, April 13, 16:10","(Italy) 30-Year BTP Auction",Low,2.16%,,2.89%,EUR
+"2022, April 13, 16:10","(Italy) 10-Year BTP Auction",Medium,2.14%,,2.04%,EUR
+"2022, April 13, 16:30","(Germany) 10-Year Bund Auction",Medium,0.38%,,0.83%,EUR
+"2022, April 13, 17:00","(Latvia) Current Account",Low,€1.00M,€-10.0M,-€6.00M,EUR
+"2022, April 13, 18:00","(United States) MBA Mortgage Applications",Low,-6.30%,,-1.30%,USD
+"2022, April 13, 18:00","(United States) MBA 30-Year Mortgage Rate",Low,4.90%,,5.13%,USD
+"2022, April 13, 18:00","(United States) MBA Mortgage Market Index",Low,398.50,,393.50,USD
+"2022, April 13, 18:00","(United States) MBA Mortgage Refinance Index",Low,1166.30,,1109.00,USD
+"2022, April 13, 18:00","(United States) MBA Purchase Index",Low,258.10,,261.80,USD
+"2022, April 13, 19:30","(United States) Core PPI MoM",Low,0.20%,0.5%,1.00%,USD
+"2022, April 13, 19:30","(United States) Core PPI YoY",Low,8.40%,8.4%,9.20%,USD
+"2022, April 13, 19:30","(United States) PPI YoY",Low,10.00%,10.6%,11.20%,USD
+"2022, April 13, 19:30","(United States) PPI MoM",Medium,0.80%,1.1%,1.40%,USD
+"2022, April 13, 21:00","(Ecuador) Balance of Trade",Low,-$125.50M,$-111.0M,$278.90M,USD
+"2022, April 13, 21:30","(United States) EIA Gasoline Production Change",Low,0.07M,,0.38M,USD
+"2022, April 13, 21:30","(United States) EIA Heating Oil Stocks Change",Low,0.03M,,0.05M,USD
+"2022, April 13, 21:30","(United States) EIA Refinery Crude Runs Change",Low,0.04M,,-0.42M,USD
+"2022, April 13, 21:30","(United States) EIA Distillate Stocks Change",Low,0.77M,-0.515M,-2.90M,USD
+"2022, April 13, 21:30","(United States) EIA Distillate Fuel Production Change",Low,-0.06M,,-0.39M,USD
+"2022, April 13, 21:30","(United States) EIA Cushing Crude Oil Stocks Change",Low,1.65M,,0.45M,USD
+"2022, April 13, 21:30","(United States) EIA Crude Oil Imports Change",Low,-0.66M,,1.21M,USD
+"2022, April 13, 21:30","(United States) EIA Crude Oil Stocks Change",Medium,2.42M,0.863M,9.38M,USD
+"2022, April 13, 21:30","(United States) EIA Gasoline Stocks Change",Medium,-2.04M,-0.388M,-3.65M,USD
+"2022, April 14, 00:00","(United States) 30-Year Bond Auction",Medium,2.36%,,2.81%,USD
+"2022, April 14, 12:00","(Finland) Inflation Rate YoY",Low,4.50%,5.8%,5.80%,EUR
+"2022, April 14, 12:00","(Finland) Inflation Rate MoM",Low,0.50%,1.5%,1.50%,EUR
+"2022, April 14, 12:00","(Finland) GDP YoY",Low,3.33%,3.7%,2.93%,EUR
+"2022, April 14, 14:00","(Slovakia) Core Inflation Rate MoM",Low,1.00%,2.0%,1.70%,EUR
+"2022, April 14, 14:00","(Slovakia) Inflation Rate YoY",Low,9.00%,10.3%,10.40%,EUR
+"2022, April 14, 14:00","(Slovakia) Inflation Rate MoM",Low,0.90%,1.6%,1.70%,EUR
+"2022, April 14, 14:00","(Slovakia) Core Inflation Rate YoY",Low,7.90%,9.5%,9.50%,EUR
+"2022, April 14, 16:00","(Montenegro) Inflation Rate YoY",Low,6.70%,7.0%,9.70%,EUR
+"2022, April 14, 16:00","(Montenegro) Harmonised Inflation Rate YoY",Low,6.40%,6.7%,8.70%,EUR
+"2022, April 14, 16:00","(Montenegro) Inflation Rate MoM",Low,1.50%,1.7%,3.40%,EUR
+"2022, April 14, 17:00","(Ireland) Residential Property Prices YoY",Low,14.80%,14.9%,15.30%,EUR
+"2022, April 14, 17:00","(Ireland) Residential Property Prices MoM",Low,0.90%,0.8%,0.80%,EUR
+"2022, April 14, 17:00","(Ireland) Balance of Trade",Low,€7.40B,€4.6B,€7.10B,EUR
+"2022, April 14, 18:45","(Euro Area) ECB Interest Rate Decision",Medium,0.00%,0.0%,0.00%,EUR
+"2022, April 14, 18:45","(Euro Area) Marginal Lending Rate",Low,0.25%,0.25%,0.25%,EUR
+"2022, April 14, 18:45","(Euro Area) Deposit Facility Rate",Medium,-0.50%,-0.5%,-0.50%,EUR
+"2022, April 14, 19:30","(Euro Area) ECB Press Conference",Medium,,,,EUR
+"2022, April 14, 19:30","(United States) Retail Sales Ex Gas/Autos MoM",High,-0.40%,-0.2%,0.20%,USD
+"2022, April 14, 19:30","(United States) Import Prices YoY",Low,10.90%,11.1%,12.50%,USD
+"2022, April 14, 19:30","(United States) Export Prices YoY",Low,16.60%,16.8%,18.80%,USD
+"2022, April 14, 19:30","(United States) Import Prices MoM",Medium,1.40%,2.3%,2.60%,USD
+"2022, April 14, 19:30","(United States) Export Prices MoM",Medium,3.00%,2.2%,4.50%,USD
+"2022, April 14, 19:30","(United States) Retail Sales MoM",High,0.30%,0.6%,0.50%,USD
+"2022, April 14, 19:30","(United States) Retail Sales YoY",High,17.60%,11.0%,6.90%,USD
+"2022, April 14, 19:30","(United States) Retail Sales Ex Autos MoM",High,0.20%,1.0%,1.10%,USD
+"2022, April 14, 19:30","(United States) Jobless Claims 4-week Average",High,170.00K,173.0K,172.25K,USD
+"2022, April 14, 19:30","(United States) Continuing Jobless Claims",High,1523.00K,1500.0K,1475.00K,USD
+"2022, April 14, 19:30","(United States) Initial Jobless Claims",High,166.00K,171.0K,185.00K,USD
+"2022, April 14, 21:00","(United States) Business Inventories MoM",Medium,1.10%,1.3%,1.50%,USD
+"2022, April 14, 21:00","(United States) Michigan Inflation Expectations",Low,5.40%,5.5%,5.40%,USD
+"2022, April 14, 21:00","(United States) Retail Inventories Ex Autos MoM",Low,1.80%,1.2%,1.40%,USD
+"2022, April 14, 21:00","(United States) Michigan Consumer Sentiment",High,59.40,59.0,65.70,USD
+"2022, April 14, 21:00","(United States) Michigan Current Conditions",Low,67.20,68.0,68.10,USD
+"2022, April 14, 21:00","(United States) Michigan 5 Year Inflation Expectations",Low,3.00%,3.0%,3.00%,USD
+"2022, April 14, 21:00","(United States) Michigan Consumer Expectations",Low,54.30,54.2,64.10,USD
+"2022, April 14, 21:00","(Belgium) Balance of Trade",Low,-€1831.00M,€-1600.0M,€1271.60M,EUR
+"2022, April 14, 21:30","(United States) EIA Natural Gas Stocks Change",Low,-33.00B,15.0B,15.00B,USD
+"2022, April 14, 22:30","(United States) 8-Week Bill Auction",Low,0.50%,,0.57%,USD
+"2022, April 14, 22:30","(United States) 4-Week Bill Auction",Low,0.20%,,0.37%,USD
+"2022, April 15, 00:00","(United States) Baker Hughes Total Rig Count",Low,689.00,,693.00,USD
+"2022, April 15, 00:00","(United States) Baker Hughes Oil Rig Count",Low,546.00,,548.00,USD
+"2022, April 15, 01:30","(United States) Fed Mester Speech",Medium,,,,USD
+"2022, April 15, 05:00","(United States) Fed Harker Speech",Medium,,,,USD
+"2022, April 15, 13:45","(France) Inflation Rate YoY",Medium,3.60%,4.5%,4.50%,EUR
+"2022, April 15, 13:45","(France) Inflation Rate MoM",Medium,0.80%,1.4%,1.40%,EUR
+"2022, April 15, 13:45","(France) Harmonised Inflation Rate MoM",Low,0.90%,1.6%,1.60%,EUR
+"2022, April 15, 13:45","(France) Harmonised Inflation Rate YoY",Low,4.20%,5.1%,5.10%,EUR
+"2022, April 15, 15:00","(Italy) Inflation Rate YoY",Medium,5.70%,6.7%,6.50%,EUR
+"2022, April 15, 15:00","(Italy) Harmonised Inflation Rate YoY",Low,6.20%,7.0%,6.80%,EUR
+"2022, April 15, 15:00","(Italy) Harmonised Inflation Rate MoM",Low,0.80%,2.6%,2.40%,EUR
+"2022, April 15, 15:00","(Italy) Inflation Rate MoM",Low,0.90%,1.2%,1.00%,EUR
+"2022, April 15, 15:00","(Euro Area) ECB Survey of Professional Forecasters",Low,,,,EUR
+"2022, April 15, 16:30","(Belgium) Construction Output YoY",Low,-14.40%,-7.7%,13.20%,EUR
+"2022, April 15, 19:30","(United States) NY Empire State Manufacturing Index",Medium,-11.80,0.5,24.60,USD
+"2022, April 15, 20:15","(United States) Manufacturing Production MoM",Low,1.20%,0.6%,0.90%,USD
+"2022, April 15, 20:15","(United States) Capacity Utilization",Low,77.60%,77.8%,78.30%,USD
+"2022, April 15, 20:15","(United States) Manufacturing Production YoY",Low,7.40%,5.8%,4.90%,USD
+"2022, April 15, 20:15","(United States) Industrial Production YoY",Medium,7.50%,5.9%,5.50%,USD
+"2022, April 15, 20:15","(United States) Industrial Production MoM",Medium,0.50%,0.4%,0.90%,USD
+"2022, April 16, 03:00","(United States) Foreign Bond Investment",Low,$74.40B,,$75.30B,USD
+"2022, April 16, 03:00","(United States) Net Long-term TIC Flows",Medium,$58.80B,,$141.70B,USD
+"2022, April 16, 03:00","(United States) Overall Net Capital Flows",Low,$294.20B,,$162.60B,USD
+"2022, April 18, 07:00","(United States) IMF/World Bank Spring Meetings",Low,,,,USD
+"2022, April 18, 15:00","(Spain) Balance of Trade",Medium,-€6.10B,€-5.8B,-€4.30B,EUR
+"2022, April 18, 21:00","(United States) NAHB Housing Market Index",Medium,79.00,77.0,77.00,USD
+"2022, April 18, 22:30","(United States) 3-Month Bill Auction",Low,0.79%,,0.86%,USD
+"2022, April 18, 22:30","(United States) 6-Month Bill Auction",Low,1.22%,,1.25%,USD
+"2022, April 19, 03:00","(United States) Fed Bullard Speech",Medium,,,,USD
+"2022, April 19, 07:00","(United States) IMF/World Bank Spring Meetings",Low,,,,USD
+"2022, April 19, 07:00","(United States) IMF/World Economic Outlook",Medium,,,,USD
+"2022, April 19, 07:00","(East Timor) Presidential Elections - second round",Low,,,,USD
+"2022, April 19, 15:40","(Spain) 3-Month Letras Auction",Low,-0.69%,,-0.66%,EUR
+"2022, April 19, 17:00","(Portugal) PPI YoY",Low,20.70%,23.0%,26.30%,EUR
+"2022, April 19, 17:00","(Portugal) PPI MoM",Low,2.70%,3.6%,6.20%,EUR
+"2022, April 19, 17:30","(Germany) 5-Year Bobl Auction",Low,0.21%,,0.64%,EUR
+"2022, April 19, 19:30","(United States) Housing Starts",High,1.77M,1.745M,1.79M,USD
+"2022, April 19, 19:30","(United States) Building Permits",High,1.86M,1.825M,1.87M,USD
+"2022, April 19, 19:30","(United States) Housing Starts MoM",Medium,6.80%,-2.3%,0.30%,USD
+"2022, April 19, 19:30","(United States) Building Permits MoM",Medium,-1.90%,-3.0%,0.40%,USD
+"2022, April 19, 19:55","(United States) Redbook YoY",Low,13.40%,,15.20%,USD
+"2022, April 19, 20:00","(France) 12-Month BTF Auction",Low,-0.32%,,-0.29%,EUR
+"2022, April 19, 20:00","(France) 6-Month BTF Auction",Low,-0.58%,,-0.56%,EUR
+"2022, April 19, 20:00","(France) 3-Month BTF Auction",Low,-0.66%,,-0.65%,EUR
+"2022, April 19, 22:30","(United States) 52-Week Bill Auction",Low,1.59%,,1.87%,USD
+"2022, April 19, 23:05","(United States) Fed Evans Speech",Medium,,,,USD
+"2022, April 20, 03:30","(United States) API Crude Oil Stock Change",Medium,7.76M,2.533M,-4.50M,USD
+"2022, April 20, 07:00","(United States) IMF/World Bank Spring Meetings",Low,,,,USD
+"2022, April 20, 12:00","(Estonia) PPI YoY",Low,26.30%,27.0%,30.30%,EUR
+"2022, April 20, 12:00","(Estonia) PPI MoM",Low,0.80%,1.5%,3.00%,EUR
+"2022, April 20, 13:00","(European Union) New Car Registrations YoY",Medium,-6.70%,,-20.50%,EUR
+"2022, April 20, 13:00","(Germany) PPI YoY",Low,25.90%,28.2%,30.90%,EUR
+"2022, April 20, 13:00","(Germany) PPI MoM",Medium,1.40%,2.6%,4.90%,EUR
+"2022, April 20, 15:00","(Greece) Current Account",Low,-€2.00B,€-2.2B,-€2.12B,EUR
+"2022, April 20, 15:00","(Italy) Balance of Trade",Medium,-€5.05B,€-2.7B,-€1.66B,EUR
+"2022, April 20, 16:00","(Euro Area) Industrial Production MoM",Medium,0.00%,0.7%,0.70%,EUR
+"2022, April 20, 16:00","(Euro Area) Industrial Production YoY",Low,-1.30%,1.5%,2.00%,EUR
+"2022, April 20, 16:00","(Euro Area) Balance of Trade",Medium,-€27.20B,€-29.0B,-€7.60B,EUR
+"2022, April 20, 16:30","(Germany) 30-Year Bund Auction",Low,0.39%,,0.95%,EUR
+"2022, April 20, 17:00","(Luxembourg) Unemployment Rate",Low,4.90%,4.9%,4.70%,EUR
+"2022, April 20, 17:10","(European Union) 6-Month Bill Auction",Low,-0.55%,,-0.49%,EUR
+"2022, April 20, 17:10","(European Union) 3-Month Bill Auction",Low,-0.64%,,-0.60%,EUR
+"2022, April 20, 17:30","(Portugal) Current Account",Low,-€433.70M,€-410.0M,-€589.30M,EUR
+"2022, April 20, 18:00","(United States) MBA Purchase Index",Low,261.80,,254.00,USD
+"2022, April 20, 18:00","(United States) MBA Mortgage Applications",Low,-1.30%,,-5.00%,USD
+"2022, April 20, 18:00","(United States) MBA 30-Year Mortgage Rate",Low,5.13%,,5.20%,USD
+"2022, April 20, 18:00","(United States) MBA Mortgage Market Index",Low,393.50,,374.00,USD
+"2022, April 20, 18:00","(United States) MBA Mortgage Refinance Index",Low,1109.00,,1023.20,USD
+"2022, April 20, 19:10","(Slovakia) Unemployment Rate",Low,6.90%,6.8%,6.70%,EUR
+"2022, April 20, 19:30","(Germany) Bundesbank Nagel Speech",Low,,,,EUR
+"2022, April 20, 21:00","(United States) Existing Home Sales MoM",High,-7.20%,-2.0%,-2.70%,USD
+"2022, April 20, 21:00","(United States) Existing Home Sales",High,6.02M,5.8M,5.77M,USD
+"2022, April 20, 21:30","(United States) EIA Crude Oil Imports Change",Low,1.21M,,-2.25M,USD
+"2022, April 20, 21:30","(United States) EIA Crude Oil Stocks Change",Medium,9.38M,2.471M,-8.02M,USD
+"2022, April 20, 21:30","(United States) EIA Distillate Stocks Change",Low,-2.90M,-0.829M,-2.66M,USD
+"2022, April 20, 21:30","(United States) EIA Distillate Fuel Production Change",Low,-0.39M,,0.16M,USD
+"2022, April 20, 21:30","(United States) EIA Cushing Crude Oil Stocks Change",Low,0.45M,,-0.18M,USD
+"2022, April 20, 21:30","(United States) EIA Refinery Crude Runs Change",Low,-0.42M,,0.19M,USD
+"2022, April 20, 21:30","(United States) EIA Heating Oil Stocks Change",Low,0.05M,,0.73M,USD
+"2022, April 20, 21:30","(United States) EIA Gasoline Production Change",Low,0.38M,,0.34M,USD
+"2022, April 20, 21:30","(United States) EIA Gasoline Stocks Change",Medium,-3.65M,-0.976M,-0.76M,USD
+"2022, April 20, 21:30","(United States) Fed Evans Speech",Medium,,,,USD
+"2022, April 20, 21:30","(United States) Fed Daly Speech",Medium,,,,USD
+"2022, April 21, 00:00","(United States) 20-Year Bond Auction",Low,2.65%,,3.10%,USD
+"2022, April 21, 01:00","(United States) Fed Beige Book",Low,,,,USD
+"2022, April 21, 07:00","(United States) IMF/World Bank Spring Meetings",Low,,,,USD
+"2022, April 21, 07:01","(Ireland) Consumer Confidence",Low,67.00,63.2,57.70,EUR
+"2022, April 21, 11:30","(Netherlands) Unemployment Rate",Medium,3.40%,3.4%,3.30%,EUR
+"2022, April 21, 11:30","(Netherlands) Household Consumption YoY",Low,11.10%,10.8%,13.80%,EUR
+"2022, April 21, 11:30","(Netherlands) Consumer Confidence",Medium,-39.00,-42.0,-48.00,EUR
+"2022, April 21, 13:45","(France) Business Climate Indicator",Low,107.00,105.0,106.00,EUR
+"2022, April 21, 13:45","(France) Business Confidence",Medium,106.00,105.0,108.00,EUR
+"2022, April 21, 14:00","(Austria) Inflation Rate MoM",Low,1.30%,2.0%,2.10%,EUR
+"2022, April 21, 14:00","(Austria) Inflation Rate YoY",Low,5.90%,6.8%,6.80%,EUR
+"2022, April 21, 14:00","(Austria) Harmonised Inflation Rate MoM",Low,1.30%,2.3%,2.30%,EUR
+"2022, April 21, 14:00","(Austria) Harmonised Inflation Rate YoY",Low,5.50%,6.7%,6.70%,EUR
+"2022, April 21, 15:30","(Slovenia) PPI YoY",Low,16.50%,18.0%,17.90%,EUR
+"2022, April 21, 15:40","(Spain) 3-Year Bonos Auction",Low,0.34%,,0.84%,EUR
+"2022, April 21, 16:00","(Malta) Inflation Rate YoY",Low,4.20%,4.6%,4.50%,EUR
+"2022, April 21, 16:00","(Belgium) Consumer Confidence",Low,-16.00,-19.0,-14.00,EUR
+"2022, April 21, 16:00","(Euro Area) Core Inflation Rate YoY",Low,2.70%,3.0%,2.90%,EUR
+"2022, April 21, 16:00","(Euro Area) Inflation Rate MoM",Low,0.90%,2.5%,2.40%,EUR
+"2022, April 21, 16:00","(Euro Area) Inflation Rate YoY",Medium,5.90%,7.5%,7.40%,EUR
+"2022, April 21, 16:00","(Euro Area) CPI",High,111.74,114.5,114.46,EUR
+"2022, April 21, 16:00","(France) 3-Year BTAN Auction",Low,0.20%,,0.58%,EUR
+"2022, April 21, 16:00","(France) 5-Year BTAN Auction",Low,0.32%,,0.88%,EUR
+"2022, April 21, 16:30","(Cyprus) Harmonised Inflation Rate YoY",Low,5.80%,6.3%,6.20%,EUR
+"2022, April 21, 19:30","(United States) Philadelphia Fed Manufacturing Index",Medium,27.40,21.0,17.60,USD
+"2022, April 21, 19:30","(United States) Jobless Claims 4-week Average",High,172.25K,179.0K,177.25K,USD
+"2022, April 21, 19:30","(United States) Continuing Jobless Claims",High,1475.00K,1455.0K,1417.00K,USD
+"2022, April 21, 19:30","(United States) Initial Jobless Claims",High,185.00K,180.0K,184.00K,USD
+"2022, April 21, 19:30","(United States) Philly Fed Business Conditions",Low,22.70,20.0,8.20,USD
+"2022, April 21, 19:30","(United States) Philly Fed CAPEX Index",Low,24.80,24.0,19.90,USD
+"2022, April 21, 19:30","(United States) Philly Fed Employment",Low,38.90,39.0,41.40,USD
+"2022, April 21, 19:30","(United States) Philly Fed New Orders",Low,25.80,25.0,17.80,USD
+"2022, April 21, 19:30","(United States) Philly Fed Prices Paid",Low,81.00,83.0,84.60,USD
+"2022, April 21, 21:00","(Euro Area) Consumer Confidence",Medium,-18.70,-20.0,-16.90,EUR
+"2022, April 21, 21:00","(United States) CB Leading Index MoM",Low,0.30%,0.3%,0.30%,USD
+"2022, April 21, 21:30","(United States) EIA Natural Gas Stocks Change",Low,15.00B,37.0B,53.00B,USD
+"2022, April 21, 22:00","(United States) Fed Chair Powell Speech",High,,,,USD
+"2022, April 21, 22:30","(United States) 8-Week Bill Auction",Low,0.57%,,0.63%,USD
+"2022, April 21, 22:30","(United States) 4-Week Bill Auction",Low,0.37%,,0.50%,USD
+"2022, April 22, 00:00","(United States) 5-Year TIPS Auction",Low,-1.51%,,-0.34%,USD
+"2022, April 22, 00:00","(United States) Fed Chair Powell Speech",High,,,,USD
+"2022, April 22, 07:00","(United States) IMF/World Bank Spring Meetings",Low,,,,USD
+"2022, April 22, 13:10","(Slovakia) Current Account",Low,-€803.00M,€-750.0M,-€665.00M,EUR
+"2022, April 22, 14:15","(France) Markit Composite PMI",Low,56.30,55.0,57.50,EUR
+"2022, April 22, 14:15","(France) Markit Manufacturing PMI",Medium,54.70,53.0,55.40,EUR
+"2022, April 22, 14:15","(France) Markit Services PMI",Medium,57.40,56.5,58.80,EUR
+"2022, April 22, 14:30","(Germany) Markit Composite PMI",High,55.10,54.1,54.50,EUR
+"2022, April 22, 14:30","(Germany) Markit Services PMI",High,56.10,55.5,57.90,EUR
+"2022, April 22, 14:30","(Germany) Markit Manufacturing PMI",High,56.90,54.5,54.10,EUR
+"2022, April 22, 15:00","(Euro Area) Markit Composite PMI",High,54.90,53.9,55.80,EUR
+"2022, April 22, 15:00","(Euro Area) Markit Manufacturing PMI",High,56.50,54.7,55.30,EUR
+"2022, April 22, 15:00","(Euro Area) Markit Services PMI",High,55.60,55.0,57.70,EUR
+"2022, April 22, 15:00","(Euro Area) Current Account",Low,-€1.70B,€-2.3B,€11.43B,EUR
+"2022, April 22, 15:00","(Italy) Construction Output YoY",Low,13.20%,13.9%,20.90%,EUR
+"2022, April 22, 15:30","(Slovenia) Business Confidence",Low,4.00,3.0,4.00,EUR
+"2022, April 22, 15:30","(Slovenia) Consumer Confidence",Low,-33.00,-35.0,-27.00,EUR
+"2022, April 22, 16:00","(Euro Area) Government Debt to GDP",Medium,98.00%,100.0%,95.60%,EUR
+"2022, April 22, 16:00","(Euro Area) Government Budget to GDP",Medium,-7.20%,-7.1%,-5.10%,EUR
+"2022, April 22, 16:00","(Italy) Current Account",Low,-€5907.00M,€2920.0M,-€1517.00M,EUR
+"2022, April 22, 17:00","(Ireland) Wholesale Prices MoM",Low,0.10%,1.0%,2.50%,EUR
+"2022, April 22, 17:00","(Ireland) Wholesale Prices YoY",Low,2.80%,4.3%,4.40%,EUR
+"2022, April 22, 17:00","(Germany) Bundesbank Monthly Report",Low,,,,EUR
+"2022, April 22, 17:20","(Portugal) Economic Activity YoY",Low,5.50%,4.3%,5.50%,EUR
+"2022, April 22, 17:20","(Portugal) Private Consumption YoY",Low,4.80%,4.3%,4.50%,EUR
+"2022, April 22, 20:00","(Euro Area) ECB President Lagarde Speech",Medium,,,,EUR
+"2022, April 22, 20:45","(United States) Markit Manufacturing PMI",High,58.80,58.2,59.70,USD
+"2022, April 22, 20:45","(United States) Markit Composite PMI",High,57.70,57.0,55.10,USD
+"2022, April 22, 20:45","(United States) Markit Services PMI",High,58.00,58.0,54.70,USD
+"2022, April 22, 21:30","(Slovenia) Unemployment Rate",Low,6.90%,6.9%,6.60%,EUR
+"2022, April 23, 00:00","(El Salvador) Balance of Trade",Low,-$745.10M,$-731.0M,-$893.20M,USD
+"2022, April 23, 00:00","(United States) Baker Hughes Total Rig Count",Low,693.00,,695.00,USD
+"2022, April 23, 00:00","(United States) Baker Hughes Oil Rig Count",Low,548.00,,549.00,USD
+"2022, April 23, 07:00","(United States) IMF/World Bank Spring Meetings",Low,,,,USD
+"2022, April 24, 07:00","(France) Presidential Election 2nd Round",Medium,,,,EUR
+"2022, April 24, 07:00","(United States) IMF/World Bank Spring Meetings",Low,,,,USD
+"2022, April 24, 07:00","(Slovenia) National Assembly Election",Low,,,,EUR
+"2022, April 25, 07:00","(East Timor) Inflation Rate YoY",Low,5.70%,5.8%,6.00%,USD
+"2022, April 25, 07:00","(East Timor) Inflation Rate MoM",Low,0.60%,0.8%,0.90%,USD
+"2022, April 25, 12:00","(Finland) PPI YoY",Low,22.40%,27.5%,26.70%,EUR
+"2022, April 25, 12:00","(Finland) Export Prices YoY",Low,25.30%,,30.10%,EUR
+"2022, April 25, 12:00","(Finland) Import Prices YoY",Low,23.90%,,29.10%,EUR
+"2022, April 25, 13:00","(Lithuania) Industrial Production MoM",Low,-3.80%,-2.0%,11.30%,EUR
+"2022, April 25, 13:00","(Lithuania) Industrial Production YoY",Low,21.00%,14.0%,25.80%,EUR
+"2022, April 25, 14:00","(Spain) PPI YoY",Low,40.70%,38.4%,46.60%,EUR
+"2022, April 25, 15:00","(Germany) Ifo Business Climate",High,90.80,89.1,91.80,EUR
+"2022, April 25, 15:00","(Germany) Ifo Current Conditions",Low,97.00,95.8,97.20,EUR
+"2022, April 25, 15:00","(Germany) Ifo Expectations",Low,85.10,83.5,86.70,EUR
+"2022, April 25, 15:30","(Slovenia) Tourist Arrivals YoY",Low,1342.00%,,992.20%,EUR
+"2022, April 25, 16:00","(Euro Area) Construction Output YoY",Medium,4.10%,5.0%,9.40%,EUR
+"2022, April 25, 16:45","(European Union) EU Bond Auction",Low,,,1.63,EUR
+"2022, April 25, 17:00","(Latvia) PPI MoM",Low,0.00%,3.6%,3.00%,EUR
+"2022, April 25, 17:00","(Latvia) PPI YoY",Low,25.60%,29.4%,27.20%,EUR
+"2022, April 25, 19:30","(United States) Chicago Fed National Activity Index",Medium,0.51,0.4,0.44,USD
+"2022, April 25, 20:00","(Kosovo) Balance of Trade",Low,-€349.50M,€-266.6M,-€405.30M,EUR
+"2022, April 25, 20:00","(Belgium) Business Confidence",Low,0.40,-1.2,2.40,EUR
+"2022, April 25, 20:00","(France) 12-Month BTF Auction",Low,-0.29%,,-0.16%,EUR
+"2022, April 25, 20:00","(France) 3-Month BTF Auction",Low,-0.65%,,-0.67%,EUR
+"2022, April 25, 20:00","(France) 6-Month BTF Auction",Low,-0.56%,,-0.54%,EUR
+"2022, April 25, 21:30","(United States) Dallas Fed Manufacturing Index",Medium,8.70,12.0,1.10,USD
+"2022, April 25, 22:30","(United States) 3-Month Bill Auction",Low,0.86%,,0.89%,USD
+"2022, April 25, 22:30","(United States) 6-Month Bill Auction",Low,1.25%,,1.37%,USD
+"2022, April 26, 00:00","(Euro Area) ECB Panetta Speech",Low,,,,EUR
+"2022, April 26, 17:00","(Luxembourg) Balance of Trade",Low,-€0.64B,€-0.3B,-€0.64B,EUR
+"2022, April 26, 19:30","(United States) Durable Goods Orders MoM",High,-2.20%,1.0%,0.80%,USD
+"2022, April 26, 19:30","(United States) Durable Goods Orders ex Defense MoM",High,-2.70%,0.7%,1.20%,USD
+"2022, April 26, 19:30","(United States) Durable Goods Orders Ex Transp MoM",High,-0.60%,0.6%,1.10%,USD
+"2022, April 26, 19:30","(United States) Non Defense Goods Orders Ex Air",Low,-0.30%,0.5%,1.00%,USD
+"2022, April 26, 19:55","(United States) Redbook YoY",Low,15.20%,,12.70%,USD
+"2022, April 26, 20:00","(United States) House Price Index",Low,373.30,379.6,381.40,USD
+"2022, April 26, 20:00","(United States) House Price Index YoY",Low,18.20%,18.5%,19.40%,USD
+"2022, April 26, 20:00","(United States) House Price Index MoM",Low,1.60%,1.7%,2.10%,USD
+"2022, April 26, 20:00","(United States) S&P/Case-Shiller Home Price MoM",Low,1.40%,1.5%,2.40%,USD
+"2022, April 26, 20:00","(United States) S&P/Case-Shiller Home Price YoY",Medium,19.10%,19.0%,20.20%,USD
+"2022, April 26, 20:20","(Germany) Bundesbank Mauderer Speech",Low,,,,EUR
+"2022, April 26, 21:00","(United States) CB Consumer Confidence",Medium,107.20,108.0,107.30,USD
+"2022, April 26, 21:00","(United States) Richmond Fed Manufacturing Index",Low,13.00,8.0,14.00,USD
+"2022, April 26, 21:00","(United States) New Home Sales",High,0.77M,0.765M,0.76M,USD
+"2022, April 26, 21:00","(United States) New Home Sales MoM",High,-2.00%,-0.5%,-8.60%,USD
+"2022, April 26, 21:00","(United States) Richmond Fed Services Index",Low,9.00,5.0,13.00,USD
+"2022, April 26, 21:00","(United States) Richmond Fed Manufacturing Shipments Index",Low,9.00,5.0,17.00,USD
+"2022, April 26, 21:30","(United States) Dallas Fed Services Index",Low,10.60,13.0,8.20,USD
+"2022, April 26, 21:30","(United States) Dallas Fed Services Revenues Index",Low,23.40,25.0,11.20,USD
+"2022, April 27, 00:00","(United States) 2-Year Note Auction",Low,2.37%,,2.58%,USD
+"2022, April 27, 03:30","(United States) API Crude Oil Stock Change",Medium,-4.50M,2.0M,4.78M,USD
+"2022, April 27, 12:00","(Finland) Consumer Confidence",Low,-10.50,-12.8,-11.70,EUR
+"2022, April 27, 13:00","(Germany) GfK Consumer Confidence",High,-15.50,-16.0,-26.50,EUR
+"2022, April 27, 13:00","(Lithuania) Retail Sales YoY",Low,12.50%,,7.70%,EUR
+"2022, April 27, 13:00","(Lithuania) Retail Sales MoM",Low,-3.70%,,16.80%,EUR
+"2022, April 27, 13:45","(France) Consumer Confidence",Medium,91.00,92.0,88.00,EUR
+"2022, April 27, 15:00","(Austria) Bank Austria Manufacturing PMI",High,59.30,58.7,57.90,EUR
+"2022, April 27, 16:00","(Germany) Bundesbank Beermann Speech",Medium,,,,EUR
+"2022, April 27, 16:10","(Italy) 6-Month BOT Auction",Low,-0.49%,,-0.31%,EUR
+"2022, April 27, 16:30","(Germany) 15-Year Bund Auction",Low,0.37%,,0.99%,EUR
+"2022, April 27, 18:00","(United States) MBA Purchase Index",Low,254.00,,234.70,USD
+"2022, April 27, 18:00","(United States) MBA Mortgage Applications",Low,-5.00%,,-8.30%,USD
+"2022, April 27, 18:00","(United States) MBA 30-Year Mortgage Rate",Low,5.20%,,5.37%,USD
+"2022, April 27, 18:00","(United States) MBA Mortgage Market Index",Low,374.00,,343.10,USD
+"2022, April 27, 18:00","(United States) MBA Mortgage Refinance Index",Low,1023.20,,930.70,USD
+"2022, April 27, 19:30","(United States) Wholesale Inventories MoM",Medium,2.50%,0.9%,2.30%,USD
+"2022, April 27, 19:30","(United States) Goods Trade Balance",High,-$106.59B,$-105.0B,-$125.32B,USD
+"2022, April 27, 19:30","(United States) Retail Inventories Ex Autos MoM",Medium,1.40%,0.5%,2.30%,USD
+"2022, April 27, 21:00","(United States) Pending Home Sales MoM",Medium,-4.10%,-1.6%,-1.20%,USD
+"2022, April 27, 21:00","(United States) Pending Home Sales YoY",Medium,-5.40%,-5.0%,-8.20%,USD
+"2022, April 27, 21:30","(United States) EIA Crude Oil Imports Change",Low,-2.25M,,0.65M,USD
+"2022, April 27, 21:30","(United States) EIA Crude Oil Stocks Change",Medium,-8.02M,2.0M,0.69M,USD
+"2022, April 27, 21:30","(United States) EIA Distillate Stocks Change",Low,-2.66M,-0.292M,-1.45M,USD
+"2022, April 27, 21:30","(United States) EIA Distillate Fuel Production Change",Low,0.16M,,-0.03M,USD
+"2022, April 27, 21:30","(United States) EIA Cushing Crude Oil Stocks Change",Low,-0.18M,,1.30M,USD
+"2022, April 27, 21:30","(United States) EIA Refinery Crude Runs Change",Low,0.19M,,-0.03M,USD
+"2022, April 27, 21:30","(United States) EIA Gasoline Production Change",Low,0.34M,,-0.32M,USD
+"2022, April 27, 21:30","(United States) EIA Heating Oil Stocks Change",Low,0.73M,,-0.56M,USD
+"2022, April 27, 21:30","(United States) EIA Gasoline Stocks Change",Medium,-0.76M,0.808M,-1.57M,USD
+"2022, April 27, 22:30","(United States) 2-Year FRN Auction",Low,-0.06%,,-0.07%,USD
+"2022, April 27, 23:00","(Euro Area) ECB President Lagarde Speech",Medium,,,,EUR
+"2022, April 28, 00:00","(United States) 5-Year Note Auction",Low,2.54%,,2.79%,USD
+"2022, April 28, 11:30","(Netherlands) Business Confidence",Low,8.70,8.5,10.80,EUR
+"2022, April 28, 14:00","(Spain) Inflation Rate MoM",Medium,3.00%,0.5%,-0.10%,EUR
+"2022, April 28, 14:00","(Spain) Harmonised Inflation Rate YoY",Low,9.80%,9.0%,8.30%,EUR
+"2022, April 28, 14:00","(Spain) Inflation Rate YoY",Low,9.80%,9.0%,8.40%,EUR
+"2022, April 28, 14:00","(Spain) Unemployment Rate",High,13.33%,13.1%,13.65%,EUR
+"2022, April 28, 14:00","(Spain) Harmonised Inflation Rate MoM",Low,3.90%,0.2%,-0.20%,EUR
+"2022, April 28, 14:00","(Euro Area) ECB Guindos Speech",High,,,,EUR
+"2022, April 28, 14:00","(Euro Area) ECB Annual Report",Medium,,,,EUR
+"2022, April 28, 15:00","(Italy) Consumer Confidence",Medium,100.80,100.4,100.00,EUR
+"2022, April 28, 15:00","(Italy) Business Confidence",Medium,110.30,110.0,110.00,EUR
+"2022, April 28, 15:30","(Slovenia) Retail Sales YoY",Low,21.70%,18.0%,25.50%,EUR
+"2022, April 28, 15:30","(Slovenia) Retail Sales MoM",Low,8.00%,-2.0%,11.40%,EUR
+"2022, April 28, 15:30","(Portugal) Business Confidence",Low,2.10,2.3,2.30,EUR
+"2022, April 28, 15:30","(Portugal) Consumer Confidence",Low,-34.10,-31.8,-32.90,EUR
+"2022, April 28, 16:00","(Italy) Industrial Sales YoY",Low,16.90%,16.5%,20.90%,EUR
+"2022, April 28, 16:00","(Italy) Industrial Sales MoM",Low,2.30%,0.9%,2.80%,EUR
+"2022, April 28, 16:00","(Belgium) GDP Growth Rate QoQ",Low,0.50%,0.4%,0.30%,EUR
+"2022, April 28, 16:00","(Belgium) GDP Growth Rate YoY",Low,5.60%,4.3%,4.60%,EUR
+"2022, April 28, 16:00","(Montenegro) Tourist Arrivals YoY",Low,86.40%,,321.40%,EUR
+"2022, April 28, 16:30","(Cyprus) Industrial Production YoY",Low,5.20%,4.9%,3.40%,EUR
+"2022, April 28, 16:30","(Belgium) Inflation Rate YoY",Low,8.31%,8.47%,8.31%,EUR
+"2022, April 28, 16:30","(Belgium) Inflation Rate MoM",Low,0.52%,0.58%,0.33%,EUR
+"2022, April 28, 17:00","(France) Jobseekers Total",Low,2967.30K,2972.4K,2940.00K,EUR
+"2022, April 28, 17:00","(France) Unemployment Benefit Claims",Medium,-9.80K,5.4K,-11.00K,EUR
+"2022, April 28, 17:00","(Ireland) Retail Sales YoY",Low,2.20%,-4.2%,2.90%,EUR
+"2022, April 28, 17:00","(Ireland) Retail Sales MoM",Low,0.90%,-0.4%,0.60%,EUR
+"2022, April 28, 17:00","(Latvia) GDP Growth Rate QoQ",Low,-0.10%,-0.3%,2.10%,EUR
+"2022, April 28, 17:00","(Latvia) GDP Growth Rate YoY",Low,3.50%,3.8%,5.90%,EUR
+"2022, April 28, 18:30","(Spain) Business Confidence",Medium,5.30,4.9,-0.60,EUR
+"2022, April 28, 19:00","(Germany) Harmonised Inflation Rate YoY",Low,7.60%,7.6%,7.80%,EUR
+"2022, April 28, 19:00","(Germany) Harmonised Inflation Rate MoM",Low,2.50%,0.4%,0.70%,EUR
+"2022, April 28, 19:00","(Germany) Inflation Rate MoM",Medium,2.50%,0.6%,0.80%,EUR
+"2022, April 28, 19:00","(Germany) Inflation Rate YoY",High,7.30%,7.2%,7.40%,EUR
+"2022, April 28, 19:30","(United States) Core PCE Prices QoQ",Low,5.00%,5.4%,5.20%,USD
+"2022, April 28, 19:30","(United States) PCE Prices QoQ",Low,6.40%,6.9%,7.00%,USD
+"2022, April 28, 19:30","(United States) GDP Price Index QoQ",Medium,7.10%,7.3%,8.00%,USD
+"2022, April 28, 19:30","(United States) GDP Growth Rate QoQ",High,6.90%,1.1%,-1.40%,USD
+"2022, April 28, 19:30","(United States) Jobless Claims 4-week Average",High,177.25K,180.0K,179.75K,USD
+"2022, April 28, 19:30","(United States) Continuing Jobless Claims",High,1417.00K,1403.0K,1408.00K,USD
+"2022, April 28, 19:30","(United States) Initial Jobless Claims",High,184.00K,180.0K,180.00K,USD
+"2022, April 28, 19:30","(United States) Real Consumer Spending QoQ",Low,2.50%,,2.70%,USD
+"2022, April 28, 19:30","(United States) GDP Sales QoQ",Low,1.50%,0.8%,-0.60%,USD
+"2022, April 28, 20:00","(Euro Area) ECB McCaul Speech",Low,,,,EUR
+"2022, April 28, 21:00","(Euro Area) ECB Elderson Speech",Low,,,,EUR
+"2022, April 28, 21:30","(United States) EIA Natural Gas Stocks Change",Low,53.00B,38.0B,40.00B,USD
+"2022, April 28, 22:00","(United States) Kansas Fed Manufacturing Index",Low,46.00,40.0,28.00,USD
+"2022, April 28, 22:00","(United States) Kansas Fed Composite Index",Low,37.00,33.0,25.00,USD
+"2022, April 28, 22:30","(United States) 8-Week Bill Auction",Low,0.63%,,0.71%,USD
+"2022, April 28, 22:30","(United States) 4-Week Bill Auction",Low,0.50%,,0.48%,USD
+"2022, April 29, 00:00","(United States) 7-Year Note Auction",Low,2.50%,,2.91%,USD
+"2022, April 29, 11:30","(Netherlands) Retail Sales YoY",Low,16.50%,6.0%,8.80%,EUR
+"2022, April 29, 12:00","(Estonia) Retail Sales YoY",Low,4.00%,4.5%,18.00%,EUR
+"2022, April 29, 12:00","(Estonia) Retail Sales MoM",Low,-9.00%,2.1%,25.00%,EUR
+"2022, April 29, 12:30","(France) GDP Growth Rate QoQ",High,0.70%,0.3%,0.00%,EUR
+"2022, April 29, 12:30","(France) Household Consumption MoM",Low,0.80%,0.0%,-1.30%,EUR
+"2022, April 29, 12:30","(France) GDP Growth Rate YoY",High,5.40%,2.3%,5.30%,EUR
+"2022, April 29, 13:00","(Germany) Import Prices YoY",Low,26.30%,28.6%,31.20%,EUR
+"2022, April 29, 13:00","(Germany) Import Prices MoM",Low,1.30%,3.4%,5.70%,EUR
+"2022, April 29, 13:00","(Lithuania) GDP Growth Rate YoY",Low,5.00%,4.6%,4.40%,EUR
+"2022, April 29, 13:00","(Lithuania) GDP Growth Rate QoQ",Low,1.10%,0.9%,0.90%,EUR
+"2022, April 29, 13:45","(France) PPI MoM",Low,1.10%,2.3%,4.30%,EUR
+"2022, April 29, 13:45","(France) Inflation Rate YoY",High,4.50%,4.5%,4.80%,EUR
+"2022, April 29, 13:45","(France) Harmonised Inflation Rate MoM",Low,1.60%,0.2%,0.50%,EUR
+"2022, April 29, 13:45","(France) Harmonised Inflation Rate YoY",Low,5.10%,5.1%,5.40%,EUR
+"2022, April 29, 13:45","(France) Inflation Rate MoM",Medium,1.40%,0.2%,0.40%,EUR
+"2022, April 29, 13:45","(France) PPI YoY",Low,22.40%,25.6%,26.50%,EUR
+"2022, April 29, 14:00","(Austria) PPI YoY",Low,18.90%,21.3%,21.20%,EUR
+"2022, April 29, 14:00","(Austria) PPI MoM",Low,1.20%,2.7%,2.80%,EUR
+"2022, April 29, 14:00","(Austria) GDP Growth Rate YoY",Low,5.50%,4.1%,8.70%,EUR
+"2022, April 29, 14:00","(Austria) GDP Growth Rate QoQ",Low,-1.50%,-0.8%,2.50%,EUR
+"2022, April 29, 14:00","(Austria) Inflation Rate YoY",Low,6.80%,7.1%,7.20%,EUR
+"2022, April 29, 14:00","(Austria) Harmonised Inflation Rate MoM",Low,2.30%,2.8%,0.60%,EUR
+"2022, April 29, 14:00","(Austria) Harmonised Inflation Rate YoY",Low,6.70%,7.8%,7.20%,EUR
+"2022, April 29, 14:00","(Slovakia) Consumer Confidence",Low,-28.30,-29.0,-23.10,EUR
+"2022, April 29, 14:00","(Slovakia) Business Confidence",Low,0.70,-2.0,6.30,EUR
+"2022, April 29, 14:00","(Spain) GDP Growth Rate QoQ",High,2.20%,0.5%,0.30%,EUR
+"2022, April 29, 14:00","(Spain) GDP Growth Rate YoY",High,5.50%,6.5%,6.40%,EUR
+"2022, April 29, 14:00","(Spain) Retail Sales YoY",High,0.90%,-0.3%,-4.20%,EUR
+"2022, April 29, 14:00","(Spain) Retail Sales MoM",High,0.70%,-1.2%,-3.80%,EUR
+"2022, April 29, 14:00","(Austria) Inflation Rate MoM",Low,2.10%,0.2%,0.30%,EUR
+"2022, April 29, 15:00","(Euro Area) Loans to Households YoY",Low,4.40%,4.3%,4.50%,EUR
+"2022, April 29, 15:00","(Euro Area) M3 Money Supply YoY",Low,6.30%,6.2%,6.30%,EUR
+"2022, April 29, 15:00","(Euro Area) Loans to Companies YoY",Low,4.40%,4.3%,4.20%,EUR
+"2022, April 29, 15:00","(Germany) GDP Growth Rate QoQ",High,-0.30%,0.1%,0.20%,EUR
+"2022, April 29, 15:00","(Germany) GDP Growth Rate YoY",High,1.80%,3.6%,3.70%,EUR
+"2022, April 29, 15:00","(Italy) GDP Growth Rate QoQ",High,0.60%,-0.2%,-0.20%,EUR
+"2022, April 29, 15:00","(Italy) GDP Growth Rate YoY",High,6.20%,5.8%,5.80%,EUR
+"2022, April 29, 15:00","(Spain) Current Account",Low,-€2.60B,€-1.2B,€0.25B,EUR
+"2022, April 29, 15:30","(Portugal) GDP Growth Rate YoY",Low,5.80%,4.9%,11.90%,EUR
+"2022, April 29, 15:30","(Portugal) GDP Growth Rate QoQ",Low,1.60%,0.4%,2.60%,EUR
+"2022, April 29, 15:30","(Slovenia) Harmonised Inflation Rate YoY",Low,6.00%,6.7%,7.40%,EUR
+"2022, April 29, 15:30","(Slovenia) Inflation Rate YoY",Low,5.40%,5.1%,6.90%,EUR
+"2022, April 29, 15:30","(Slovenia) Inflation Rate MoM",Low,-1.10%,0.8%,2.60%,EUR
+"2022, April 29, 15:30","(Portugal) Inflation Rate YoY",Low,5.30%,5.1%,7.20%,EUR
+"2022, April 29, 15:30","(Portugal) Inflation Rate MoM",Low,-2.60%,0.2%,2.20%,EUR
+"2022, April 29, 16:00","(Euro Area) Inflation Rate MoM",Medium,2.40%,0.5%,0.60%,EUR
+"2022, April 29, 16:00","(Euro Area) GDP Growth Rate YoY",High,4.60%,5.0%,5.00%,EUR
+"2022, April 29, 16:00","(Euro Area) GDP Growth Rate QoQ",High,0.30%,0.3%,0.20%,EUR
+"2022, April 29, 16:00","(Euro Area) Core Inflation Rate YoY",Medium,2.90%,3.2%,3.50%,EUR
+"2022, April 29, 16:00","(Euro Area) Inflation Rate YoY",High,7.40%,7.5%,7.50%,EUR
+"2022, April 29, 16:00","(Euro Area) CPI",High,114.46,115.03,115.17,EUR
+"2022, April 29, 16:00","(Greece) PPI YoY",Low,33.60%,39.3%,46.20%,EUR
+"2022, April 29, 16:00","(Greece) Retail Sales YoY",High,8.90%,9.4%,10.80%,EUR
+"2022, April 29, 16:00","(Italy) Harmonised Inflation Rate MoM",Low,2.40%,1.0%,0.60%,EUR
+"2022, April 29, 16:00","(Italy) Harmonised Inflation Rate YoY",Low,6.80%,6.5%,6.60%,EUR
+"2022, April 29, 16:00","(Italy) Inflation Rate MoM",Medium,1.00%,0.3%,0.20%,EUR
+"2022, April 29, 16:00","(Italy) Inflation Rate YoY",High,6.50%,6.3%,6.20%,EUR
+"2022, April 29, 16:00","(Malta) PPI YoY",Low,7.69%,8.5%,6.61%,EUR
+"2022, April 29, 16:00","(Montenegro) Balance of Trade",Low,-€156.80M,€-193.7M,-€214.00M,EUR
+"2022, April 29, 16:10","(Italy) 5-Year BTP Auction",Low,1.46%,,1.91%,EUR
+"2022, April 29, 16:10","(Italy) 10-Year BTP Auction",Medium,2.04%,,2.78%,EUR
+"2022, April 29, 17:00","(Italy) PPI MoM",Low,0.40%,8.9%,4.00%,EUR
+"2022, April 29, 17:00","(Italy) PPI YoY",Low,32.80%,40.5%,36.90%,EUR
+"2022, April 29, 17:00","(Latvia) Retail Sales MoM",Low,-0.10%,0.4%,11.00%,EUR
+"2022, April 29, 17:00","(Latvia) Retail Sales YoY",Low,9.40%,10.8%,13.20%,EUR
+"2022, April 29, 17:00","(Portugal) Retail Sales MoM",Low,2.30%,-0.3%,2.50%,EUR
+"2022, April 29, 17:00","(Portugal) Retail Sales YoY",Low,14.00%,12.4%,12.90%,EUR
+"2022, April 29, 17:10","(Greece) Total Credit YoY",Low,10.30%,10.4%,9.20%,EUR
+"2022, April 29, 18:00","(Luxembourg) PPI YoY",Low,25.00%,27.8%,24.10%,EUR
+"2022, April 29, 19:30","(United States) Core PCE Price Index YoY",Low,5.40%,5.3%,5.20%,USD
+"2022, April 29, 19:30","(United States) Core PCE Price Index MoM",Low,0.40%,0.3%,0.30%,USD
+"2022, April 29, 19:30","(United States) PCE Price Index YoY",Medium,6.40%,6.8%,6.60%,USD
+"2022, April 29, 19:30","(United States) PCE Price Index MoM",Medium,0.60%,0.5%,0.90%,USD
+"2022, April 29, 19:30","(United States) Personal Income MoM",High,0.50%,0.4%,0.50%,USD
+"2022, April 29, 19:30","(United States) Personal Spending MoM",High,0.20%,0.7%,1.10%,USD
+"2022, April 29, 19:30","(United States) Employment Cost Index QoQ",Medium,1.00%,1.1%,1.40%,USD
+"2022, April 29, 19:30","(United States) Employment Cost - Benefits QoQ",Low,0.90%,1.1%,1.80%,USD
+"2022, April 29, 19:30","(United States) Employment Cost - Wages QoQ",Low,1.10%,1.4%,1.20%,USD
+"2022, April 29, 20:45","(United States) Chicago PMI",Medium,62.90,62.0,58.50,USD
+"2022, April 29, 21:00","(United States) Michigan Consumer Sentiment",High,59.40,65.7,65.20,USD
+"2022, April 29, 21:00","(United States) Michigan Consumer Expectations",Low,54.30,63.9,62.50,USD
+"2022, April 29, 21:00","(United States) Michigan Current Conditions",Low,67.20,68.1,69.40,USD
+"2022, April 29, 21:00","(United States) Michigan 5 Year Inflation Expectations",Low,3.00%,3.0%,3.00%,USD
+"2022, April 29, 21:00","(United States) Michigan Inflation Expectations",Low,5.40%,5.4%,5.40%,USD
+"2022, April 30, 00:00","(United States) Baker Hughes Total Rig Count",Low,695.00,,698.00,USD
+"2022, April 30, 00:00","(United States) Baker Hughes Oil Rig Count",Low,549.00,,552.00,USD
+"2022, May 02, 13:00","(Germany) Retail Sales MoM",High,0.30%,0.3%,-0.10%,EUR
+"2022, May 02, 13:00","(Germany) Retail Sales YoY",High,7.00%,2.1%,-2.70%,EUR
+"2022, May 02, 14:00","(Netherlands) NEVI Manufacturing PMI",Low,58.40,57.9,59.90,EUR
+"2022, May 02, 14:15","(Spain) Markit Manufacturing PMI",High,54.20,54.0,53.30,EUR
+"2022, May 02, 14:45","(Italy) IHS Markit Manufacturing PMI",High,55.80,55.0,54.50,EUR
+"2022, May 02, 14:50","(France) Markit Manufacturing PMI",Medium,54.70,55.4,55.70,EUR
+"2022, May 02, 14:55","(Germany) Markit Manufacturing PMI",High,56.90,54.1,54.60,EUR
+"2022, May 02, 15:00","(Euro Area) Markit Manufacturing PMI",High,56.50,55.3,55.50,EUR
+"2022, May 02, 15:00","(Italy) Unemployment Rate",High,8.50%,8.4%,8.30%,EUR
+"2022, May 02, 15:00","(Austria) Unemployment Rate",High,6.30%,6.4%,6.10%,EUR
+"2022, May 02, 16:00","(Cyprus) Consumer Confidence",Low,-27.40,-25.0,-32.90,EUR
+"2022, May 02, 16:00","(Cyprus) Business Confidence",Low,100.80,98.0,98.50,EUR
+"2022, May 02, 16:00","(Euro Area) Industrial Sentiment",Low,10.40,9.5,7.90,EUR
+"2022, May 02, 16:00","(Euro Area) Consumer Confidence",Low,-18.70,-16.9,-22.00,EUR
+"2022, May 02, 16:00","(Euro Area) Economic Sentiment",Medium,108.50,108.0,105.00,EUR
+"2022, May 02, 16:00","(Euro Area) Services Sentiment",Low,14.40,14.2,13.50,EUR
+"2022, May 02, 16:00","(Euro Area) Consumer Inflation Expectations",Low,59.80,60.5,50.00,EUR
+"2022, May 02, 16:00","(Euro area) Selling Price Expectations",Low,58.10,58.6,60.80,EUR
+"2022, May 02, 16:00","(Finland) Business Confidence",Low,17.00,15.8,15.30,EUR
+"2022, May 02, 16:00","(Luxembourg) Business Confidence",Low,100.20,102.5,100.60,EUR
+"2022, May 02, 16:00","(Luxembourg) Consumer Confidence",Low,-20.60,-18.8,-21.80,EUR
+"2022, May 02, 16:00","(Austria) Consumer Confidence",Low,-19.50,-17.6,-20.50,EUR
+"2022, May 02, 16:00","(Austria) Business Confidence",Low,14.20,13.5,10.30,EUR
+"2022, May 02, 16:00","(Greece) Consumer Confidence",Low,-46.60,-48.2,-55.30,EUR
+"2022, May 02, 16:00","(Greece) Business Confidence",Low,113.20,111.7,105.00,EUR
+"2022, May 02, 16:00","(Malta) Business Confidence",Low,108.60,105.0,103.80,EUR
+"2022, May 02, 16:00","(Malta) Consumer Confidence",Low,1.30,-0.8,-2.20,EUR
+"2022, May 02, 17:00","(Spain) New Car Sales YoY",Low,-30.20%,-27.0%,-12.10%,EUR
+"2022, May 02, 17:30","(Portugal) Budget Balance",Low,-€0.37B,€-1.4B,-€0.97B,EUR
+"2022, May 02, 20:00","(France) 12-Month BTF Auction",Low,-0.16%,,-0.17%,EUR
+"2022, May 02, 20:00","(France) 3-Month BTF Auction",Low,-0.67%,,-0.65%,EUR
+"2022, May 02, 20:00","(France) 6-Month BTF Auction",Low,-0.54%,,-0.52%,EUR
+"2022, May 02, 20:45","(United States) Markit Manufacturing PMI",High,58.80,59.7,59.20,USD
+"2022, May 02, 21:00","(United States) ISM Manufacturing Prices",Low,87.10,87.5,84.60,USD
+"2022, May 02, 21:00","(United States) ISM Manufacturing New Orders",Low,53.80,53.5,53.50,USD
+"2022, May 02, 21:00","(United States) ISM Manufacturing Employment",Low,56.30,56.0,50.90,USD
+"2022, May 02, 21:00","(United States) Construction Spending MoM",Low,0.50%,0.7%,0.10%,USD
+"2022, May 02, 21:00","(United States) ISM Manufacturing PMI",High,57.10,57.6,55.40,USD
+"2022, May 02, 22:30","(United States) 3-Month Bill Auction",Low,0.89%,,0.91%,USD
+"2022, May 02, 22:30","(United States) 6-Month Bill Auction",Low,1.37%,,1.42%,USD
+"2022, May 03, 07:00","(Euro Area) Eurogroup Meeting",Medium,,,,EUR
+"2022, May 03, 07:01","(Ireland) AIB Manufacturing PMI",Low,59.40,58.7,59.10,EUR
+"2022, May 03, 12:00","(Estonia) Industrial Production MoM",Low,-0.50%,-0.9%,5.10%,EUR
+"2022, May 03, 12:00","(Estonia) Industrial Production YoY",Low,1.70%,4.0%,7.80%,EUR
+"2022, May 03, 13:00","(Germany) Unemployment Rate Harmonised",High,3.10%,3.1%,2.90%,EUR
+"2022, May 03, 13:45","(France) Budget Balance",Low,-€37.63B,€-33.0B,-€38.33B,EUR
+"2022, May 03, 14:55","(Germany) Unemployment Rate",High,5.00%,5.0%,5.00%,EUR
+"2022, May 03, 14:55","(Germany) Unemployment Change",High,-18.00K,-15.0K,-13.00K,EUR
+"2022, May 03, 14:55","(Germany) Unemployed Persons",Medium,2.30M,2.277M,2.29M,EUR
+"2022, May 03, 15:00","(Greece) Markit Manufacturing PMI",High,54.60,53.5,54.80,EUR
+"2022, May 03, 15:40","(Spain) 6-Month Letras Auction",Low,-0.55%,,-0.35%,EUR
+"2022, May 03, 15:40","(Spain) 12-Month Letras Auction",Low,-0.29%,,0.08%,EUR
+"2022, May 03, 16:00","(Italy) New Car Registrations YoY",Low,-29.70%,-16.7%,-33.00%,EUR
+"2022, May 03, 16:00","(Cyprus) Unemployment Rate",Low,6.40%,6.4%,5.90%,EUR
+"2022, May 03, 16:00","(Euro Area) PPI MoM",Low,1.10%,5.0%,5.30%,EUR
+"2022, May 03, 16:00","(Euro Area) PPI YoY",Low,31.40%,36.3%,36.80%,EUR
+"2022, May 03, 16:00","(Euro Area) Unemployment Rate",High,6.80%,6.7%,6.80%,EUR
+"2022, May 03, 16:00","(France) New Car Registrations YoY",Low,-19.50%,4.8%,-22.60%,EUR
+"2022, May 03, 16:00","(Belgium) PPI YoY",Low,36.10%,40.2%,39.40%,EUR
+"2022, May 03, 16:00","(United States) LMI Logistics Managers Index Current",Low,76.20,,69.70,USD
+"2022, May 03, 17:00","(Portugal) Industrial Production MoM",Low,0.60%,,4.30%,EUR
+"2022, May 03, 17:00","(Portugal) Industrial Production YoY",Low,-4.30%,-5.0%,0.50%,EUR
+"2022, May 03, 19:55","(United States) Redbook YoY",Low,12.70%,,15.20%,USD
+"2022, May 03, 20:00","(Euro Area) ECB President Lagarde Speech",Medium,,,,EUR
+"2022, May 03, 21:00","(United States) Factory Orders ex Transportation",Low,0.40%,0.9%,2.50%,USD
+"2022, May 03, 21:00","(United States) Factory Orders MoM",Medium,-0.50%,1.1%,2.20%,USD
+"2022, May 03, 21:00","(United States) JOLTs Job Quits",Low,4.35M,4.36M,4.54M,USD
+"2022, May 03, 21:00","(United States) JOLTs Job Openings",High,11.27M,11.0M,11.55M,USD
+"2022, May 03, 23:30","(Euro Area) ECB Fernandez-Bollo Speech",Low,,,,EUR
+"2022, May 04, 03:30","(United States) API Crude Oil Stock Change",Medium,4.78M,-1.167M,-3.48M,USD
+"2022, May 04, 08:30","(Finland) Unemployment Rate",Low,6.70%,6.5%,7.00%,EUR
+"2022, May 04, 13:00","(Germany) Balance of Trade",High,€11.40B,€9.5B,€9.70B,EUR
+"2022, May 04, 13:00","(Germany) Balance of Trade s.a",Low,€11.50B,€9.8B,€3.20B,EUR
+"2022, May 04, 13:00","(Germany) Exports MoM s.a",Low,6.40%,-2.0%,-3.30%,EUR
+"2022, May 04, 13:00","(Germany) Imports MoM s.a",Low,4.50%,1.0%,3.40%,EUR
+"2022, May 04, 14:00","(Euro Area) ECB Non-Monetary Policy Meeting",Medium,,,,EUR
+"2022, May 04, 14:00","(Spain) Unemployment Change",High,-2.90K,7.0K,-86.30K,EUR
+"2022, May 04, 14:15","(Spain) Markit Services PMI",High,53.40,55.9,57.10,EUR
+"2022, May 04, 14:15","(Spain) Markit Composite PMI",High,53.10,52.8,55.70,EUR
+"2022, May 04, 14:45","(Italy) IHS Markit Services PMI",High,52.10,54.5,55.70,EUR
+"2022, May 04, 14:45","(Italy) IHS Markit Composite PMI",High,52.10,51.6,54.50,EUR
+"2022, May 04, 14:50","(France) Markit Composite PMI",Low,56.30,57.5,57.60,EUR
+"2022, May 04, 14:50","(France) Markit Services PMI",Medium,57.40,58.8,58.90,EUR
+"2022, May 04, 14:55","(Germany) Markit Services PMI",High,56.10,57.9,57.60,EUR
+"2022, May 04, 14:55","(Germany) Markit Composite PMI",High,55.10,54.5,54.30,EUR
+"2022, May 04, 15:00","(Euro Area) Markit Services PMI",High,55.60,57.7,57.70,EUR
+"2022, May 04, 15:00","(Euro Area) Markit Composite PMI",High,54.90,55.8,55.80,EUR
+"2022, May 04, 16:00","(Austria) Retail Sales YoY",High,-5.90%,-6.8%,-3.00%,EUR
+"2022, May 04, 16:00","(Austria) Retail Sales MoM",High,0.20%,-0.3%,1.00%,EUR
+"2022, May 04, 16:00","(Belgium) Retail Sales YoY",Low,-5.10%,-6.6%,-3.90%,EUR
+"2022, May 04, 16:00","(Belgium) Retail Sales MoM",Low,-1.80%,,0.90%,EUR
+"2022, May 04, 16:00","(Euro Area) Retail Sales MoM",High,0.30%,-0.1%,-0.40%,EUR
+"2022, May 04, 16:00","(Euro Area) Retail Sales YoY",High,5.00%,1.4%,0.80%,EUR
+"2022, May 04, 16:00","(France) Retail Sales YoY",Low,4.40%,3.5%,1.80%,EUR
+"2022, May 04, 16:00","(France) Retail Sales MoM",Low,-0.60%,-0.8%,-1.90%,EUR
+"2022, May 04, 16:00","(Luxembourg) Retail Sales MoM",Low,0.30%,0.5%,-3.30%,EUR
+"2022, May 04, 16:00","(Malta) Retail Sales YoY",Low,6.90%,3.6%,16.40%,EUR
+"2022, May 04, 17:10","(European Union) 3-Month Bill Auction",Low,-0.60%,,-0.53%,EUR
+"2022, May 04, 17:10","(European Union) 6-Month Bill Auction",Low,-0.49%,,-0.34%,EUR
+"2022, May 04, 18:00","(Luxembourg) Inflation Rate Mom",Low,1.00%,0.7%,0.80%,EUR
+"2022, May 04, 18:00","(Luxembourg) Inflation Rate YoY",Low,6.10%,7.0%,7.00%,EUR
+"2022, May 04, 18:00","(United States) MBA Purchase Index",Low,234.70,,244.40,USD
+"2022, May 04, 18:00","(United States) MBA Mortgage Applications",Low,-8.30%,,2.50%,USD
+"2022, May 04, 18:00","(United States) MBA 30-Year Mortgage Rate",Low,5.37%,,5.36%,USD
+"2022, May 04, 18:00","(United States) MBA Mortgage Market Index",Low,343.10,,351.80,USD
+"2022, May 04, 18:00","(United States) MBA Mortgage Refinance Index",Low,930.70,,932.30,USD
+"2022, May 04, 19:15","(United States) ADP Employment Change",High,455.00K,395.0K,247.00K,USD
+"2022, May 04, 19:30","(United States) Balance of Trade",High,-$89.20B,$-107.0B,-$109.80B,USD
+"2022, May 04, 19:30","(United States) Exports",Medium,$228.60B,$229.1B,$241.70B,USD
+"2022, May 04, 19:30","(United States) Imports",Medium,$317.80B,$321.1B,$351.50B,USD
+"2022, May 04, 20:45","(United States) Markit Composite PMI",High,57.70,55.1,56.00,USD
+"2022, May 04, 20:45","(United States) Markit Services PMI",High,58.00,54.7,55.60,USD
+"2022, May 04, 21:00","(United States) ISM Non-Manufacturing Prices",Low,83.80,84.2,84.60,USD
+"2022, May 04, 21:00","(United States) ISM Non-Manufacturing New Orders",Low,60.10,60.2,54.60,USD
+"2022, May 04, 21:00","(United States) ISM Non-Manufacturing Employment",Low,54.00,54.1,49.50,USD
+"2022, May 04, 21:00","(United States) ISM Non-Manufacturing Business Activity",Low,55.50,55.7,59.10,USD
+"2022, May 04, 21:00","(United States) ISM Non-Manufacturing PMI",High,58.30,58.5,57.10,USD
+"2022, May 04, 21:30","(United States) EIA Crude Oil Imports Change",Low,0.65M,,0.55M,USD
+"2022, May 04, 21:30","(United States) EIA Crude Oil Stocks Change",Medium,0.69M,-0.829M,1.30M,USD
+"2022, May 04, 21:30","(United States) EIA Distillate Stocks Change",Low,-1.45M,-1.341M,-2.34M,USD
+"2022, May 04, 21:30","(United States) EIA Distillate Fuel Production Change",Low,-0.03M,,-0.06M,USD
+"2022, May 04, 21:30","(United States) EIA Cushing Crude Oil Stocks Change",Low,1.30M,,1.38M,USD
+"2022, May 04, 21:30","(United States) EIA Gasoline Production Change",Low,-0.32M,,0.17M,USD
+"2022, May 04, 21:30","(United States) EIA Heating Oil Stocks Change",Low,-0.56M,,0.19M,USD
+"2022, May 04, 21:30","(United States) EIA Refinery Crude Runs Change",Low,-0.03M,,-0.22M,USD
+"2022, May 04, 21:30","(United States) EIA Gasoline Stocks Change",Medium,-1.57M,-0.589M,-2.23M,USD
+"2022, May 05, 01:00","(United States) Fed Interest Rate Decision",High,0.50%,1.0%,1.00%,USD
+"2022, May 05, 01:30","(United States) Fed Press Conference",High,,,,USD
+"2022, May 05, 07:00","(United States) Total Vehicle Sales",Low,13.30M,,14.30M,USD
+"2022, May 05, 07:01","(Ireland) AIB Services PMI",Low,63.40,64.1,61.70,EUR
+"2022, May 05, 13:00","(Germany) Factory Orders MoM",Medium,-2.20%,-1.1%,-4.70%,EUR
+"2022, May 05, 13:45","(France) Industrial Production MoM",Medium,-0.90%,0.0%,-0.50%,EUR
+"2022, May 05, 14:00","(Spain) Tourist Arrivals YoY",Low,1007.80%,750.0%,720.50%,EUR
+"2022, May 05, 14:30","(Euro Area) Construction PMI",Low,52.80,51.5,50.40,EUR
+"2022, May 05, 14:30","(France) Construction PMI",Low,48.40,47.6,50.70,EUR
+"2022, May 05, 14:30","(Germany) Construction PMI",Medium,50.90,50.2,46.00,EUR
+"2022, May 05, 14:30","(Italy) Construction PMI",Low,62.90,61.7,59.00,EUR
+"2022, May 05, 15:30","(Slovenia) Balance of Trade",Low,-€617.80M,€-770.0M,-€639.00M,EUR
+"2022, May 05, 15:40","(Spain) 5-Year Bonos Auction",Low,0.58%,,1.39%,EUR
+"2022, May 05, 15:40","(Spain) 7-Year Obligacion Auction",Low,1.23%,,1.69%,EUR
+"2022, May 05, 15:40","(Spain) 50-Year Obligacion Auction",Low,1.31%,,2.85%,EUR
+"2022, May 05, 16:00","(Cyprus) Inflation Rate MoM",Low,1.80%,3.1%,2.40%,EUR
+"2022, May 05, 16:00","(France) 10-Year OAT Auction",Low,1.17%,,1.51%,EUR
+"2022, May 05, 16:00","(Cyprus) Inflation Rate YoY",Low,7.10%,9.6%,8.80%,EUR
+"2022, May 05, 16:30","(Germany) New Car Registrations YoY",Low,-17.50%,-6.5%,-21.50%,EUR
+"2022, May 05, 17:00","(Latvia) Industrial Production MoM",Low,-2.50%,-1.8%,3.50%,EUR
+"2022, May 05, 17:00","(Latvia) Industrial Production YoY",Low,-0.60%,-1.2%,6.30%,EUR
+"2022, May 05, 17:00","(Ireland) Unemployment Rate",Low,5.50%,5.5%,4.80%,EUR
+"2022, May 05, 17:30","(Euro Area) ECB Lane Speech",Low,,,,EUR
+"2022, May 05, 17:45","(Spain) Consumer Confidence",Medium,53.80,51.5,74.60,EUR
+"2022, May 05, 18:30","(United States) Challenger Job Cuts",Low,21.39K,22.0K,24.29K,USD
+"2022, May 05, 19:30","(United States) Unit Labour Costs QoQ",Medium,0.90%,9.9%,11.60%,USD
+"2022, May 05, 19:30","(United States) Nonfarm Productivity QoQ",Medium,6.60%,-5.4%,-7.50%,USD
+"2022, May 05, 19:30","(United States) Jobless Claims 4-week Average",High,179.75K,182.0K,188.00K,USD
+"2022, May 05, 19:30","(United States) Continuing Jobless Claims",High,1408.00K,1400.0K,1384.00K,USD
+"2022, May 05, 19:30","(United States) Initial Jobless Claims",High,180.00K,182.0K,200.00K,USD
+"2022, May 05, 21:30","(United States) EIA Natural Gas Stocks Change",Low,40.00B,68.0B,,USD
+"2022, May 05, 22:30","(United States) 8-Week Bill Auction",Low,0.71%,,,USD
+"2022, May 05, 22:30","(United States) 4-Week Bill Auction",Low,0.48%,,,USD
+"2022, May 06, 06:01","(Ireland) Construction PMI",Low,53.90,51.8,,EUR
+"2022, May 06, 12:00","(Estonia) Inflation Rate YoY",Low,15.20%,19.4%,,EUR
+"2022, May 06, 12:00","(Estonia) Inflation Rate MoM",Low,2.70%,4.1%,,EUR
+"2022, May 06, 13:00","(Finland) Balance of Trade",Low,-€1.08B,€-0.33B,,EUR
+"2022, May 06, 13:00","(Germany) Industrial Production MoM",Medium,0.20%,-1.0%,,EUR
+"2022, May 06, 13:45","(France) Private Non Farm Payrolls QoQ",Low,0.60%,0.6%,,EUR
+"2022, May 06, 13:45","(France) Foreign Exchange Reserves",Low,$235.52B,,,EUR
+"2022, May 06, 14:00","(Austria) Wholesale Prices YoY",Low,25.60%,27.6%,,EUR
+"2022, May 06, 14:00","(Austria) Wholesale Prices MoM",Low,9.70%,10.8%,,EUR
+"2022, May 06, 14:00","(Austria) Balance of Trade",Low,-€1707.00M,€-1780.0M,,EUR
+"2022, May 06, 14:00","(Slovakia) Retail Sales YoY",Low,16.40%,11.1%,,EUR
+"2022, May 06, 14:00","(Slovakia) Retail Sales MoM",Low,-0.50%,0.9%,,EUR
+"2022, May 06, 14:00","(Spain) Industrial Production YoY",Low,3.00%,2.7%,,EUR
+"2022, May 06, 15:00","(Italy) Retail Sales YoY",High,4.30%,-1.2%,,EUR
+"2022, May 06, 15:00","(Italy) Retail Sales MoM",High,0.70%,-0.6%,,EUR
+"2022, May 06, 16:00","(Greece) Balance of Trade",Low,-€3.10B,€-1.7B,,EUR
+"2022, May 06, 16:00","(Malta) Retail Sales MoM",Low,-0.20%,,,EUR
+"2022, May 06, 16:30","(Germany) Bundesbank Nagel Speech",Low,,,,EUR
+"2022, May 06, 17:00","(Ireland) Industrial Production YoY",Low,-15.40%,-20.3%,,EUR
+"2022, May 06, 19:30","(United States) Average Hourly Earnings YoY",Medium,5.60%,5.5%,,USD
+"2022, May 06, 19:30","(United States) Average Hourly Earnings MoM",Medium,0.40%,0.4%,,USD
+"2022, May 06, 19:30","(United States) Non Farm Payrolls",High,431.00K,391.0K,,USD
+"2022, May 06, 19:30","(United States) Unemployment Rate",High,3.60%,3.5%,,USD
+"2022, May 06, 19:30","(United States) Nonfarm Payrolls Private",High,426.00K,385.0K,,USD
+"2022, May 06, 19:30","(United States) Average Weekly Hours",Low,34.60,34.7,,USD
+"2022, May 06, 19:30","(United States) Participation Rate",Medium,62.40%,62.5%,,USD
+"2022, May 06, 19:30","(United States) Manufacturing Payrolls",Low,38.00K,35.0K,,USD
+"2022, May 06, 19:30","(United States) Government Payrolls",Low,5.00K,25.0K,,USD
+"2022, May 06, 20:15","(United States) Fed Williams Speech",Medium,,,,USD
+"2022, May 06, 21:00","(Ecuador) Inflation Rate YoY",Low,2.64%,2.52%,,USD
+"2022, May 06, 21:30","(El Salvador) Inflation Rate YoY",Low,6.69%,7.03%,,USD
+"2022, May 06, 21:30","(El Salvador) Inflation Rate Mom",Low,0.81%,0.96%,,USD
+"2022, May 07, 00:00","(United States) Baker Hughes Oil Rig Count",Low,552.00,,,USD
+"2022, May 07, 00:00","(United States) Baker Hughes Total Rig Count",Low,698.00,,,USD
+"2022, May 07, 02:00","(United States) Consumer Credit Change",Low,$41.82B,$25.0B,,USD
+"2022, May 07, 02:20","(United States) Fed Bostic Speech",Medium,,,,USD
+"2022, May 07, 06:15","(United States) Fed Waller Speech",Medium,,,,USD
+"2022, May 07, 07:00","(United States) Fed Daly Speech",Medium,,,,USD
+"2022, May 09, 06:00","(United States) Fed Bostic Speech",Medium,,,,USD
+"2022, May 09, 13:00","(Lithuania) Inflation Rate MoM",Low,2.40%,1.9%,,EUR
+"2022, May 09, 13:00","(Lithuania) Inflation Rate YoY",Low,15.70%,16.9%,,EUR
+"2022, May 09, 13:45","(France) Current Account",Low,-€1.10B,€-1.3B,,EUR
+"2022, May 09, 13:45","(France) Imports",Low,€56.00B,,,EUR
+"2022, May 09, 13:45","(France) Exports",Low,€45.70B,,,EUR
+"2022, May 09, 13:45","(France) Balance of Trade",Medium,-€10.27B,€-4.5B,,EUR
+"2022, May 09, 14:00","(Slovakia) Balance of Trade",Low,-€259.00M,€-150.0M,,EUR
+"2022, May 09, 19:45","(United States) Fed Bostic Speech",Medium,,,,USD
+"2022, May 09, 20:00","(France) 12-Month BTF Auction",Low,-0.17%,,,EUR
+"2022, May 09, 20:00","(France) 3-Month BTF Auction",Low,-0.65%,,,EUR
+"2022, May 09, 20:00","(France) 6-Month BTF Auction",Low,-0.52%,,,EUR
+"2022, May 09, 21:00","(United States) Wholesale Inventories MoM",Medium,2.60%,2.3%,,USD
+"2022, May 09, 22:00","(United States) Consumer Inflation Expectations",Low,6.60%,6.8%,,USD
+"2022, May 09, 22:30","(United States) 3-Month Bill Auction",Low,0.91%,,,USD
+"2022, May 09, 22:30","(United States) 6-Month Bill Auction",Low,1.42%,,,USD
+"2022, May 10, 11:30","(Netherlands) Manufacturing Production YoY",Low,10.20%,5.2%,,EUR
+"2022, May 10, 11:30","(Netherlands) Inflation Rate YoY",Medium,9.70%,9.5%,,EUR
+"2022, May 10, 11:30","(Netherlands) Inflation Rate MoM",Low,3.60%,0.2%,,EUR
+"2022, May 10, 12:00","(Estonia) Balance of Trade",Low,-€309.00M,€-110.0M,,EUR
+"2022, May 10, 12:00","(Finland) Industrial Production YoY",Low,3.80%,,,EUR
+"2022, May 10, 13:00","(Lithuania) Balance of Trade",Low,-€0.49B,€-0.2B,,EUR
+"2022, May 10, 13:00","(Lithuania) PPI MoM",Low,5.50%,,,EUR
+"2022, May 10, 13:00","(Lithuania) PPI YoY",Low,23.10%,,,EUR
+"2022, May 10, 14:00","(Slovakia) Industrial Production YoY",Low,-0.20%,,,EUR
+"2022, May 10, 14:00","(Slovakia) Construction Output YoY",Low,13.30%,,,EUR
+"2022, May 10, 15:00","(Italy) Industrial Production YoY",Low,3.30%,,,EUR
+"2022, May 10, 15:00","(Italy) Industrial Production MoM",Medium,4.00%,,,EUR
+"2022, May 10, 15:30","(Slovenia) Industrial Production YoY",Low,-1.20%,,,EUR
+"2022, May 10, 15:40","(Spain) 3-Month Letras Auction",Low,-0.66%,,,EUR
+"2022, May 10, 16:00","(Belgium) Industrial Production MoM",Low,-0.60%,-0.8%,,EUR
+"2022, May 10, 16:00","(Belgium) Industrial Production YoY",Low,7.80%,6.5%,,EUR
+"2022, May 10, 16:00","(Cyprus) Balance of Trade",Low,-€407.90M,€-480.0M,,EUR
+"2022, May 10, 16:00","(Euro Area) ZEW Economic Sentiment Index",Medium,-43.00,,,EUR
+"2022, May 10, 16:00","(Germany) ZEW Current Conditions",Low,-30.80,-35.0,,EUR
+"2022, May 10, 16:00","(Germany) ZEW Economic Sentiment Index",High,-41.00,-40.5,,EUR
+"2022, May 10, 16:00","(Greece) Inflation Rate YoY",Low,8.90%,10.3%,,EUR
+"2022, May 10, 16:00","(Greece) Industrial Production YoY",Low,4.80%,2.8%,,EUR
+"2022, May 10, 16:00","(Greece) Harmonised Inflation Rate YoY",Low,8.00%,8.8%,,EUR
+"2022, May 10, 16:00","(Malta) Balance of Trade",Low,-€238.10M,€-131.3M,,EUR
+"2022, May 10, 16:30","(Germany) 5-Year Bobl Auction",Low,0.64%,,,EUR
+"2022, May 10, 17:00","(Greece) Inflation Rate MoM",Low,2.70%,2.2%,,EUR
+"2022, May 10, 17:00","(Latvia) Inflation Rate MoM",Low,3.30%,2.5%,,EUR
+"2022, May 10, 17:00","(Latvia) Inflation Rate YoY",Low,11.50%,13.3%,,EUR
+"2022, May 10, 17:00","(Portugal) Balance of Trade",Low,-€2154.00M,€-720.0M,,EUR
+"2022, May 10, 17:00","(United States) NFIB Business Optimism Index",Low,93.20,,,USD
+"2022, May 10, 19:30","(United States) Fed Bostic Speech",Medium,,,,USD
+"2022, May 10, 19:55","(United States) Redbook YoY",Low,15.20%,,,USD
+"2022, May 10, 21:00","(United States) IBD/TIPP Economic Optimism",Medium,45.50,,,USD
+"2022, May 11, 02:00","(United States) Fed Mester Speech",Medium,,,,USD
+"2022, May 11, 03:30","(United States) API Crude Oil Stock Change",Medium,-3.48M,,,USD
+"2022, May 11, 06:00","(United States) Fed Bostic Speech",Medium,,,,USD
+"2022, May 11, 13:00","(Germany) Harmonised Inflation Rate YoY",Low,7.60%,7.8%,,EUR
+"2022, May 11, 13:00","(Germany) Harmonised Inflation Rate MoM",Low,2.50%,0.7%,,EUR
+"2022, May 11, 13:00","(Germany) Inflation Rate MoM",Medium,2.50%,0.8%,,EUR
+"2022, May 11, 13:00","(Germany) Inflation Rate YoY",Medium,7.30%,7.4%,,EUR
+"2022, May 11, 16:00","(Malta) Industrial Production YoY",Low,-3.30%,,,EUR
+"2022, May 11, 16:10","(Italy) 12-Month BOT Auction",Low,-0.10%,,,EUR
+"2022, May 11, 16:30","(Germany) 10-Year Bund Auction",Medium,0.83%,,,EUR
+"2022, May 11, 17:00","(Latvia) Balance of Trade",Low,-€256.10M,€-90.0M,,EUR
+"2022, May 11, 17:00","(Portugal) Inflation Rate MoM",Low,2.50%,2.2%,,EUR
+"2022, May 11, 17:00","(Portugal) Unemployment Rate",Low,6.30%,6.5%,,EUR
+"2022, May 11, 17:00","(Portugal) Inflation Rate YoY",Low,5.30%,7.2%,,EUR
+"2022, May 11, 18:00","(United States) MBA Purchase Index",Low,244.40,,,USD
+"2022, May 11, 18:00","(United States) MBA Mortgage Applications",Low,2.50%,,,USD
+"2022, May 11, 18:00","(United States) MBA 30-Year Mortgage Rate",Low,5.36%,,,USD
+"2022, May 11, 18:00","(United States) MBA Mortgage Market Index",Low,351.80,,,USD
+"2022, May 11, 18:00","(United States) MBA Mortgage Refinance Index",Low,932.30,,,USD
+"2022, May 11, 19:30","(United States) Inflation Rate MoM",Medium,1.20%,0.2%,,USD
+"2022, May 11, 19:30","(United States) Core Inflation Rate MoM",Medium,0.30%,,,USD
+"2022, May 11, 19:30","(United States) Inflation Rate YoY",High,8.50%,,,USD
+"2022, May 11, 19:30","(United States) Core Inflation Rate YoY",High,6.50%,,,USD
+"2022, May 11, 20:00","(Kosovo) Inflation Rate YoY",Low,10.00%,11.5%,,EUR
+"2022, May 11, 21:30","(United States) EIA Crude Oil Imports Change",Low,0.55M,,,USD
+"2022, May 11, 21:30","(United States) EIA Crude Oil Stocks Change",Medium,1.30M,,,USD
+"2022, May 11, 21:30","(United States) EIA Distillate Stocks Change",Low,-2.34M,,,USD
+"2022, May 11, 21:30","(United States) EIA Distillate Fuel Production Change",Low,-0.06M,,,USD
+"2022, May 11, 21:30","(United States) EIA Cushing Crude Oil Stocks Change",Low,1.38M,,,USD
+"2022, May 11, 21:30","(United States) EIA Refinery Crude Runs Change",Low,-0.22M,,,USD
+"2022, May 11, 21:30","(United States) EIA Heating Oil Stocks Change",Low,0.19M,,,USD
+"2022, May 11, 21:30","(United States) EIA Gasoline Production Change",Low,0.17M,,,USD
+"2022, May 11, 21:30","(United States) EIA Gasoline Stocks Change",Medium,-2.23M,,,USD
+"2022, May 12, 01:00","(United States) Monthly Budget Statement",Medium,-$193.00B,,,USD
+"2022, May 12, 12:00","(Finland) Current Account",Low,-€0.10B,,,EUR
+"2022, May 12, 15:00","(France) IEA Oil Market Report",Medium,,,,EUR
+"2022, May 12, 16:10","(Italy) 15-Year BTP Auction",Low,2.11%,,,EUR
+"2022, May 12, 16:10","(Italy) 20-Year BTP Auction",Low,2.69%,,,EUR
+"2022, May 12, 16:10","(Italy) 3-Year BTP Auction",Low,1.32%,,,EUR
+"2022, May 12, 16:10","(Italy) 30-Year BTP Auction",Low,2.89%,,,EUR
+"2022, May 12, 16:10","(Italy) 7-Year BTP Auction",Low,2.04%,,,EUR
+"2022, May 12, 17:00","(Ireland) Residential Property Prices MoM",Low,0.80%,,,EUR
+"2022, May 12, 17:00","(Ireland) Residential Property Prices YoY",Low,15.30%,,,EUR
+"2022, May 12, 17:00","(Ireland) Inflation Rate MoM",Low,1.90%,0.9%,,EUR
+"2022, May 12, 17:00","(Ireland) Harmonised Inflation Rate MoM",Low,2.10%,,,EUR
+"2022, May 12, 17:00","(Ireland) Harmonised Inflation Rate YoY",Low,6.90%,,,EUR
+"2022, May 12, 17:00","(Ireland) Inflation Rate YoY",Low,6.70%,7.0%,,EUR
+"2022, May 12, 18:00","(Germany) Current Account",Low,€20.80B,,,EUR
+"2022, May 12, 19:30","(United States) Core PPI YoY",Low,9.20%,,,USD
+"2022, May 12, 19:30","(United States) Core PPI MoM",Medium,1.00%,,,USD
+"2022, May 12, 19:30","(United States) PPI YoY",Low,11.20%,,,USD
+"2022, May 12, 19:30","(United States) PPI MoM",High,1.40%,,,USD
+"2022, May 12, 19:30","(United States) Jobless Claims 4-week Average",High,188.00K,193.0K,,USD
+"2022, May 12, 19:30","(United States) Continuing Jobless Claims",High,1384.00K,1390.0K,,USD
+"2022, May 12, 19:30","(United States) Initial Jobless Claims",High,200.00K,205.0K,,USD
+"2022, May 12, 21:30","(United States) EIA Natural Gas Stocks Change",Low,,,,USD
+"2022, May 12, 22:30","(United States) 8-Week Bill Auction",Low,,,,USD
+"2022, May 12, 22:30","(United States) 4-Week Bill Auction",Low,,,,USD
+"2022, May 12, 23:00","(United States) WASDE Report",Low,,,,USD
+"2022, May 13, 12:00","(Finland) Inflation Rate YoY",Low,5.80%,5.7%,,EUR
+"2022, May 13, 12:00","(Finland) Inflation Rate MoM",Low,1.50%,0.3%,,EUR
+"2022, May 13, 13:45","(France) Inflation Rate YoY",Medium,4.50%,4.8%,,EUR
+"2022, May 13, 13:45","(France) Inflation Rate MoM",Medium,1.40%,0.4%,,EUR
+"2022, May 13, 13:45","(France) Harmonised Inflation Rate MoM",Low,1.60%,0.5%,,EUR
+"2022, May 13, 13:45","(France) Harmonised Inflation Rate YoY",Low,5.10%,5.4%,,EUR
+"2022, May 13, 14:00","(Lithuania) Current Account",Low,-€131.20M,€65.0M,,EUR
+"2022, May 13, 14:00","(Slovakia) Inflation Rate YoY",Low,10.40%,11.7%,,EUR
+"2022, May 13, 14:00","(Slovakia) Core Inflation Rate YoY",Low,9.50%,,,EUR
+"2022, May 13, 14:00","(Slovakia) Core Inflation Rate MoM",Low,1.70%,,,EUR
+"2022, May 13, 14:00","(Slovakia) Inflation Rate MoM",Low,1.70%,1.4%,,EUR
+"2022, May 13, 14:00","(Spain) Inflation Rate MoM",Medium,3.00%,-0.1%,,EUR
+"2022, May 13, 14:00","(Spain) Harmonised Inflation Rate YoY",Low,9.80%,8.3%,,EUR
+"2022, May 13, 14:00","(Spain) Inflation Rate YoY",Low,9.80%,8.4%,,EUR
+"2022, May 13, 14:00","(Spain) Harmonised Inflation Rate MoM",Low,3.90%,-0.2%,,EUR
+"2022, May 13, 16:00","(Euro Area) Industrial Production YoY",Low,2.00%,,,EUR
+"2022, May 13, 16:00","(Euro Area) Industrial Production MoM",Medium,0.70%,-1.0%,,EUR
+"2022, May 13, 17:00","(Latvia) Current Account",Low,-€6.00M,€-35.0M,,EUR
+"2022, May 13, 19:30","(United States) Export Prices YoY",Low,18.80%,,,USD
+"2022, May 13, 19:30","(United States) Import Prices YoY",Low,12.50%,,,USD
+"2022, May 13, 19:30","(United States) Import Prices MoM",Medium,2.60%,0.6%,,USD
+"2022, May 13, 19:30","(United States) Export Prices MoM",Medium,4.50%,,,USD
+"2022, May 13, 20:10","(Ecuador) Balance of Trade",Low,$278.90M,$-125.2M,,USD
+"2022, May 13, 21:00","(United States) Michigan Inflation Expectations",Low,5.40%,,,USD
+"2022, May 13, 21:00","(United States) Michigan Consumer Sentiment",High,65.20,63.8,,USD
+"2022, May 13, 21:00","(United States) Michigan 5 Year Inflation Expectations",Low,3.00%,,,USD
+"2022, May 13, 21:00","(United States) Michigan Current Conditions",Low,69.40,,,USD
+"2022, May 13, 21:00","(United States) Michigan Consumer Expectations",Low,62.50,,,USD
+"2022, May 14, 00:00","(United States) Baker Hughes Total Rig Count",Low,,,,USD
+"2022, May 14, 00:00","(United States) Baker Hughes Oil Rig Count",Low,,,,USD
+"2022, May 14, 00:30","(El Salvador) Balance of Trade",Low,-$893.20M,$-790.0M,,USD
+"2022, May 14, 17:00","(Belgium) Balance of Trade",Low,€1271.60M,€3000.0M,,EUR
+"2022, May 16, 07:00","(Euro Area) European Commission Spring Forecasts",High,,,,EUR
+"2022, May 16, 12:00","(Estonia) Unemployment Rate",Low,5.20%,5.0%,,EUR
+"2022, May 16, 13:00","(Germany) Wholesale Prices MoM",Medium,6.90%,,,EUR
+"2022, May 16, 13:00","(Germany) Wholesale Prices YoY",Medium,22.60%,,,EUR
+"2022, May 16, 16:00","(Belgium) Construction Output YoY",Low,13.20%,,,EUR
+"2022, May 16, 16:00","(Euro Area) Balance of Trade",Medium,-€7.60B,€19.8B,,EUR
+"2022, May 16, 16:30","(Germany) 12-Month Bubill Auction",Low,-0.54%,,,EUR
+"2022, May 16, 19:30","(United States) NY Empire State Manufacturing Index",Medium,24.60,,,USD
+"2022, May 16, 20:00","(France) 12-Month BTF Auction",Low,,,,EUR
+"2022, May 16, 20:00","(France) 6-Month BTF Auction",Low,,,,EUR
+"2022, May 16, 20:00","(France) 3-Month BTF Auction",Low,,,,EUR
+"2022, May 16, 22:30","(United States) 3-Month Bill Auction",Low,,,,USD
+"2022, May 16, 22:30","(United States) 6-Month Bill Auction",Low,,,,USD
+"2022, May 17, 03:00","(United States) Foreign Bond Investment",Low,$75.30B,,,USD
+"2022, May 17, 03:00","(United States) Overall Net Capital Flows",Low,$162.60B,,,USD
+"2022, May 17, 03:00","(United States) Net Long-term TIC Flows",Medium,$141.70B,,,USD
+"2022, May 17, 09:00","(East Timor) Inflation Rate MoM",Low,0.90%,,,USD
+"2022, May 17, 12:00","(Finland) GDP YoY",Low,2.93%,,,EUR
+"2022, May 17, 14:30","(Netherlands) Household Consumption YoY",Low,13.80%,,,EUR
+"2022, May 17, 14:30","(Netherlands) GDP Growth Rate QoQ",Medium,1.00%,-0.2%,,EUR
+"2022, May 17, 14:30","(Netherlands) GDP Growth Rate YoY",Medium,6.50%,,,EUR
+"2022, May 17, 14:30","(Netherlands) Balance of Trade",Low,€6.00B,€6.0B,,EUR
+"2022, May 17, 15:00","(Italy) Harmonised Inflation Rate YoY",Low,6.80%,,,EUR
+"2022, May 17, 15:00","(Italy) Harmonised Inflation Rate MoM",Low,2.40%,,,EUR
+"2022, May 17, 15:00","(Italy) Inflation Rate MoM",Low,1.00%,,,EUR
+"2022, May 17, 15:00","(Italy) Inflation Rate YoY",Medium,6.50%,,,EUR
+"2022, May 17, 15:00","(Italy) Balance of Trade",Medium,-€1.66B,€4.9B,,EUR
+"2022, May 17, 15:00","(Spain) Balance of Trade",Medium,-€4.30B,€-0.8B,,EUR
+"2022, May 17, 16:00","(Cyprus) GDP Growth Rate YoY",Low,5.90%,,,EUR
+"2022, May 17, 16:00","(Cyprus) GDP Growth Rate QoQ",Low,0.70%,,,EUR
+"2022, May 17, 16:00","(Euro Area) GDP Growth Rate YoY",Medium,4.70%,5.0%,,EUR
+"2022, May 17, 16:00","(Euro Area) GDP Growth Rate QoQ",Medium,,,,EUR
+"2022, May 17, 16:00","(Euro Area) Employment Change QoQ",High,0.50%,,,EUR
+"2022, May 17, 16:00","(Euro Area) Employment Change YoY",High,2.20%,,,EUR
+"2022, May 17, 16:30","(Germany) 2-Year Schatz Auction",Low,0.16%,,,EUR
+"2022, May 17, 19:30","(United States) Retail Sales Ex Gas/Autos MoM",High,-2.00%,,,USD
+"2022, May 17, 19:30","(United States) Retail Sales YoY",High,6.90%,,,USD
+"2022, May 17, 19:30","(United States) Retail Sales Ex Autos MoM",High,1.10%,,,USD
+"2022, May 17, 19:30","(United States) Retail Sales MoM",High,0.70%,,,USD
+"2022, May 17, 19:55","(United States) Redbook YoY",Low,,,,USD
+"2022, May 17, 20:15","(United States) Manufacturing Production MoM",Low,0.90%,,,USD
+"2022, May 17, 20:15","(United States) Industrial Production MoM",Medium,0.90%,,,USD
+"2022, May 17, 20:15","(United States) Industrial Production YoY",Medium,5.50%,,,USD
+"2022, May 17, 20:15","(United States) Manufacturing Production YoY",Low,4.90%,,,USD
+"2022, May 17, 20:15","(United States) Capacity Utilization",Low,78.30%,,,USD
+"2022, May 17, 21:00","(United States) NAHB Housing Market Index",Medium,,,,USD
+"2022, May 17, 21:00","(United States) Retail Inventories Ex Autos MoM",Low,1.40%,2.3%,,USD
+"2022, May 17, 21:00","(United States) Business Inventories MoM",Medium,1.50%,,,USD
+"2022, May 18, 03:30","(United States) API Crude Oil Stock Change",Medium,,,,USD
+"2022, May 18, 12:00","(Finland) GDP Growth Rate QoQ",Low,0.60%,0.5%,,EUR
+"2022, May 18, 12:00","(Finland) GDP Growth Rate YoY",Low,2.90%,,,EUR
+"2022, May 18, 14:00","(Austria) Harmonised Inflation Rate YoY",Low,6.70%,7.2%,,EUR
+"2022, May 18, 14:00","(Austria) Harmonised Inflation Rate MoM",Low,2.30%,0.6%,,EUR
+"2022, May 18, 14:00","(Austria) Inflation Rate MoM",Low,2.10%,,,EUR
+"2022, May 18, 14:00","(Austria) Inflation Rate YoY",Low,6.80%,7.2%,,EUR
+"2022, May 18, 14:00","(Euro Area) ECB Non-Monetary Policy Meeting",Medium,,,,EUR
+"2022, May 18, 14:00","(Slovakia) Harmonised Inflation Rate YoY",Low,9.50%,10.3%,,EUR
+"2022, May 18, 14:00","(Slovakia) Harmonised Inflation Rate MoM",Low,1.70%,1.2%,,EUR
+"2022, May 18, 14:00","(Slovakia) GDP Growth Rate YoY",Low,1.40%,,,EUR
+"2022, May 18, 14:00","(Slovakia) GDP Growth Rate QoQ",Low,0.30%,0.9%,,EUR
+"2022, May 18, 16:00","(Cyprus) Harmonised Inflation Rate YoY",Low,6.20%,8.7%,,EUR
+"2022, May 18, 16:00","(Euro Area) Inflation Rate MoM",Low,2.40%,0.6%,,EUR
+"2022, May 18, 16:00","(Euro Area) Core Inflation Rate YoY",Low,2.90%,3.5%,,EUR
+"2022, May 18, 16:00","(Euro Area) Inflation Rate YoY",Medium,7.40%,7.5%,,EUR
+"2022, May 18, 16:00","(Euro Area) CPI",High,114.46,115.17,,EUR
+"2022, May 18, 16:00","(Montenegro) Harmonised Inflation Rate YoY",Low,,,,EUR
+"2022, May 18, 16:00","(Montenegro) Inflation Rate YoY",Low,9.70%,,,EUR
+"2022, May 18, 16:30","(Germany) 30-Year Bund Auction",Low,0.95%,,,EUR
+"2022, May 18, 17:00","(Montenegro) Inflation Rate MoM",Low,3.40%,,,EUR
+"2022, May 18, 17:00","(Portugal) PPI YoY",Low,26.30%,,,EUR
+"2022, May 18, 17:00","(Portugal) PPI MoM",Low,6.20%,,,EUR
+"2022, May 18, 17:10","(European Union) 6-Month Bill Auction",Low,-0.34%,,,EUR
+"2022, May 18, 17:10","(European Union) 3-Month Bill Auction",Low,-0.53%,,,EUR
+"2022, May 18, 17:25","(Portugal) Current Account",Low,-€589.30M,,,EUR
+"2022, May 18, 18:00","(United States) MBA Mortgage Applications",Low,,,,USD
+"2022, May 18, 18:00","(United States) MBA 30-Year Mortgage Rate",Low,,,,USD
+"2022, May 18, 18:00","(United States) MBA Mortgage Refinance Index",Low,,,,USD
+"2022, May 18, 18:00","(United States) MBA Mortgage Market Index",Low,,,,USD
+"2022, May 18, 18:00","(United States) MBA Purchase Index",Low,,,,USD
+"2022, May 18, 19:30","(United States) Building Permits MoM",Medium,0.30%,,,USD
+"2022, May 18, 19:30","(United States) Housing Starts MoM",Medium,0.30%,,,USD
+"2022, May 18, 19:30","(United States) Housing Starts",High,1.79M,,,USD
+"2022, May 18, 19:30","(United States) Building Permits",High,1.87M,,,USD
+"2022, May 18, 21:30","(United States) EIA Refinery Crude Runs Change",Low,,,,USD
+"2022, May 18, 21:30","(United States) EIA Gasoline Production Change",Low,,,,USD
+"2022, May 18, 21:30","(United States) EIA Heating Oil Stocks Change",Low,,,,USD
+"2022, May 18, 21:30","(United States) EIA Distillate Stocks Change",Low,,,,USD
+"2022, May 18, 21:30","(United States) EIA Distillate Fuel Production Change",Low,,,,USD
+"2022, May 18, 21:30","(United States) EIA Cushing Crude Oil Stocks Change",Low,,,,USD
+"2022, May 18, 21:30","(United States) EIA Crude Oil Stocks Change",Medium,,,,USD
+"2022, May 18, 21:30","(United States) EIA Crude Oil Imports Change",Low,,,,USD
+"2022, May 18, 21:30","(United States) EIA Gasoline Stocks Change",Medium,,,,USD
+"2022, May 19, 11:30","(Netherlands) Unemployment Rate",Medium,,,,EUR
+"2022, May 19, 13:00","(European Union) New Car Registrations YoY",Medium,,,,EUR
+"2022, May 19, 15:00","(Euro Area) Current Account",Low,,,,EUR
+"2022, May 19, 16:00","(Euro Area) Construction Output YoY",Medium,,,,EUR
+"2022, May 19, 16:00","(France) 5-Year BTAN Auction",Low,,,,EUR
+"2022, May 19, 16:00","(France) 3-Year BTAN Auction",Low,,,,EUR
+"2022, May 19, 16:00","(Italy) Current Account",Low,,,,EUR
+"2022, May 19, 16:00","(Malta) Inflation Rate YoY",Low,,,,EUR
+"2022, May 19, 17:00","(Ireland) Balance of Trade",Low,,5.3,,EUR
+"2022, May 19, 19:30","(United States) Jobless Claims 4-week Average",High,,,,USD
+"2022, May 19, 19:30","(United States) Continuing Jobless Claims",High,,,,USD
+"2022, May 19, 19:30","(United States) Initial Jobless Claims",High,,,,USD
+"2022, May 19, 19:30","(United States) Philadelphia Fed Manufacturing Index",Medium,,,,USD
+"2022, May 19, 19:30","(United States) Philly Fed CAPEX Index",Low,,,,USD
+"2022, May 19, 19:30","(United States) Philly Fed Employment",Low,,,,USD
+"2022, May 19, 19:30","(United States) Philly Fed New Orders",Low,,,,USD
+"2022, May 19, 19:30","(United States) Philly Fed Prices Paid",Low,,,,USD
+"2022, May 19, 19:30","(United States) Philly Fed Business Conditions",Low,,,,USD
+"2022, May 19, 21:00","(United States) Existing Home Sales MoM",High,,,,USD
+"2022, May 19, 21:00","(United States) Existing Home Sales",High,,,,USD
+"2022, May 19, 21:30","(United States) EIA Natural Gas Stocks Change",Low,,,,USD
+"2022, May 19, 22:30","(United States) 8-Week Bill Auction",Low,,,,USD
+"2022, May 19, 22:30","(United States) 4-Week Bill Auction",Low,,,,USD
+"2022, May 20, 11:30","(Netherlands) Consumer Confidence",Medium,,,,EUR
+"2022, May 20, 12:00","(Estonia) PPI YoY",Low,,,,EUR
+"2022, May 20, 12:00","(Estonia) PPI MoM",Low,,,,EUR
+"2022, May 20, 13:00","(Germany) PPI YoY",Low,,,,EUR
+"2022, May 20, 13:00","(Germany) PPI MoM",Medium,,,,EUR
+"2022, May 20, 14:30","(Germany) Markit Composite PMI",High,,,,EUR
+"2022, May 20, 15:00","(Greece) Current Account",Low,,,,EUR
+"2022, May 20, 15:00","(Italy) Construction Output YoY",Low,,,,EUR
+"2022, May 20, 15:30","(Slovenia) Consumer Confidence",Low,,,,EUR
+"2022, May 20, 15:30","(Slovenia) PPI YoY",Low,,,,EUR
+"2022, May 20, 16:00","(Belgium) Consumer Confidence",Low,,,,EUR
+"2022, May 20, 16:00","(Luxembourg) Unemployment Rate",Low,,,,EUR
+"2022, May 20, 16:45","(Portugal) Private Consumption YoY",Low,,,,EUR
+"2022, May 20, 16:45","(Portugal) Economic Activity YoY",Low,,,,EUR
+"2022, May 20, 17:00","(Ireland) Wholesale Prices MoM",Low,,,,EUR
+"2022, May 20, 17:00","(Ireland) Wholesale Prices YoY",Low,,,,EUR
+"2022, May 20, 17:00","(Montenegro) Current Account",Low,-€203.00M,,,EUR
+"2022, May 20, 17:40","(Slovakia) Unemployment Rate",Low,,,,EUR
+"2022, May 20, 18:00","(Slovakia) Current Account",Low,,,,EUR
+"2022, May 20, 21:00","(Euro Area) Consumer Confidence",Medium,,,,EUR
+"2022, May 20, 21:00","(United States) CB Leading Index MoM",Low,,,,USD
+"2022, May 20, 21:30","(Slovenia) Unemployment Rate",Low,,,,EUR
+"2022, May 21, 00:00","(United States) Baker Hughes Total Rig Count",Low,,,,USD
+"2022, May 21, 00:00","(United States) Baker Hughes Oil Rig Count",Low,,,,USD
+"2022, May 21, 06:01","(Ireland) Consumer Confidence",Low,,,,EUR
+"2022, May 23, 07:00","(Euro Area) Eurogroup Meeting",Medium,,,,EUR
+"2022, May 23, 13:00","(Lithuania) Industrial Production MoM",Low,,,,EUR
+"2022, May 23, 13:00","(Lithuania) Industrial Production YoY",Low,,,,EUR
+"2022, May 23, 16:45","(European Union) EU Bond Auction",Low,,,,EUR
+"2022, May 23, 17:00","(Latvia) PPI YoY",Low,,,,EUR
+"2022, May 23, 17:00","(Latvia) PPI MoM",Low,,,,EUR
+"2022, May 23, 19:30","(Kosovo) Balance of Trade",Low,,,,EUR
+"2022, May 23, 19:30","(United States) Chicago Fed National Activity Index",Medium,,,,USD
+"2022, May 23, 20:00","(France) 12-Month BTF Auction",Low,,,,EUR
+"2022, May 23, 20:00","(France) 3-Month BTF Auction",Low,,,,EUR
+"2022, May 23, 20:00","(France) 6-Month BTF Auction",Low,,,,EUR
+"2022, May 23, 22:30","(United States) 3-Month Bill Auction",Low,,,,USD
+"2022, May 23, 22:30","(United States) 6-Month Bill Auction",Low,,,,USD
+"2022, May 24, 12:00","(Finland) Export Prices YoY",Low,,,,EUR
+"2022, May 24, 12:00","(Finland) PPI YoY",Low,,,,EUR
+"2022, May 24, 12:00","(Finland) Import Prices YoY",Low,,,,EUR
+"2022, May 24, 14:15","(France) S&P Global Composite PMI",Low,,,,EUR
+"2022, May 24, 14:15","(France) S&P Global Manufacturing PMI",Medium,,,,EUR
+"2022, May 24, 14:15","(France) S&P Global Services PMI",Medium,,,,EUR
+"2022, May 24, 14:30","(Germany) Markit Services PMI",High,,,,EUR
+"2022, May 24, 14:30","(Germany) S&P Global/BME Manufacturing PMI",High,,,,EUR
+"2022, May 24, 15:00","(Euro Area) S&P Global Composite PMI",Low,,,,EUR
+"2022, May 24, 15:00","(Euro Area) S&P Global Services PMI",High,,,,EUR
+"2022, May 24, 15:00","(Euro Area) S&P Global Manufacturing PMI",High,,,,EUR
+"2022, May 24, 15:00","(European Union) EcoFin Meeting",Medium,,,,EUR
+"2022, May 24, 19:55","(United States) Redbook YoY",Low,,,,USD
+"2022, May 24, 20:45","(United States) Markit Services PMI",High,,,,USD
+"2022, May 24, 20:45","(United States) Markit Composite PMI",High,,,,USD
+"2022, May 24, 20:45","(United States) Markit Manufacturing PMI",High,,,,USD
+"2022, May 24, 21:00","(United States) Richmond Fed Services Index",Low,,,,USD
+"2022, May 24, 21:00","(United States) Richmond Fed Manufacturing Shipments Index",Low,,,,USD
+"2022, May 25, 03:30","(United States) API Crude Oil Stock Change",Medium,,,,USD
+"2022, May 25, 08:50","(East Timor) Inflation Rate YoY",Low,,,,USD
+"2022, May 25, 12:00","(Finland) Unemployment Rate",Low,,,,EUR
+"2022, May 25, 13:00","(Germany) GDP Growth Rate QoQ",High,,,,EUR
+"2022, May 25, 14:00","(Austria) Industrial Production YoY",Low,,,,EUR
+"2022, May 25, 14:00","(Spain) PPI YoY",Low,,,,EUR
+"2022, May 25, 15:00","(Germany) Ifo Business Climate",High,,,,EUR
+"2022, May 25, 15:00","(Germany) Ifo Current Conditions",Low,,,,EUR
+"2022, May 25, 15:00","(Germany) Ifo Expectations",Low,,,,EUR
+"2022, May 25, 15:30","(Slovenia) Tourist Arrivals",Low,,,,EUR
+"2022, May 25, 15:30","(Slovenia) Business Confidence",Low,,,,EUR
+"2022, May 25, 16:30","(Germany) 15-Year Bund Auction",Low,,,,EUR
+"2022, May 25, 17:00","(Latvia) Unemployment Rate",Low,,,,EUR
+"2022, May 25, 18:00","(United States) Mortgage Applications",Low,,,,USD
+"2022, May 25, 18:00","(United States) Mortgage Rate",Low,,,,USD
+"2022, May 25, 18:00","(United States) MBA Mortgage Refinance Index",Low,,,,USD
+"2022, May 25, 18:00","(United States) MBA Mortgage Market Index",Low,,,,USD
+"2022, May 25, 18:00","(United States) MBA Purchase Index",Low,,,,USD
+"2022, May 25, 19:30","(United States) Non Defense Goods Orders Ex Air",Low,,,,USD
+"2022, May 25, 20:00","(Belgium) Business Confidence",Low,,,,EUR
+"2022, May 25, 20:00","(United States) House Price Index YoY",Low,,,,USD
+"2022, May 25, 20:00","(United States) S&P/Case-Shiller Home Price YoY",Medium,,,,USD
+"2022, May 25, 20:00","(United States) S&P/Case-Shiller Home Price MoM",Low,,,,USD
+"2022, May 25, 20:00","(United States) House Price Index MoM",Low,,,,USD
+"2022, May 25, 21:00","(United States) New Home Sales MoM",High,,,,USD
+"2022, May 25, 21:00","(United States) New Home Sales",High,,,,USD
+"2022, May 25, 21:00","(United States) Richmond Fed Manufacturing Index",Low,,,,USD
+"2022, May 25, 21:00","(United States) CB Consumer Confidence",Low,,,,USD
+"2022, May 25, 21:30","(United States) EIA Crude Oil Stocks Change",Medium,,,,USD
+"2022, May 25, 21:30","(United States) EIA Gasoline Stocks Change",Medium,,,,USD
+"2022, May 26, 01:00","(United States) FOMC Minutes",High,,,,USD
+"2022, May 26, 13:45","(France) Consumer Confidence",Medium,,,,EUR
+"2022, May 26, 13:45","(France) Business Confidence",Medium,,,,EUR
+"2022, May 26, 13:45","(France) Business Climate Indicator",Low,,,,EUR
+"2022, May 26, 15:00","(Italy) Industrial Sales MoM",Low,,,,EUR
+"2022, May 26, 15:00","(Italy) Industrial Sales YoY",Low,,,,EUR
+"2022, May 26, 19:30","(United States) Jobless Claims 4-week Average",High,,,,USD
+"2022, May 26, 19:30","(United States) Continuing Jobless Claims",High,,,,USD
+"2022, May 26, 19:30","(United States) Initial Jobless Claims",High,,,,USD
+"2022, May 26, 19:30","(United States) GDP Sales QoQ",Low,1.50%,,,USD
+"2022, May 26, 19:30","(United States) Real Consumer Spending QoQ",Low,2.50%,,,USD
+"2022, May 26, 21:00","(Luxembourg) Balance of Trade",Low,,,,EUR
+"2022, May 26, 21:30","(United States) EIA Natural Gas Stocks Change",Low,,,,USD
+"2022, May 26, 22:00","(United States) Kansas Fed Composite Index",Low,,,,USD
+"2022, May 26, 22:30","(United States) 8-Week Bill Auction",Low,,,,USD
+"2022, May 26, 22:30","(United States) 4-Week Bill Auction",Low,,,,USD
+"2022, May 27, 11:30","(Netherlands) Business Confidence",Low,,,,EUR
+"2022, May 27, 12:00","(Estonia) Retail Sales YoY",Low,,,,EUR
+"2022, May 27, 12:00","(Estonia) Retail Sales MoM",Low,,,,EUR
+"2022, May 27, 12:00","(Finland) GDP Growth Rate QoQ",Low,,,,EUR
+"2022, May 27, 12:00","(Finland) GDP Growth Rate YoY",Low,,,,EUR
+"2022, May 27, 12:00","(Finland) Consumer Confidence",Low,,,,EUR
+"2022, May 27, 13:00","(Germany) Import Prices MoM",Low,,,,EUR
+"2022, May 27, 13:00","(Germany) GfK Consumer Confidence",High,,,,EUR
+"2022, May 27, 13:00","(Germany) Import Prices YoY",Low,,,,EUR
+"2022, May 27, 13:00","(Lithuania) Retail Sales MoM",Low,,,,EUR
+"2022, May 27, 13:00","(Lithuania) Retail Sales YoY",Low,,,,EUR
+"2022, May 27, 13:45","(France) Household Consumption MoM",Low,,,,EUR
+"2022, May 27, 13:45","(France) PPI MoM",Low,,,,EUR
+"2022, May 27, 13:45","(France) Harmonised Inflation Rate YoY",Low,,,,EUR
+"2022, May 27, 13:45","(France) Harmonised Inflation Rate MoM",Low,,,,EUR
+"2022, May 27, 13:45","(France) Inflation Rate MoM",Low,,,,EUR
+"2022, May 27, 13:45","(France) Inflation Rate YoY",Medium,,,,EUR
+"2022, May 27, 13:45","(France) GDP Growth Rate QoQ",High,,,,EUR
+"2022, May 27, 13:45","(France) GDP Growth Rate YoY",Medium,5.40%,,,EUR
+"2022, May 27, 14:00","(Austria) PPI MoM",Low,,,,EUR
+"2022, May 27, 14:00","(Austria) PPI YoY",Low,,,,EUR
+"2022, May 27, 14:00","(Slovakia) Consumer Confidence",Low,,,,EUR
+"2022, May 27, 14:00","(Slovakia) Business Confidence",Low,,,,EUR
+"2022, May 27, 14:00","(Spain) Retail Sales MoM",High,,,,EUR
+"2022, May 27, 14:00","(Spain) Retail Sales YoY",High,,,,EUR
+"2022, May 27, 15:00","(Austria) Bank Austria Manufacturing PMI",High,,,,EUR
+"2022, May 27, 15:00","(Italy) PPI YoY",Low,,,,EUR
+"2022, May 27, 15:00","(Italy) Consumer Confidence",Medium,,,,EUR
+"2022, May 27, 15:00","(Italy) PPI MoM",Low,,,,EUR
+"2022, May 27, 15:00","(Italy) Business Confidence",Medium,,,,EUR
+"2022, May 27, 15:30","(Portugal) Consumer Confidence",Low,,,,EUR
+"2022, May 27, 15:30","(Portugal) Business Confidence",Low,,,,EUR
+"2022, May 27, 15:30","(Slovenia) Retail Sales MoM",Low,,,,EUR
+"2022, May 27, 15:30","(Slovenia) Retail Sales YoY",Low,,,,EUR
+"2022, May 27, 16:00","(Austria) Business Confidence",Low,,,,EUR
+"2022, May 27, 16:00","(Austria) Consumer Confidence",Low,,,,EUR
+"2022, May 27, 16:00","(Cyprus) Consumer Confidence",Low,,,,EUR
+"2022, May 27, 16:00","(Cyprus) Business Confidence",Low,,,,EUR
+"2022, May 27, 16:00","(Cyprus) Industrial Production YoY",Low,,,,EUR
+"2022, May 27, 16:00","(Euro Area) Services Sentiment",Low,,,,EUR
+"2022, May 27, 16:00","(Euro Area) Consumer Inflation Expectations",Low,,,,EUR
+"2022, May 27, 16:00","(Euro Area) Economic Sentiment",Medium,,,,EUR
+"2022, May 27, 16:00","(Euro Area) Consumer Confidence",Medium,,,,EUR
+"2022, May 27, 16:00","(Euro Area) Industrial Sentiment",Low,,,,EUR
+"2022, May 27, 16:00","(Finland) Business Confidence",Low,,,,EUR
+"2022, May 27, 16:00","(Greece) PPI YoY",Low,,,,EUR
+"2022, May 27, 16:00","(Greece) Consumer Confidence",Low,,,,EUR
+"2022, May 27, 16:00","(Greece) Business Confidence",Low,,,,EUR
+"2022, May 27, 16:00","(Luxembourg) Business Confidence",Low,,,,EUR
+"2022, May 27, 16:00","(Luxembourg) Consumer Confidence",Low,,,,EUR
+"2022, May 27, 16:00","(Malta) Consumer Confidence",Low,,,,EUR
+"2022, May 27, 16:00","(Montenegro) Balance of Trade",Low,,,,EUR
+"2022, May 27, 16:10","(Italy) 6-Month BOT Auction",Low,,,,EUR
+"2022, May 27, 16:30","(Belgium) Inflation Rate MoM",Low,,,,EUR
+"2022, May 27, 16:30","(Belgium) Inflation Rate YoY",Low,,,,EUR
+"2022, May 27, 17:00","(France) Unemployment Benefit Claims",Medium,,,,EUR
+"2022, May 27, 17:00","(France) Jobseekers Total",Low,,,,EUR
+"2022, May 27, 17:00","(Ireland) Retail Sales MoM",Low,,,,EUR
+"2022, May 27, 17:00","(Ireland) Retail Sales YoY",Low,,,,EUR
+"2022, May 27, 17:00","(Latvia) Retail Sales MoM",Low,,,,EUR
+"2022, May 27, 17:00","(Latvia) Retail Sales YoY",Low,,,,EUR
+"2022, May 27, 17:00","(Portugal) Retail Sales YoY",Low,,,,EUR
+"2022, May 27, 17:00","(Portugal) Retail Sales MoM",Low,,,,EUR
+"2022, May 27, 18:20","(Spain) Business Confidence",Medium,,,,EUR
+"2022, May 27, 19:30","(United States) Goods Trade Balance",High,,,,USD
+"2022, May 27, 19:30","(United States) Wholesale Inventories MoM",Medium,,,,USD
+"2022, May 27, 19:30","(United States) Core PCE Price Index MoM",Low,,,,USD
+"2022, May 27, 19:30","(United States) Core PCE Price Index YoY",Low,,,,USD
+"2022, May 27, 19:30","(United States) PCE Price Index MoM",Medium,,,,USD
+"2022, May 27, 19:30","(United States) PCE Price Index YoY",Medium,,,,USD
+"2022, May 27, 19:30","(United States) Personal Spending MoM",High,,,,USD
+"2022, May 27, 19:30","(United States) Personal Income MoM",High,,,,USD
+"2022, May 27, 19:30","(United States) Core PCE Prices QoQ",Low,,,,USD
+"2022, May 27, 19:30","(United States) PCE Prices QoQ",Low,,,,USD
+"2022, May 27, 19:30","(United States) GDP Price Index QoQ",Medium,,,,USD
+"2022, May 27, 19:30","(United States) Corporate Profits QoQ",Medium,,,,USD
+"2022, May 27, 19:30","(United States) GDP Growth Rate QoQ",High,,,,USD
+"2022, May 27, 19:30","(United States) Durable Goods Orders Ex Transp MoM",High,,,,USD
+"2022, May 27, 19:30","(United States) Durable Goods Orders MoM",High,,,,USD
+"2022, May 27, 19:30","(United States) Durable Goods Orders ex Defense MoM",High,,,,USD
+"2022, May 27, 19:30","(United States) Retail Inventories Ex Autos MoM",Medium,,,,USD
+"2022, May 27, 20:45","(United States) Chicago PMI",Medium,,,,USD
+"2022, May 27, 21:00","(United States) Pending Home Sales YoY",Medium,,,,USD
+"2022, May 27, 21:00","(United States) Pending Home Sales MoM",Medium,,,,USD
+"2022, May 27, 21:00","(United States) Michigan Current Conditions",Low,,,,USD
+"2022, May 27, 21:00","(United States) Michigan 5 Year Inflation Expectations",Low,,,,USD
+"2022, May 27, 21:00","(United States) Michigan Inflation Expectations",Low,,,,USD
+"2022, May 27, 21:00","(United States) Michigan Consumer Expectations",Low,,,,USD
+"2022, May 27, 21:00","(United States) Michigan Consumer Sentiment",High,,,,USD
+"2022, May 27, 22:00","(United States) Kansas Fed Manufacturing Index",Low,,,,USD
+"2022, May 28, 00:00","(United States) Baker Hughes Oil Rig Count",Low,,,,USD
+"2022, May 28, 00:00","(United States) Baker Hughes Total Rig Count",Low,,,,USD
+"2022, May 30, 16:00","(Euro area) Selling Price Expectations",Low,,,,EUR
+"2022, May 30, 19:00","(Germany) Harmonised Inflation Rate YoY",Low,,,,EUR
+"2022, May 30, 19:00","(Germany) Harmonised Inflation Rate MoM",Low,,,,EUR
+"2022, May 30, 19:00","(Germany) Inflation Rate YoY",Medium,,,,EUR
+"2022, May 30, 19:00","(Germany) Inflation Rate MoM",Low,,,,EUR
+"2022, May 30, 20:00","(France) 12-Month BTF Auction",Low,,,,EUR
+"2022, May 30, 20:00","(France) 3-Month BTF Auction",Low,,,,EUR
+"2022, May 30, 20:00","(France) 6-Month BTF Auction",Low,,,,EUR
+"2022, May 30, 22:30","(United States) 3-Month Bill Auction",Low,,,,USD
+"2022, May 30, 22:30","(United States) 6-Month Bill Auction",Low,,,,USD
+"2022, May 31, 11:30","(Netherlands) Retail Sales YoY",Low,,,,EUR
+"2022, May 31, 12:00","(Estonia) GDP Growth Rate YoY",Low,,,,EUR
+"2022, May 31, 12:00","(Estonia) GDP Growth Rate QoQ",Low,,,,EUR
+"2022, May 31, 14:00","(Austria) GDP Growth Rate QoQ",Low,,,,EUR
+"2022, May 31, 14:00","(Austria) GDP Growth Rate YoY",Low,,,,EUR
+"2022, May 31, 14:00","(Spain) Harmonised Inflation Rate YoY",Low,,,,EUR
+"2022, May 31, 14:00","(Spain) Inflation Rate MoM",Low,,,,EUR
+"2022, May 31, 14:00","(Spain) Inflation Rate YoY",Low,,,,EUR
+"2022, May 31, 14:00","(Spain) Harmonised Inflation Rate MoM",Low,,,,EUR
+"2022, May 31, 14:00","(Austria) Inflation Rate YoY",Low,,,,EUR
+"2022, May 31, 14:00","(Austria) Harmonised Inflation Rate YoY",Low,,,,EUR
+"2022, May 31, 14:00","(Austria) Harmonised Inflation Rate MoM",Low,,,,EUR
+"2022, May 31, 14:55","(Germany) Unemployed Persons",Medium,,,,EUR
+"2022, May 31, 15:00","(Euro Area) Loans to Households YoY",Low,,,,EUR
+"2022, May 31, 15:00","(Euro Area) Loans to Companies YoY",Low,,,,EUR
+"2022, May 31, 15:00","(Euro Area) M3 Money Supply YoY",Low,,,,EUR
+"2022, May 31, 15:00","(Spain) Current Account",Low,,,,EUR
+"2022, May 31, 15:00","(Austria) Inflation Rate MoM",Low,,,,EUR
+"2022, May 31, 15:30","(Slovenia) GDP Growth Rate YoY",Medium,,,,EUR
+"2022, May 31, 15:30","(Slovenia) GDP Growth Rate QoQ",Medium,,,,EUR
+"2022, May 31, 15:30","(Slovenia) Harmonised Inflation Rate YoY",Low,,,,EUR
+"2022, May 31, 15:30","(Slovenia) Inflation Rate YoY",Low,,,,EUR
+"2022, May 31, 15:30","(Slovenia) Inflation Rate MoM",Low,,,,EUR
+"2022, May 31, 16:00","(Belgium) GDP Growth Rate YoY",Low,,,,EUR
+"2022, May 31, 16:00","(Belgium) GDP Growth Rate QoQ",Low,,,,EUR
+"2022, May 31, 16:00","(Greece) Retail Sales YoY",High,,,,EUR
+"2022, May 31, 16:00","(Italy) Harmonised Inflation Rate YoY",Low,,,,EUR
+"2022, May 31, 16:00","(Italy) Harmonised Inflation Rate MoM",Low,,,,EUR
+"2022, May 31, 16:00","(Italy) Inflation Rate YoY",Medium,,,,EUR
+"2022, May 31, 16:00","(Italy) Inflation Rate MoM",Low,,,,EUR
+"2022, May 31, 16:00","(Malta) PPI YoY",Low,,,,EUR
+"2022, May 31, 16:00","(Montenegro) Tourist Arrivals",Low,,,,EUR
+"2022, May 31, 16:00","(Euro Area) CPI",High,,,,EUR
+"2022, May 31, 16:10","(Italy) 5-Year BTP Auction",Low,,,,EUR
+"2022, May 31, 16:10","(Italy) 10-Year BTP Auction",Medium,,,,EUR
+"2022, May 31, 16:30","(Belgium) PPI YoY",Low,,,,EUR
+"2022, May 31, 16:30","(Germany) 5-Year Bobl Auction",Low,,,,EUR
+"2022, May 31, 17:00","(Cyprus) GDP Growth Rate QoQ",Medium,,,,EUR
+"2022, May 31, 17:00","(Cyprus) GDP Growth Rate YoY",Low,,,,EUR
+"2022, May 31, 17:00","(Latvia) GDP Growth Rate YoY",Low,,,,EUR
+"2022, May 31, 17:00","(Latvia) GDP Growth Rate QoQ",Low,,,,EUR
+"2022, May 31, 17:00","(Portugal) Inflation Rate MoM",Low,,,,EUR
+"2022, May 31, 17:00","(Portugal) Inflation Rate YoY",Low,,,,EUR
+"2022, May 31, 17:00","(Portugal) GDP Growth Rate YoY",Medium,,,,EUR
+"2022, May 31, 17:00","(Portugal) GDP Growth Rate QoQ",Medium,,,,EUR
+"2022, May 31, 17:15","(Greece) Total Credit YoY",Low,,,,EUR
+"2022, May 31, 18:00","(Luxembourg) PPI YoY",Low,,,,EUR
+"2022, May 31, 19:55","(United States) Redbook YoY",Low,,,,USD
+"2022, May 31, 20:00","(United States) House Price Index",Low,,,,USD
+"2022, June 01, 03:30","(United States) API Crude Oil Stock Change",Medium,,,,USD
+"2022, June 01, 07:01","(Ireland) AIB Manufacturing PMI",Low,,,,EUR
+"2022, June 01, 13:00","(Germany) Unemployment Rate Harmonised",High,,,,EUR
+"2022, June 01, 13:00","(Germany) Retail Sales MoM",High,,,,EUR
+"2022, June 01, 13:00","(Germany) Retail Sales YoY",High,,,,EUR
+"2022, June 01, 13:00","(Lithuania) GDP Growth Rate QoQ",Low,,,,EUR
+"2022, June 01, 13:00","(Lithuania) GDP Growth Rate YoY",Low,,,,EUR
+"2022, June 01, 14:00","(Netherlands) NEVI Manufacturing PMI",Low,,,,EUR
+"2022, June 01, 14:00","(Spain) Tourist Arrivals YoY",Low,,,,EUR
+"2022, June 01, 14:15","(Spain) Markit Manufacturing PMI",High,,,,EUR
+"2022, June 01, 14:45","(Italy) IHS Markit Manufacturing PMI",High,,,,EUR
+"2022, June 01, 14:50","(France) Markit Manufacturing PMI",Medium,,,,EUR
+"2022, June 01, 14:55","(Germany) Unemployment Rate",High,,,,EUR
+"2022, June 01, 14:55","(Germany) Unemployment Change",High,,,,EUR
+"2022, June 01, 14:55","(Germany) Markit Manufacturing PMI",High,,,,EUR
+"2022, June 01, 15:00","(Euro Area) Markit Manufacturing PMI",High,,,,EUR
+"2022, June 01, 15:00","(Greece) Markit Manufacturing PMI",High,,,,EUR
+"2022, June 01, 15:00","(Italy) Unemployment Rate",High,,,,EUR
+"2022, June 01, 15:30","(Austria) Unemployment Rate",High,,,,EUR
+"2022, June 01, 16:00","(Cyprus) Unemployment Rate",Low,,,,EUR
+"2022, June 01, 16:00","(Euro Area) Core Inflation Rate YoY",Medium,,,,EUR
+"2022, June 01, 16:00","(Euro Area) Inflation Rate MoM",Medium,,,,EUR
+"2022, June 01, 16:00","(Euro Area) Unemployment Rate",High,,,,EUR
+"2022, June 01, 16:00","(Euro Area) Inflation Rate YoY",Medium,,,,EUR
+"2022, June 01, 16:00","(Italy) GDP Growth Rate YoY",Medium,,,,EUR
+"2022, June 01, 16:00","(Italy) GDP Growth Rate QoQ",Medium,,,,EUR
+"2022, June 01, 16:00","(Italy) New Car Registrations YoY",Low,,,,EUR
+"2022, June 01, 16:10","(Cyprus) Retail Sales YoY",Low,,,,EUR
+"2022, June 01, 16:45","(European Union) 3-Month Bill Auction",Low,,,,EUR
+"2022, June 01, 16:45","(European Union) 6-Month Bill Auction",Low,,,,EUR
+"2022, June 01, 17:00","(Ireland) Average Weekly Earnings YoY",Low,,,,EUR
+"2022, June 01, 17:00","(Portugal) Industrial Production MoM",Low,,,,EUR
+"2022, June 01, 17:00","(Portugal) Industrial Production YoY",Low,,,,EUR
+"2022, June 01, 17:30","(Portugal) Budget Balance",Low,,,,EUR
+"2022, June 01, 17:35","(Spain) New Car Sales YoY",Low,,,,EUR
+"2022, June 01, 18:00","(United States) Mortgage Applications",Low,,,,USD
+"2022, June 01, 18:00","(United States) Mortgage Rate",Low,,,,USD
+"2022, June 01, 18:00","(United States) MBA Mortgage Refinance Index",Low,,,,USD
+"2022, June 01, 18:00","(United States) MBA Mortgage Market Index",Low,,,,USD
+"2022, June 01, 18:00","(United States) MBA Purchase Index",Low,,,,USD
+"2022, June 01, 20:45","(United States) Markit Manufacturing PMI",High,,,,USD
+"2022, June 01, 21:00","(United States) ISM Manufacturing New Orders",Low,,,,USD
+"2022, June 01, 21:00","(United States) ISM Manufacturing Prices",Low,,,,USD
+"2022, June 01, 21:00","(United States) Construction Spending MoM",Medium,,,,USD
+"2022, June 01, 21:00","(United States) ISM Manufacturing Employment",Low,,,,USD
+"2022, June 01, 21:00","(United States) ISM Manufacturing PMI",High,,,,USD
+"2022, June 01, 21:00","(United States) JOLTs Job Quits",Low,,,,USD
+"2022, June 01, 21:30","(United States) Dallas Fed Manufacturing Index",Medium,,,,USD
+"2022, June 01, 21:30","(United States) EIA Crude Oil Stocks Change",Medium,,,,USD
+"2022, June 01, 21:30","(United States) EIA Gasoline Stocks Change",Medium,,,,USD
+"2022, June 01, 21:30","(United States) Dallas Fed Services Index",Low,,,,USD
+"2022, June 01, 21:30","(United States) Dallas Fed Services Revenues Index",Low,,,,USD
+"2022, June 02, 01:00","(United States) Fed Beige Book",Low,,,,USD
+"2022, June 02, 14:00","(Spain) Unemployment Change",High,,,,EUR
+"2022, June 02, 16:00","(Euro Area) PPI MoM",Low,,,,EUR
+"2022, June 02, 16:00","(Euro Area) PPI YoY",Low,,,,EUR
+"2022, June 02, 16:00","(France) 10-Year OAT Auction",Low,,,,EUR
+"2022, June 02, 17:00","(Ireland) Construction Output YoY",Low,,,,EUR
+"2022, June 02, 19:30","(United States) Jobless Claims 4-week Average",High,,,,USD
+"2022, June 02, 19:30","(United States) Continuing Jobless Claims",High,,,,USD
+"2022, June 02, 19:30","(United States) Initial Jobless Claims",High,,,,USD
+"2022, June 02, 21:00","(United States) IBD/TIPP Economic Optimism",Medium,,,,USD
+"2022, June 02, 21:30","(United States) EIA Natural Gas Stocks Change",Low,,,,USD
+"2022, June 02, 22:30","(United States) 8-Week Bill Auction",Low,,,,USD
+"2022, June 02, 22:30","(United States) 4-Week Bill Auction",Low,,,,USD
+"2022, June 03, 07:01","(Ireland) AIB Services PMI",Low,,,,EUR
+"2022, June 03, 13:00","(Germany) Current Account",Low,,,,EUR
+"2022, June 03, 13:00","(Germany) Balance of Trade",High,,,,EUR
+"2022, June 03, 13:00","(Germany) Imports MoM s.a",Low,,,,EUR
+"2022, June 03, 13:00","(Germany) Exports MoM s.a",Low,,,,EUR
+"2022, June 03, 13:00","(Germany) Balance of Trade s.a",Low,,,,EUR
+"2022, June 03, 14:00","(Slovakia) Retail Sales MoM",Low,,,,EUR
+"2022, June 03, 14:00","(Slovakia) Retail Sales YoY",Low,,,,EUR
+"2022, June 03, 14:00","(Slovakia) GDP Growth Rate YoY",Low,,,,EUR
+"2022, June 03, 14:00","(Slovakia) GDP Growth Rate QoQ",Low,,,,EUR
+"2022, June 03, 14:00","(Slovakia) Real Wages YoY",Low,,,,EUR
+"2022, June 03, 14:15","(Spain) Markit Services PMI",High,,,,EUR
+"2022, June 03, 14:15","(Spain) Markit Composite PMI",High,,,,EUR
+"2022, June 03, 14:30","(Euro Area) Construction PMI",Low,,,,EUR
+"2022, June 03, 14:30","(France) Construction PMI",Low,,,,EUR
+"2022, June 03, 14:30","(Germany) Construction PMI",Medium,,,,EUR
+"2022, June 03, 14:45","(Italy) IHS Markit Services PMI",High,,,,EUR
+"2022, June 03, 14:45","(Italy) IHS Markit Composite PMI",High,,,,EUR
+"2022, June 03, 14:50","(France) Markit Composite PMI",Low,,,,EUR
+"2022, June 03, 14:50","(France) Markit Services PMI",Medium,,,,EUR
+"2022, June 03, 14:55","(Germany) Markit Services PMI",High,,,,EUR
+"2022, June 03, 14:55","(Germany) Markit Composite PMI",High,,,,EUR
+"2022, June 03, 15:00","(Euro Area) Markit Composite PMI",High,,,,EUR
+"2022, June 03, 15:00","(Euro Area) Markit Services PMI",High,,,,EUR
+"2022, June 03, 15:30","(Slovenia) Balance of Trade",Low,,,,EUR
+"2022, June 03, 16:00","(Austria) Retail Sales MoM",High,,,,EUR
+"2022, June 03, 16:00","(Austria) Retail Sales YoY",High,,,,EUR
+"2022, June 03, 16:00","(Belgium) Retail Sales MoM",Low,,,,EUR
+"2022, June 03, 16:00","(Belgium) Retail Sales YoY",Low,,,,EUR
+"2022, June 03, 16:00","(Cyprus) Inflation Rate YoY",Low,,,,EUR
+"2022, June 03, 16:00","(Euro Area) Retail Sales MoM",High,,,,EUR
+"2022, June 03, 16:00","(Euro Area) Retail Sales YoY",High,,,,EUR
+"2022, June 03, 16:00","(France) Retail Sales MoM",Low,,,,EUR
+"2022, June 03, 16:00","(France) Retail Sales YoY",Low,,,,EUR
+"2022, June 03, 16:00","(Greece) GDP Growth Rate QoQ",Low,,,,EUR
+"2022, June 03, 16:00","(Greece) GDP Growth Rate YoY",Medium,,,,EUR
+"2022, June 03, 16:00","(Luxembourg) Retail Sales MoM",Low,,,,EUR
+"2022, June 03, 16:00","(Malta) Retail Sales MoM",Low,,,,EUR
+"2022, June 03, 16:00","(Malta) GDP Growth Rate YoY",Low,,,,EUR
+"2022, June 03, 16:00","(Malta) Retail Sales YoY",Low,,,,EUR
+"2022, June 03, 16:00","(Cyprus) Inflation Rate MoM",Low,,,,EUR
+"2022, June 03, 17:00","(Ireland) Current Account",Low,,,,EUR
+"2022, June 03, 17:00","(Ireland) GDP Growth Rate YoY",Low,,,,EUR
+"2022, June 03, 17:00","(Ireland) GDP Growth Rate QoQ",Medium,,,,EUR
+"2022, June 03, 17:00","(Ireland) GNP YoY",Low,,,,EUR
+"2022, June 03, 17:00","(Ireland) GNP QoQ",Low,,,,EUR
+"2022, June 03, 17:00","(Latvia) Industrial Production YoY",Low,,,,EUR
+"2022, June 03, 17:00","(Latvia) Industrial Production MoM",Low,,,,EUR
+"2022, June 03, 18:30","(United States) Challenger Job Cuts",Low,,,,USD
+"2022, June 03, 19:15","(United States) ADP Employment Change",High,,,,USD
+"2022, June 03, 19:30","(United States) Unit Labour Costs QoQ",Medium,,,,USD
+"2022, June 03, 19:30","(United States) Nonfarm Productivity QoQ",Medium,,,,USD
+"2022, June 03, 19:30","(United States) Average Hourly Earnings YoY",Low,,,,USD
+"2022, June 03, 19:30","(United States) Average Hourly Earnings YoY",Low,,,,USD
+"2022, June 03, 19:30","(United States) Nonfarm Payrolls Private",High,,,,USD
+"2022, June 03, 19:30","(United States) Unemployment Rate",High,,,,USD
+"2022, June 03, 19:30","(United States) Non Farm Payrolls",High,,,,USD
+"2022, June 03, 19:30","(United States) Average Weekly Hours",Low,,,,USD
+"2022, June 03, 19:30","(United States) Labor Force Participation Rate",Low,,,,USD
+"2022, June 03, 19:30","(United States) Manufacturing Payrolls",Low,,,,USD
+"2022, June 03, 19:30","(United States) Government Payrolls",Low,,,,USD
+"2022, June 03, 20:30","(Kosovo) PPI YoY",Low,,,,EUR
+"2022, June 03, 20:45","(United States) Markit Services PMI",High,,,,USD
+"2022, June 03, 20:45","(United States) Markit Composite PMI",High,,,,USD
+"2022, June 03, 20:55","(Ecuador) Inflation Rate YoY",Low,,,,USD
+"2022, June 03, 21:00","(United States) ISM Non-Manufacturing Business Activity",Low,,,,USD
+"2022, June 03, 21:00","(United States) ISM Non-Manufacturing Prices",Low,,,,USD
+"2022, June 03, 21:00","(United States) ISM Non-Manufacturing New Orders",Low,,,,USD
+"2022, June 03, 21:00","(United States) ISM Non-Manufacturing Employment",Low,,,,USD
+"2022, June 03, 21:00","(United States) ISM Non-Manufacturing PMI",High,,,,USD
+"2022, June 03, 21:00","(United States) Factory Orders ex Transportation",Low,,,,USD
+"2022, June 03, 21:00","(United States) Factory Orders MoM",Medium,,,,USD
+"2022, June 04, 00:00","(United States) Baker Hughes Oil Rig Count",Low,,,,USD
+"2022, June 04, 00:00","(United States) Baker Hughes Total Rig Count",Low,,,,USD
+"2022, June 04, 04:30","(United States) Total Vehicle Sales",Medium,,,,USD
+"2022, June 06, 13:45","(France) Budget Balance",Low,,,,EUR
+"2022, June 06, 20:00","(France) 12-Month BTF Auction",Low,,,,EUR
+"2022, June 06, 20:00","(France) 3-Month BTF Auction",Low,,,,EUR
+"2022, June 06, 20:00","(France) 6-Month BTF Auction",Low,,,,EUR
+"2022, June 06, 22:30","(United States) 3-Month Bill Auction",Low,,,,USD
+"2022, June 06, 22:30","(United States) 6-Month Bill Auction",Low,,,,USD
+"2022, June 07, 12:00","(Estonia) Inflation Rate YoY",Low,,,,EUR
+"2022, June 07, 12:00","(Estonia) Inflation Rate MoM",Low,,,,EUR
+"2022, June 07, 13:00","(Finland) Balance of Trade",Low,,,,EUR
+"2022, June 07, 13:00","(Germany) Factory Orders MoM",Medium,,,,EUR
+"2022, June 07, 13:45","(France) Foreign Exchange Reserves",Low,,,,EUR
+"2022, June 07, 14:00","(Austria) Wholesale Prices MoM",Low,,,,EUR
+"2022, June 07, 14:00","(Austria) Wholesale Prices YoY",Low,,,,EUR
+"2022, June 07, 14:00","(Spain) Industrial Production YoY",Low,,,,EUR
+"2022, June 07, 15:40","(Spain) 6-Month Letras Auction",Low,,,,EUR
+"2022, June 07, 15:40","(Spain) 12-Month Letras Auction",Low,,,,EUR
+"2022, June 07, 16:00","(Greece) Balance of Trade",Low,,,,EUR
+"2022, June 07, 17:30","(Spain) Consumer Confidence",Medium,,,,EUR
+"2022, June 07, 19:55","(United States) Redbook YoY",Low,,,,USD
+"2022, June 08, 02:00","(United States) Consumer Credit Change",Low,,,,USD
+"2022, June 08, 03:30","(United States) API Crude Oil Stock Change",Medium,,,,USD
+"2022, June 08, 11:30","(Netherlands) Inflation Rate YoY",Medium,,,,EUR
+"2022, June 08, 12:00","(Estonia) Industrial Production YoY",Low,,,,EUR
+"2022, June 08, 12:00","(Estonia) Industrial Production MoM",Low,,,,EUR
+"2022, June 08, 13:00","(Germany) Industrial Production MoM",Medium,,,,EUR
+"2022, June 08, 13:00","(Lithuania) Inflation Rate MoM",Low,,,,EUR
+"2022, June 08, 13:00","(Lithuania) Inflation Rate YoY",Low,,,,EUR
+"2022, June 08, 13:45","(France) Current Account",Low,,,,EUR
+"2022, June 08, 13:45","(France) Balance of Trade",Medium,,,,EUR
+"2022, June 08, 13:45","(France) Imports",Low,,,,EUR
+"2022, June 08, 13:45","(France) Exports",Low,,,,EUR
+"2022, June 08, 14:00","(Austria) Balance of Trade",Low,,,,EUR
+"2022, June 08, 15:00","(Italy) Retail Sales MoM",High,,,,EUR
+"2022, June 08, 15:00","(Italy) Retail Sales YoY",High,,,,EUR
+"2022, June 08, 16:00","(Euro Area) ZEW Economic Sentiment Index",Medium,,,,EUR
+"2022, June 08, 16:00","(Euro Area) GDP Growth Rate QoQ",High,,,,EUR
+"2022, June 08, 16:00","(Euro Area) Employment Change YoY",High,,,,EUR
+"2022, June 08, 16:00","(Euro Area) Employment Change QoQ",High,,,,EUR
+"2022, June 08, 16:00","(Germany) ZEW Current Conditions",Low,,,,EUR
+"2022, June 08, 16:00","(Germany) ZEW Economic Sentiment Index",High,,,,EUR
+"2022, June 08, 16:30","(Germany) 10-Year Bund Auction",Medium,,,,EUR
+"2022, June 08, 17:00","(Ireland) Industrial Production YoY",Low,,,,EUR
+"2022, June 08, 17:00","(Latvia) Inflation Rate YoY",Low,,,,EUR
+"2022, June 08, 17:00","(Latvia) Inflation Rate MoM",Low,,,,EUR
+"2022, June 08, 17:00","(United States) NFIB Business Optimism Index",Low,,,,USD
+"2022, June 08, 17:00","(Luxembourg) Inflation Rate MoM",Low,,,,EUR
+"2022, June 08, 18:00","(United States) Mortgage Applications",Low,,,,USD
+"2022, June 08, 18:00","(United States) Mortgage Rate",Low,,,,USD
+"2022, June 08, 18:00","(United States) MBA Mortgage Refinance Index",Low,,,,USD
+"2022, June 08, 18:00","(United States) MBA Mortgage Market Index",Low,,,,USD
+"2022, June 08, 18:00","(United States) MBA Purchase Index",Low,,,,USD
+"2022, June 08, 19:30","(United States) Balance of Trade",High,,,,USD
+"2022, June 08, 19:30","(United States) Exports",Low,,,,USD
+"2022, June 08, 19:30","(United States) Imports",Low,,,,USD
+"2022, June 08, 21:00","(United States) JOLTs Job Openings",Medium,,,,USD
+"2022, June 08, 21:30","(United States) EIA Crude Oil Stocks Change",Medium,,,,USD
+"2022, June 08, 21:30","(United States) EIA Gasoline Stocks Change",Medium,,,,USD
+"2022, June 09, 11:30","(Netherlands) Inflation Rate MoM",Low,,,,EUR
+"2022, June 09, 12:00","(Estonia) Balance of Trade",Low,,,,EUR
+"2022, June 09, 13:00","(Lithuania) PPI MoM",Low,,,,EUR
+"2022, June 09, 13:00","(Lithuania) PPI YoY",Low,,,,EUR
+"2022, June 09, 13:00","(Lithuania) Balance of Trade",Low,,,,EUR
+"2022, June 09, 14:00","(Slovakia) Balance of Trade",Low,,,,EUR
+"2022, June 09, 16:00","(Malta) Balance of Trade",Low,,,,EUR
+"2022, June 09, 16:30","(Cyprus) Balance of Trade",Low,,,,EUR
+"2022, June 09, 17:00","(Latvia) Balance of Trade",Low,,,,EUR
+"2022, June 09, 17:00","(Luxembourg) Inflation Rate YoY",Low,,,,EUR
+"2022, June 09, 17:00","(Portugal) Balance of Trade",Low,,,,EUR
+"2022, June 09, 17:00","(Greece) Inflation Rate MoM",Low,,,,EUR
+"2022, June 09, 18:45","(Euro Area) ECB Interest Rate Decision",High,,,,EUR
+"2022, June 09, 19:30","(United States) Jobless Claims 4-week Average",High,,,,USD
+"2022, June 09, 19:30","(United States) Continuing Jobless Claims",High,,,,USD
+"2022, June 09, 19:30","(United States) Initial Jobless Claims",High,,,,USD
+"2022, June 09, 19:30","(Euro Area) ECB Press Conference",Medium,,,,EUR
+"2022, June 09, 21:00","(United States) Wholesale Inventories MoM",Medium,,,,USD
+"2022, June 09, 21:30","(United States) EIA Natural Gas Stocks Change",Low,,,,USD
+"2022, June 09, 22:30","(United States) 8-Week Bill Auction",Low,,,,USD
+"2022, June 09, 22:30","(United States) 4-Week Bill Auction",Low,,,,USD
+"2022, June 10, 11:30","(Netherlands) Manufacturing Production YoY",Low,,,,EUR
+"2022, June 10, 12:00","(Finland) Industrial Production YoY",Low,,,,EUR
+"2022, June 10, 12:00","(Finland) Current Account",Low,,,,EUR
+"2022, June 10, 12:30","(France) Non Farm Payrolls QoQ",Low,,,,EUR
+"2022, June 10, 12:30","(France) Private Non Farm Payrolls QoQ",Low,,,,EUR
+"2022, June 10, 13:45","(France) Industrial Production MoM",Medium,,,,EUR
+"2022, June 10, 14:00","(Austria) Industrial Production YoY",Low,,,,EUR
+"2022, June 10, 14:00","(Slovakia) Industrial Production YoY",Low,,,,EUR
+"2022, June 10, 14:00","(Slovakia) Construction Output YoY",Low,,,,EUR
+"2022, June 10, 14:00","(Spain) Harmonised Inflation Rate MoM",Low,,,,EUR
+"2022, June 10, 14:00","(Spain) Harmonised Inflation Rate YoY",Low,,,,EUR
+"2022, June 10, 14:00","(Spain) Inflation Rate MoM",Low,,,,EUR
+"2022, June 10, 14:00","(Spain) Inflation Rate YoY",Low,,,,EUR
+"2022, June 10, 15:00","(Italy) Industrial Production YoY",Low,,,,EUR
+"2022, June 10, 15:00","(Italy) Industrial Production MoM",Medium,,,,EUR
+"2022, June 10, 15:30","(Slovenia) Industrial Production YoY",Low,,,,EUR
+"2022, June 10, 16:00","(Greece) Harmonised Inflation Rate YoY",Low,,,,EUR
+"2022, June 10, 16:00","(Greece) Inflation Rate YoY",Low,,,,EUR
+"2022, June 10, 16:00","(Greece) Industrial Production YoY",Low,,,,EUR
+"2022, June 10, 16:00","(Greece) Unemployment Rate",High,,,,EUR
+"2022, June 10, 16:00","(Malta) Industrial Production YoY",Low,,,,EUR
+"2022, June 10, 16:10","(Italy) 12-Month BOT Auction",Low,,,,EUR
+"2022, June 10, 17:00","(Belgium) Industrial Production YoY",Low,,,,EUR
+"2022, June 10, 17:00","(Belgium) Industrial Production MoM",Low,,,,EUR
+"2022, June 10, 17:00","(Ireland) Harmonised Inflation Rate MoM",Low,,,,EUR
+"2022, June 10, 17:00","(Ireland) Inflation Rate MoM",Low,,,,EUR
+"2022, June 10, 17:00","(Ireland) Inflation Rate YoY",Low,,,,EUR
+"2022, June 10, 17:00","(Ireland) Harmonised Inflation Rate YoY",Low,,,,EUR
+"2022, June 10, 17:00","(Latvia) Current Account",Low,,,,EUR
+"2022, June 10, 18:45","(Euro Area) Marginal Lending Rate",Medium,,,,EUR
+"2022, June 10, 18:45","(Euro Area) Deposit Facility Rate",Medium,,,,EUR
+"2022, June 10, 19:30","(Kosovo) Inflation Rate YoY",Low,,,,EUR
+"2022, June 10, 19:30","(United States) Core Inflation Rate YoY",High,,,,USD
+"2022, June 10, 19:30","(United States) Inflation Rate YoY",High,,,,USD
+"2022, June 10, 19:30","(United States) Inflation Rate MoM",Medium,,,,USD
+"2022, June 10, 19:30","(United States) Core Inflation Rate MoM",Medium,,,,USD
+"2022, June 10, 21:15","(El Salvador) Inflation Rate YoY",Low,,,,USD
+"2022, June 10, 21:15","(El Salvador) Inflation Rate Mom",Low,,0.4,,USD
+"2022, June 10, 23:00","(United States) WASDE Report",Low,,,,USD
+"2022, June 11, 00:00","(United States) Baker Hughes Total Rig Count",Low,,,,USD
+"2022, June 11, 00:00","(United States) Baker Hughes Oil Rig Count",Low,,,,USD
+"2022, June 11, 01:00","(United States) Monthly Budget Statement",Medium,,,,USD
+"2022, June 13, 20:00","(France) 12-Month BTF Auction",Low,,,,EUR
+"2022, June 13, 20:00","(France) 3-Month BTF Auction",Low,,,,EUR
+"2022, June 13, 20:00","(France) 6-Month BTF Auction",Low,,,,EUR
+"2022, June 13, 22:30","(United States) 3-Month Bill Auction",Low,,,,USD
+"2022, June 13, 22:30","(United States) 6-Month Bill Auction",Low,,,,USD
+"2022, June 14, 07:01","(Ireland) Construction PMI",Low,,,,EUR
+"2022, June 14, 12:00","(Finland) Inflation Rate YoY",Low,,,,EUR
+"2022, June 14, 12:00","(Finland) Inflation Rate MoM",Low,,,,EUR
+"2022, June 14, 13:00","(Germany) Harmonised Inflation Rate MoM",Low,,,,EUR
+"2022, June 14, 13:00","(Germany) Harmonised Inflation Rate YoY",Low,,,,EUR
+"2022, June 14, 13:00","(Germany) Inflation Rate MoM",Low,,,,EUR
+"2022, June 14, 13:00","(Germany) Inflation Rate YoY",Medium,,,,EUR
+"2022, June 14, 15:40","(Spain) 3-Month Letras Auction",Low,,,,EUR
+"2022, June 14, 16:00","(Euro Area) Industrial Production MoM",Medium,,,,EUR
+"2022, June 14, 16:00","(Euro Area) Industrial Production YoY",Low,,,,EUR
+"2022, June 14, 16:10","(Italy) 15-Year BTP Auction",Low,,,,EUR
+"2022, June 14, 16:10","(Italy) 3-Year BTP Auction",Low,,,,EUR
+"2022, June 14, 16:10","(Italy) 20-Year BTP Auction",Low,,,,EUR
+"2022, June 14, 16:10","(Italy) 7-Year BTP Auction",Low,,,,EUR
+"2022, June 14, 16:10","(Italy) 30-Year BTP Auction",Low,,,,EUR
+"2022, June 14, 16:30","(Germany) 2-Year Schatz Auction",Low,,,,EUR
+"2022, June 14, 17:00","(Luxembourg) GDP Growth Rate YoY",Low,,,,EUR
+"2022, June 14, 17:00","(Luxembourg) GDP Growth Rate QoQ",Low,,,,EUR
+"2022, June 14, 17:00","(Portugal) Inflation Rate MoM",Low,,,,EUR
+"2022, June 14, 17:00","(Portugal) Inflation Rate YoY",Low,,,,EUR
+"2022, June 14, 19:55","(United States) Redbook YoY",Low,,,,USD
+"2022, June 14, 22:00","(United States) Consumer Inflation Expectations",Low,,,,USD
+"2022, June 15, 03:30","(United States) API Crude Oil Stock Change",Medium,,,,USD
+"2022, June 15, 11:30","(Netherlands) Balance of Trade",Low,,,,EUR
+"2022, June 15, 12:00","(Finland) GDP YoY",Low,,,,EUR
+"2022, June 15, 13:00","(Germany) Wholesale Prices MoM",Medium,,,,EUR
+"2022, June 15, 13:00","(Germany) Wholesale Prices YoY",Medium,,,,EUR
+"2022, June 15, 13:45","(France) Inflation Rate MoM",Low,,,,EUR
+"2022, June 15, 13:45","(France) Inflation Rate YoY",Medium,,,,EUR
+"2022, June 15, 13:45","(France) Harmonised Inflation Rate MoM",Low,,,,EUR
+"2022, June 15, 13:45","(France) Harmonised Inflation Rate YoY",Low,,,,EUR
+"2022, June 15, 14:00","(Slovakia) Inflation Rate MoM",Low,,,,EUR
+"2022, June 15, 14:00","(Slovakia) Inflation Rate YoY",Low,,,,EUR
+"2022, June 15, 14:00","(Slovakia) Core Inflation Rate MoM",Low,,,,EUR
+"2022, June 15, 14:00","(Slovakia) Core Inflation Rate YoY",Low,,,,EUR
+"2022, June 15, 15:00","(Italy) Harmonised Inflation Rate MoM",Low,,,,EUR
+"2022, June 15, 15:00","(Italy) Harmonised Inflation Rate YoY",Low,,,,EUR
+"2022, June 15, 15:00","(Italy) Inflation Rate MoM",Low,,,,EUR
+"2022, June 15, 15:00","(Italy) Inflation Rate YoY",Medium,,,,EUR
+"2022, June 15, 15:00","(Lithuania) Current Account",Low,,,,EUR
+"2022, June 15, 15:00","(France) IEA Oil Market Report",Medium,,,,EUR
+"2022, June 15, 16:00","(Euro Area) Balance of Trade",Medium,,,,EUR
+"2022, June 15, 16:00","(Greece) Construction Output YoY",Low,,,,EUR
+"2022, June 15, 16:00","(Montenegro) Harmonised Inflation Rate YoY",Low,,,,EUR
+"2022, June 15, 16:00","(Montenegro) Inflation Rate YoY",Low,,,,EUR
+"2022, June 15, 16:00","(Greece) Unemployment Rate",High,,,,EUR
+"2022, June 15, 16:45","(European Union) 6-Month Bill Auction",Low,,,,EUR
+"2022, June 15, 16:45","(European Union) 3-Month Bill Auction",Low,,,,EUR
+"2022, June 15, 17:00","(Ireland) Balance of Trade",Low,,,,EUR
+"2022, June 15, 17:30","(Belgium) Balance of Trade",Low,,,,EUR
+"2022, June 15, 18:00","(United States) Mortgage Applications",Low,,,,USD
+"2022, June 15, 18:00","(United States) Mortgage Rate",Low,,,,USD
+"2022, June 15, 18:00","(United States) MBA Mortgage Refinance Index",Low,,,,USD
+"2022, June 15, 18:00","(United States) MBA Mortgage Market Index",Low,,,,USD
+"2022, June 15, 18:00","(United States) MBA Purchase Index",Low,,,,USD
+"2022, June 15, 19:30","(United States) PPI YoY",Low,,,,USD
+"2022, June 15, 19:30","(United States) PPI MoM",Medium,,,,USD
+"2022, June 15, 19:30","(United States) NY Empire State Manufacturing Index",Medium,,,,USD
+"2022, June 15, 19:30","(United States) Retail Sales YoY",High,,,,USD
+"2022, June 15, 19:30","(United States) Retail Sales Ex Autos MoM",High,,,,USD
+"2022, June 15, 19:30","(United States) Retail Sales MoM",High,,,,USD
+"2022, June 15, 19:30","(United States) Core PPI YoY",Low,,,,USD
+"2022, June 15, 19:30","(United States) Core PPI MoM",Low,,,,USD
+"2022, June 15, 19:30","(United States) Retail Sales Ex Gas/Autos MoM",High,,,,USD
+"2022, June 15, 20:15","(United States) Capacity Utilization",Low,,,,USD
+"2022, June 15, 20:15","(United States) Manufacturing Production YoY",Low,,,,USD
+"2022, June 15, 20:15","(United States) Industrial Production YoY",Medium,,,,USD
+"2022, June 15, 20:15","(United States) Industrial Production MoM",Medium,,,,USD
+"2022, June 15, 20:15","(United States) Manufacturing Production MoM",Low,,,,USD
+"2022, June 15, 21:00","(United States) Business Inventories MoM",Medium,,,,USD
+"2022, June 15, 21:00","(United States) NAHB Housing Market Index",Medium,,,,USD
+"2022, June 15, 21:00","(United States) Retail Inventories Ex Autos MoM",Low,,,,USD
+"2022, June 15, 21:30","(United States) EIA Crude Oil Stocks Change",Medium,,,,USD
+"2022, June 15, 21:30","(United States) EIA Gasoline Stocks Change",Medium,,,,USD
+"2022, June 15, 22:00","(Ecuador) Balance of Trade",Low,,,,USD
+"2022, June 16, 01:00","(United States) Fed Interest Rate Decision",High,,,,USD
+"2022, June 16, 01:00","(United States) FOMC Economic Projections",High,,,,USD
+"2022, June 16, 01:00","(United States) Interest Rate Projection - Longer",High,,,,USD
+"2022, June 16, 01:00","(United States) Interest Rate Projection - 3rd Yr",High,,,,USD
+"2022, June 16, 01:00","(United States) Interest Rate Projection - 2nd Yr",High,,,,USD
+"2022, June 16, 01:00","(United States) Interest Rate Projection - 1st Yr",High,,,,USD
+"2022, June 16, 01:00","(United States) Interest Rate Projection - Current",High,,,,USD
+"2022, June 16, 01:30","(United States) Fed Press Conference",High,,,,USD
+"2022, June 16, 03:00","(United States) Foreign Bond Investment",Medium,,,,USD
+"2022, June 16, 03:00","(United States) Net Long-term TIC Flows",Medium,,,,USD
+"2022, June 16, 03:00","(United States) Overall Net Capital Flows",Medium,,,,USD
+"2022, June 16, 07:00","(Euro Area) Eurogroup Meeting",Medium,,,,EUR
+"2022, June 16, 16:00","(Euro Area) Labour Cost Index YoY",Low,,,,EUR
+"2022, June 16, 16:00","(Euro Area) Wage Growth YoY",Low,,,,EUR
+"2022, June 16, 16:00","(Montenegro) GDP Growth Rate YoY",Low,,,,EUR
+"2022, June 16, 16:00","(France) 5-Year BTAN Auction",Low,,,,EUR
+"2022, June 16, 16:00","(France) 3-Year BTAN Auction",Low,,,,EUR
+"2022, June 16, 17:00","(Ireland) Residential Property Prices YoY",Low,,,,EUR
+"2022, June 16, 17:00","(Ireland) Residential Property Prices MoM",Low,,,,EUR
+"2022, June 16, 19:30","(United States) Housing Starts",Medium,,,,USD
+"2022, June 16, 19:30","(United States) Building Permits",High,,,,USD
+"2022, June 16, 19:30","(United States) Housing Starts MoM",Medium,,,,USD
+"2022, June 16, 19:30","(United States) Building Permits MoM",Medium,,,,USD
+"2022, June 16, 19:30","(United States) Import Prices YoY",Low,,,,USD
+"2022, June 16, 19:30","(United States) Export Prices YoY",Low,,,,USD
+"2022, June 16, 19:30","(United States) Import Prices MoM",Medium,,,,USD
+"2022, June 16, 19:30","(United States) Export Prices MoM",Medium,,,,USD
+"2022, June 16, 19:30","(United States) Jobless Claims 4-week Average",High,,,,USD
+"2022, June 16, 19:30","(United States) Continuing Jobless Claims",High,,,,USD
+"2022, June 16, 19:30","(United States) Initial Jobless Claims",High,,,,USD
+"2022, June 16, 19:30","(United States) Philly Fed Business Conditions",Low,,,,USD
+"2022, June 16, 19:30","(United States) Philly Fed CAPEX Index",Low,,,,USD
+"2022, June 16, 19:30","(United States) Philly Fed Employment",Low,,,,USD
+"2022, June 16, 19:30","(United States) Philly Fed New Orders",Low,,,,USD
+"2022, June 16, 19:30","(United States) Philly Fed Prices Paid",Low,,,,USD
+"2022, June 16, 21:30","(United States) EIA Natural Gas Stocks Change",Low,,,,USD
+"2022, June 16, 22:30","(United States) 8-Week Bill Auction",Low,,,,USD
+"2022, June 16, 22:30","(United States) 4-Week Bill Auction",Low,,,,USD
+"2022, June 17, 11:30","(Netherlands) Unemployment Rate",Medium,,,,EUR
+"2022, June 17, 13:00","(European Union) New Car Registrations YoY",Medium,,,,EUR
+"2022, June 17, 14:00","(Austria) Inflation Rate MoM",Low,,,,EUR
+"2022, June 17, 14:00","(Austria) Harmonised Inflation Rate YoY",Low,,,,EUR
+"2022, June 17, 14:00","(Austria) Harmonised Inflation Rate MoM",Low,,,,EUR
+"2022, June 17, 14:00","(Austria) Inflation Rate YoY",Low,,,,EUR
+"2022, June 17, 14:00","(Slovakia) Harmonised Inflation Rate YoY",Low,,,,EUR
+"2022, June 17, 14:00","(Slovakia) Harmonised Inflation Rate MoM",Low,,,,EUR
+"2022, June 17, 15:00","(Euro Area) Current Account",Low,,,,EUR
+"2022, June 17, 15:00","(Greece) Current Account",Low,,,,EUR
+"2022, June 17, 15:00","(Italy) Balance of Trade",Medium,,,,EUR
+"2022, June 17, 15:00","(Italy) Construction Output YoY",Low,,,,EUR
+"2022, June 17, 15:00","(Spain) Balance of Trade",Medium,,,,EUR
+"2022, June 17, 15:00","(European Union) EcoFin Meeting",Medium,,,,EUR
+"2022, June 17, 16:00","(Euro Area) Core Inflation Rate YoY",Medium,,,,EUR
+"2022, June 17, 16:00","(Euro Area) Inflation Rate YoY",Medium,,,,EUR
+"2022, June 17, 16:00","(Euro Area) Construction Output YoY",Medium,,,,EUR
+"2022, June 17, 16:00","(Euro Area) Inflation Rate MoM",Medium,,,,EUR
+"2022, June 17, 16:00","(Italy) Current Account",Low,,,,EUR
+"2022, June 17, 16:00","(Malta) Inflation Rate YoY",Low,,,,EUR
+"2022, June 17, 16:00","(Euro Area) CPI",High,,,,EUR
+"2022, June 17, 17:00","(Portugal) PPI YoY",Low,,,,EUR
+"2022, June 17, 17:00","(Portugal) Private Consumption YoY",Low,,,,EUR
+"2022, June 17, 17:00","(Portugal) PPI MoM",Low,,,,EUR
+"2022, June 17, 18:30","(Slovakia) Unemployment Rate",Low,,,,EUR
+"2022, June 17, 19:30","(United States) Philadelphia Fed Manufacturing Index",Medium,,,,USD
+"2022, June 17, 19:30","(Kosovo) Unemployment Rate",Low,,,,EUR
+"2022, June 17, 21:00","(United States) Treasury Secretary Yellen Testimony",Medium,,,,USD
+"2022, June 17, 21:00","(United States) CB Leading Index MoM",Low,,,,USD
+"2022, June 17, 21:00","(United States) Michigan Inflation Expectations",Low,,,,USD
+"2022, June 17, 21:00","(United States) Michigan Consumer Sentiment",High,,,,USD
+"2022, June 17, 21:00","(United States) Michigan Current Conditions",Low,,,,USD
+"2022, June 17, 21:00","(United States) Michigan 5 Year Inflation Expectations",Low,,,,USD
+"2022, June 17, 21:00","(United States) Michigan Consumer Expectations",Low,,,,USD
+"2022, June 18, 00:00","(United States) Baker Hughes Total Rig Count",Low,,,,USD
+"2022, June 18, 00:00","(United States) Baker Hughes Oil Rig Count",Low,,,,USD
+"2022, June 20, 13:00","(Germany) PPI YoY",Low,,,,EUR
+"2022, June 20, 13:00","(Germany) PPI MoM",Medium,,,,EUR
+"2022, June 20, 16:30","(Germany) 12-Month Bubill Auction",Low,,,,EUR
+"2022, June 20, 20:00","(France) 12-Month BTF Auction",Low,,,,EUR
+"2022, June 20, 20:00","(France) 6-Month BTF Auction",Low,,,,EUR
+"2022, June 20, 20:00","(France) 3-Month BTF Auction",Low,,,,EUR
+"2022, June 20, 21:30","(Slovenia) Unemployment Rate",Low,,,,EUR
+"2022, June 20, 22:30","(United States) 3-Month Bill Auction",Low,,,,USD
+"2022, June 20, 22:30","(United States) 6-Month Bill Auction",Low,,,,USD
+"2022, June 21, 09:00","(East Timor) Inflation Rate MoM",Low,,,,USD
+"2022, June 21, 12:00","(Estonia) PPI YoY",Low,,,,EUR
+"2022, June 21, 12:00","(Estonia) PPI MoM",Low,,,,EUR
+"2022, June 21, 15:30","(Slovenia) PPI YoY",Low,,,,EUR
+"2022, June 21, 16:00","(Belgium) Consumer Confidence",Low,,,,EUR
+"2022, June 21, 16:00","(Luxembourg) Unemployment Rate",Low,,,,EUR
+"2022, June 21, 17:00","(Latvia) PPI YoY",Low,,,,EUR
+"2022, June 21, 17:00","(Latvia) PPI MoM",Low,,,,EUR
+"2022, June 21, 18:00","(Slovakia) Current Account",Low,,,,EUR
+"2022, June 21, 19:30","(United States) Chicago Fed National Activity Index",Medium,,,,USD
+"2022, June 21, 19:55","(United States) Redbook YoY",Low,,,,USD
+"2022, June 22, 03:30","(United States) API Crude Oil Stock Change",Medium,,,,USD
+"2022, June 22, 06:01","(Ireland) Consumer Confidence",Low,,,,EUR
+"2022, June 22, 11:30","(Netherlands) Household Consumption YoY",Low,,,,EUR
+"2022, June 22, 11:30","(Netherlands) Consumer Confidence",Medium,,,,EUR
+"2022, June 22, 12:00","(Finland) Unemployment Rate",Low,,,,EUR
+"2022, June 22, 14:00","(Euro Area) ECB Non-Monetary Policy Meeting",Medium,,,,EUR
+"2022, June 22, 15:00","(Italy) Industrial Sales YoY",Low,,,,EUR
+"2022, June 22, 15:00","(Italy) Industrial Sales MoM",Low,,,,EUR
+"2022, June 22, 15:30","(Slovenia) Consumer Confidence",Low,,,,EUR
+"2022, June 22, 16:30","(Germany) 15-Year Bund Auction",Low,,,,EUR
+"2022, June 22, 17:00","(Ireland) Wholesale Prices MoM",Low,,,,EUR
+"2022, June 22, 17:00","(Ireland) Wholesale Prices YoY",Low,,,,EUR
+"2022, June 22, 17:30","(Portugal) Current Account",Low,,,,EUR
+"2022, June 22, 18:00","(United States) Mortgage Applications",Low,,,,USD
+"2022, June 22, 18:00","(United States) Mortgage Rate",Low,,,,USD
+"2022, June 22, 18:00","(United States) MBA Mortgage Refinance Index",Low,,,,USD
+"2022, June 22, 18:00","(United States) MBA Mortgage Market Index",Low,,,,USD
+"2022, June 22, 18:00","(United States) MBA Purchase Index",Low,,,,USD
+"2022, June 22, 21:00","(Euro Area) Consumer Confidence",Medium,,,,EUR
+"2022, June 22, 21:00","(United States) Existing Home Sales",High,,,,USD
+"2022, June 22, 21:00","(United States) Richmond Fed Manufacturing Index",Low,,,,USD
+"2022, June 22, 21:00","(United States) Existing Home Sales MoM",High,,,,USD
+"2022, June 22, 21:30","(United States) EIA Crude Oil Stocks Change",Medium,,,,USD
+"2022, June 22, 21:30","(United States) EIA Gasoline Stocks Change",Medium,,,,USD
+"2022, June 23, 13:00","(Lithuania) Industrial Production MoM",Low,,,,EUR
+"2022, June 23, 13:00","(Lithuania) Industrial Production YoY",Low,,,,EUR
+"2022, June 23, 14:00","(Euro Area) ECB General Council Meeting",Medium,,,,EUR
+"2022, June 23, 14:15","(France) Markit Composite PMI",Low,,,,EUR
+"2022, June 23, 14:15","(France) Markit Services PMI",Medium,,,,EUR
+"2022, June 23, 14:15","(France) Markit Manufacturing PMI",Medium,,,,EUR
+"2022, June 23, 14:30","(Germany) Markit Composite PMI",High,,,,EUR
+"2022, June 23, 14:30","(Germany) Markit Services PMI",High,,,,EUR
+"2022, June 23, 14:30","(Germany) Markit Manufacturing PMI",High,,,,EUR
+"2022, June 23, 15:00","(Euro Area) Markit Composite PMI",High,,,,EUR
+"2022, June 23, 15:00","(Euro Area) Markit Services PMI",High,,,,EUR
+"2022, June 23, 15:00","(Euro Area) Markit Manufacturing PMI",High,,,,EUR
+"2022, June 23, 15:00","(European Union) European Council Meeting",Medium,,,,EUR
+"2022, June 23, 17:00","(Ireland) Unemployment Rate",Low,,,,EUR
+"2022, June 23, 19:30","(United States) Current Account",Medium,,,,USD
+"2022, June 23, 19:30","(United States) Jobless Claims 4-week Average",High,,,,USD
+"2022, June 23, 19:30","(United States) Continuing Jobless Claims",High,,,,USD
+"2022, June 23, 19:30","(United States) Initial Jobless Claims",High,,,,USD
+"2022, June 23, 20:00","(Kosovo) GDP Growth Rate YoY",Low,,,,EUR
+"2022, June 23, 20:45","(United States) Markit Manufacturing PMI",High,,,,USD
+"2022, June 23, 20:45","(United States) Markit Services PMI",High,,,,USD
+"2022, June 23, 20:45","(United States) Markit Composite PMI",High,,,,USD
+"2022, June 23, 21:00","(United States) New Home Sales MoM",High,,,,USD
+"2022, June 23, 21:00","(United States) New Home Sales",High,,,,USD
+"2022, June 23, 21:30","(United States) EIA Natural Gas Stocks Change",Low,,,,USD
+"2022, June 23, 22:00","(United States) Kansas Fed Composite Index",Low,,,,USD
+"2022, June 23, 22:30","(United States) 8-Week Bill Auction",Low,,,,USD
+"2022, June 23, 22:30","(United States) 4-Week Bill Auction",Low,,,,USD
+"2022, June 24, 11:30","(Netherlands) GDP Growth Rate YoY",Medium,,,,EUR
+"2022, June 24, 11:30","(Netherlands) GDP Growth Rate QoQ",Medium,,,,EUR
+"2022, June 24, 12:00","(Finland) Export Prices YoY",Low,,,,EUR
+"2022, June 24, 12:00","(Finland) Import Prices YoY",Low,,,,EUR
+"2022, June 24, 12:00","(Finland) PPI YoY",Low,,,,EUR
+"2022, June 24, 13:00","(Germany) GfK Consumer Confidence",High,,,,EUR
+"2022, June 24, 13:45","(France) Business Confidence",Medium,,,,EUR
+"2022, June 24, 13:45","(France) Business Climate Indicator",Low,,,,EUR
+"2022, June 24, 14:00","(Spain) GDP Growth Rate YoY",Medium,,,,EUR
+"2022, June 24, 14:00","(Spain) GDP Growth Rate QoQ",Medium,,,,EUR
+"2022, June 24, 14:00","(Spain) PPI YoY",Low,,,,EUR
+"2022, June 24, 15:00","(Euro Area) Loans to Companies YoY",Low,,,,EUR
+"2022, June 24, 15:00","(Euro Area) M3 Money Supply YoY",Low,,,,EUR
+"2022, June 24, 15:00","(Euro Area) Loans to Households YoY",Low,,,,EUR
+"2022, June 24, 15:00","(Germany) Ifo Expectations",Low,,,,EUR
+"2022, June 24, 15:00","(Germany) Ifo Business Climate",High,,,,EUR
+"2022, June 24, 15:00","(Germany) Ifo Current Conditions",Low,,,,EUR
+"2022, June 24, 15:00","(Italy) Business Confidence",Medium,,,,EUR
+"2022, June 24, 15:00","(Italy) Consumer Confidence",Medium,,,,EUR
+"2022, June 24, 15:00","(European Union) European Council Meeting",Medium,,,,EUR
+"2022, June 24, 15:30","(Slovenia) Business Confidence",Low,,,,EUR
+"2022, June 24, 15:30","(Slovenia) Tourist Arrivals",Low,,,,EUR
+"2022, June 24, 17:00","(France) Jobseekers Total",Low,,,,EUR
+"2022, June 24, 17:00","(France) Unemployment Benefit Claims",Medium,,,,EUR
+"2022, June 24, 17:00","(Luxembourg) Current Account",Low,,,,EUR
+"2022, June 24, 17:15","(Greece) Total Credit YoY",Low,,,,EUR
+"2022, June 24, 17:30","(Malta) Unemployment Rate",Low,,,,EUR
+"2022, June 24, 17:45","(Netherlands) Current Account",Low,,,,EUR
+"2022, June 24, 17:50","(Kosovo) Balance of Trade",Low,,,,EUR
+"2022, June 24, 19:30","(United States) Core PCE Prices QoQ",Low,,,,USD
+"2022, June 24, 19:30","(United States) PCE Prices QoQ",Low,,,,USD
+"2022, June 24, 19:30","(United States) GDP Price Index QoQ",Medium,,,,USD
+"2022, June 24, 19:30","(United States) Corporate Profits QoQ",Medium,,,,USD
+"2022, June 24, 19:30","(United States) GDP Growth Rate QoQ",Medium,,,,USD
+"2022, June 24, 19:30","(United States) Durable Goods Orders MoM",High,,,,USD
+"2022, June 24, 19:30","(United States) Durable Goods Orders ex Defense MoM",High,,,,USD
+"2022, June 24, 19:30","(United States) Durable Goods Orders Ex Transp MoM",High,,,,USD
+"2022, June 24, 19:30","(United States) Goods Trade Balance",High,,,,USD
+"2022, June 24, 19:30","(United States) Wholesale Inventories MoM",Medium,,,,USD
+"2022, June 24, 19:30","(United States) Core PCE Price Index YoY",Low,,,,USD
+"2022, June 24, 19:30","(United States) Core PCE Price Index MoM",Low,,,,USD
+"2022, June 24, 19:30","(United States) PCE Price Index YoY",Medium,,,,USD
+"2022, June 24, 19:30","(United States) PCE Price Index MoM",Medium,,,,USD
+"2022, June 24, 19:30","(United States) Personal Income MoM",High,,,,USD
+"2022, June 24, 19:30","(United States) Personal Spending MoM",High,,,,USD
+"2022, June 24, 20:00","(Belgium) Business Confidence",Low,,,,EUR
+"2022, June 24, 21:00","(United States) Michigan Consumer Sentiment",High,,,,USD
+"2022, June 24, 21:00","(United States) Michigan Consumer Expectations",Low,,,,USD
+"2022, June 24, 21:00","(United States) Michigan Current Conditions",Low,,,,USD
+"2022, June 24, 21:00","(United States) Michigan 5 Year Inflation Expectations",Low,,,,USD
+"2022, June 24, 21:00","(United States) Michigan Inflation Expectations",Low,,,,USD
+"2022, June 24, 22:00","(United States) Kansas Fed Manufacturing Index",Low,,,,USD
+"2022, June 24, 22:30","(El Salvador) Balance of Trade",Low,,,,USD
+"2022, June 25, 00:00","(United States) Baker Hughes Total Rig Count",Low,,,,USD
+"2022, June 25, 00:00","(United States) Baker Hughes Oil Rig Count",Low,,,,USD
+"2022, June 27, 16:45","(European Union) EU Bond Auction",Low,,,,EUR
+"2022, June 27, 19:30","(United States) Non Defense Goods Orders Ex Air",Low,,,,USD
+"2022, June 27, 20:00","(France) 12-Month BTF Auction",Low,,,,EUR
+"2022, June 27, 20:00","(France) 3-Month BTF Auction",Low,,,,EUR
+"2022, June 27, 20:00","(France) 6-Month BTF Auction",Low,,,,EUR
+"2022, June 27, 21:00","(United States) Pending Home Sales YoY",Medium,,,,USD
+"2022, June 27, 21:00","(United States) Pending Home Sales MoM",Medium,,,,USD
+"2022, June 27, 22:30","(United States) 3-Month Bill Auction",Low,,,,USD
+"2022, June 27, 22:30","(United States) 6-Month Bill Auction",Low,,,,USD
+"2022, June 28, 09:00","(East Timor) Inflation Rate YoY",Low,,,,USD
+"2022, June 28, 12:00","(Finland) Consumer Confidence",Low,,,,EUR
+"2022, June 28, 13:00","(Germany) Import Prices MoM",Low,,,,EUR
+"2022, June 28, 13:00","(Germany) Import Prices YoY",Low,,,,EUR
+"2022, June 28, 13:00","(Lithuania) Retail Sales YoY",Low,,,,EUR
+"2022, June 28, 13:00","(Lithuania) Retail Sales MoM",Low,,,,EUR
+"2022, June 28, 15:00","(Austria) Bank Austria Manufacturing PMI",High,,,,EUR
+"2022, June 28, 15:30","(Slovenia) Retail Sales YoY",Low,,,,EUR
+"2022, June 28, 15:30","(Slovenia) Retail Sales MoM",Low,,,,EUR
+"2022, June 28, 17:00","(Ireland) Retail Sales MoM",Low,,,,EUR
+"2022, June 28, 17:00","(Ireland) Retail Sales YoY",Low,,,,EUR
+"2022, June 28, 19:55","(United States) Redbook YoY",Low,,,,USD
+"2022, June 28, 21:30","(United States) Dallas Fed Manufacturing Index",Medium,,,,USD
+"2022, June 29, 03:30","(United States) API Crude Oil Stock Change",Medium,,,,USD
+"2022, June 29, 11:30","(Netherlands) Business Confidence",Low,,,,EUR
+"2022, June 29, 13:45","(France) Consumer Confidence",Medium,,,,EUR
+"2022, June 29, 14:00","(Slovakia) Consumer Confidence",Low,,,,EUR
+"2022, June 29, 14:00","(Slovakia) Business Confidence",Low,,,,EUR
+"2022, June 29, 14:00","(Spain) Inflation Rate MoM",Low,,,,EUR
+"2022, June 29, 14:00","(Spain) Inflation Rate YoY",Low,,,,EUR
+"2022, June 29, 14:00","(Spain) Retail Sales YoY",High,,,,EUR
+"2022, June 29, 14:00","(Spain) Retail Sales MoM",High,,,,EUR
+"2022, June 29, 14:00","(Spain) Harmonised Inflation Rate YoY",Low,,,,EUR
+"2022, June 29, 14:00","(Spain) Harmonised Inflation Rate MoM",Low,,,,EUR
+"2022, June 29, 15:30","(Portugal) Consumer Confidence",Low,,,,EUR
+"2022, June 29, 15:30","(Portugal) Business Confidence",Low,,,,EUR
+"2022, June 29, 16:00","(Austria) Business Confidence",Low,,,,EUR
+"2022, June 29, 16:00","(Austria) Consumer Confidence",Low,,,,EUR
+"2022, June 29, 16:00","(Cyprus) Business Confidence",Low,,,,EUR
+"2022, June 29, 16:00","(Cyprus) Consumer Confidence",Low,,,,EUR
+"2022, June 29, 16:00","(Euro Area) Consumer Inflation Expectations",Low,,,,EUR
+"2022, June 29, 16:00","(Euro Area) Economic Sentiment",Medium,,,,EUR
+"2022, June 29, 16:00","(Euro Area) Consumer Confidence",Medium,,,,EUR
+"2022, June 29, 16:00","(Euro Area) Services Sentiment",Low,,,,EUR
+"2022, June 29, 16:00","(Euro Area) Industrial Sentiment",Low,,,,EUR
+"2022, June 29, 16:00","(Finland) Business Confidence",Low,,,,EUR
+"2022, June 29, 16:00","(Greece) Consumer Confidence",Low,,,,EUR
+"2022, June 29, 16:00","(Greece) Business Confidence",Low,,,,EUR
+"2022, June 29, 16:00","(Luxembourg) Balance of Trade",Low,,,,EUR
+"2022, June 29, 16:00","(Luxembourg) Business Confidence",Low,,,,EUR
+"2022, June 29, 16:00","(Luxembourg) Consumer Confidence",Low,,,,EUR
+"2022, June 29, 16:00","(Malta) Business Confidence",Low,,,,EUR
+"2022, June 29, 16:00","(Malta) Business Confidence",Low,,,,EUR
+"2022, June 29, 16:00","(Malta) Consumer Confidence",Low,,,,EUR
+"2022, June 29, 16:00","(Montenegro) Balance of Trade",Low,,,,EUR
+"2022, June 29, 16:30","(Belgium) Inflation Rate MoM",Low,,,,EUR
+"2022, June 29, 16:30","(Belgium) Inflation Rate YoY",Low,,,,EUR
+"2022, June 29, 16:30","(Cyprus) Wage Growth YoY",Low,,,,EUR
+"2022, June 29, 16:30","(Cyprus) Industrial Production YoY",Low,,,,EUR
+"2022, June 29, 17:00","(France) Unemployment Rate",Medium,,,,EUR
+"2022, June 29, 17:00","(Latvia) Retail Sales MoM",Low,,,,EUR
+"2022, June 29, 17:00","(Latvia) Retail Sales YoY",Low,,,,EUR
+"2022, June 29, 17:00","(Portugal) Retail Sales YoY",Low,,,,EUR
+"2022, June 29, 17:00","(Portugal) Retail Sales MoM",Low,,,,EUR
+"2022, June 29, 18:00","(United States) Mortgage Applications",Low,,,,USD
+"2022, June 29, 18:00","(United States) Mortgage Rate",Low,,,,USD
+"2022, June 29, 18:00","(United States) MBA Mortgage Refinance Index",Low,,,,USD
+"2022, June 29, 18:00","(United States) MBA Mortgage Market Index",Low,,,,USD
+"2022, June 29, 18:00","(United States) MBA Purchase Index",Low,,,,USD
+"2022, June 29, 18:20","(Spain) Business Confidence",Medium,,,,EUR
+"2022, June 29, 19:00","(Germany) Harmonised Inflation Rate YoY",Low,,,,EUR
+"2022, June 29, 19:00","(Germany) Harmonised Inflation Rate MoM",Low,,,,EUR
+"2022, June 29, 19:00","(Germany) Inflation Rate MoM",Low,,,,EUR
+"2022, June 29, 19:00","(Germany) Inflation Rate YoY",Medium,,,,EUR
+"2022, June 29, 20:00","(United States) S&P/Case-Shiller Home Price MoM",Low,,,,USD
+"2022, June 29, 20:00","(United States) S&P/Case-Shiller Home Price YoY",Medium,,,,USD
+"2022, June 29, 20:00","(United States) House Price Index MoM",Low,,,,USD
+"2022, June 29, 20:00","(United States) House Price Index YoY",Low,,,,USD
+"2022, June 29, 21:00","(United States) CB Consumer Confidence",Medium,,,,USD
+"2022, June 29, 21:30","(United States) EIA Crude Oil Stocks Change",Medium,,,,USD
+"2022, June 29, 21:30","(United States) EIA Gasoline Stocks Change",Medium,,,,USD
+
